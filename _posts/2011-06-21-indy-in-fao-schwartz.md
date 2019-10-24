@@ -3,7 +3,7 @@ id: 207
 title: Indy in FAO Schwartz
 date: 2011-06-21T08:30:00+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: http://www.7pillarsofwisdom.co.uk/indy-in-tao-schwartz/
 permalink: /indy-in-fao-schwartz/
 geo_latitude:
@@ -15,7 +15,7 @@ geo_public:
 categories:
   - Meandering
 ---
-<img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://35.176.43.170/wp-content/uploads/2011/06/wpid-IMAG0222-1.jpg" />
+<img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://35.176.43.170/images/uploads/2011/06/wpid-IMAG0222-1.jpg" />
 
 Throw me the idol&#8230;&#8230;
 

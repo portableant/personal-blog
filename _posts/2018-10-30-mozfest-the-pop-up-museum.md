@@ -3,14 +3,14 @@ id: 514
 title: '#Mozfest: the pop up museum'
 date: 2018-10-30T12:25:59+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: https://D3592AC0-38DF-4B4F-8E11-E4DB3FCF35F4
 permalink: /mozfest-the-pop-up-museum/
 wtr-disable-reading-progress:
   - ""
 wtr-disable-time-commitment:
   - ""
-image: /wp-content/uploads/2018/10/44701677975_69ceeaa570_k.jpg
+image: /images/uploads/2018/10/44701677975_69ceeaa570_k.jpg
 categories:
   - museums
   - Techie stuff
@@ -31,7 +31,7 @@ Mozfest is a wonderful event that brings people together from all round the worl
   <p>
     MozFest has something for everyone. You’ll find a diverse set of sessions and spaces where you will meet, make, and learn with others. Jump into an interactive session for some hands-on building. Join a small group discussion and debate the most pressing issues facing the Internet today. Or simply wander the festival and take in all the ongoing displays to explore at your own speed.
   </p>
-  
+
   <cite><a href="https://mozillafestival.org/why-come-to-mozfest">Why come to Mozfest?</a></cite>
 </blockquote>
 
@@ -41,11 +41,11 @@ Mozfest is truly high energy, highly mind expanding and very different to any cu
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
     <p lang="en" dir="ltr">
       <a href="https://twitter.com/hashtag/mozfest?src=hash&ref_src=twsrc%5Etfw">#mozfest</a> opening rap part 1 <a href="https://t.co/1QfR3XYyYG">pic.twitter.com/1QfR3XYyYG</a>
-    </p>&mdash; Daniel Pett (@DEJPett) 
-    
+    </p>&mdash; Daniel Pett (@DEJPett)
+
     <a href="https://twitter.com/DEJPett/status/1056275200252264449?ref_src=twsrc%5Etfw">October 27, 2018</a>
   </blockquote>
-</div></figure> 
+</div></figure>
 
 ### Our attendance record
 
@@ -75,7 +75,7 @@ Our table was set up on the 7th floor of the 9 active floors of Ravensbourne and
 
 We were also fortunate to be joined by people who wanted to show their own museum derived creations. For example,&nbsp;[Roy Rodenhaeuser](https://twitter.com/RoyRodenhaeuser) and [Eleonora Bacchi](https://twitter.com/EleonoraBacchi) of [Dymon Lab](https://www.dymonlab.com/) brought their recoloured Maya panel AR application to show the assembled throng of people. Brilliant stuff and a simple way of enhancing museum visitor experience. Having people bring their things to us, made our event intervention a far more collaborative event and I hope we can repeat this in future.&nbsp;<figure class="wp-block-image">
 
-<img src="http://museologi.st/wp-content/uploads/2018/10/43797819330_3916327fd1_k.jpg" alt="" class="wp-image-517" srcset="https://museologi.st/wp-content/uploads/2018/10/43797819330_3916327fd1_k.jpg 2048w, https://museologi.st/wp-content/uploads/2018/10/43797819330_3916327fd1_k-300x169.jpg 300w, https://museologi.st/wp-content/uploads/2018/10/43797819330_3916327fd1_k-768x432.jpg 768w, https://museologi.st/wp-content/uploads/2018/10/43797819330_3916327fd1_k-1024x576.jpg 1024w" sizes="(max-width: 2048px) 100vw, 2048px" /> <figcaption>Roy shows off the recolouring of the Maya panel</figcaption></figure> 
+<img src="http://museologi.st/images/uploads/2018/10/43797819330_3916327fd1_k.jpg" alt="" class="wp-image-517" srcset="https://museologi.st/images/uploads/2018/10/43797819330_3916327fd1_k.jpg 2048w, https://museologi.st/images/uploads/2018/10/43797819330_3916327fd1_k-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/43797819330_3916327fd1_k-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/43797819330_3916327fd1_k-1024x576.jpg 1024w" sizes="(max-width: 2048px) 100vw, 2048px" /> <figcaption>Roy shows off the recolouring of the Maya panel</figcaption></figure>
 
 More photos of what we got up to are available on Flickr.&nbsp;
 
@@ -85,11 +85,11 @@ More photos of what we got up to are available on Flickr.&nbsp;
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
     <p lang="en" dir="ltr">
       <a href="https://twitter.com/hashtag/mozfest?src=hash&ref_src=twsrc%5Etfw">#mozfest</a> pop up museum will have delayed opening due to jubilee line tech failure. Bringing the real museum operating flaws to ravensbourne college&#8230;
-    </p>&mdash; Daniel Pett (@DEJPett) 
-    
+    </p>&mdash; Daniel Pett (@DEJPett)
+
     <a href="https://twitter.com/DEJPett/status/1056494441320595456?ref_src=twsrc%5Etfw">October 28, 2018</a>
   </blockquote>
-</div></figure> 
+</div></figure>
 
 On the Sunday (following horrendous train troubles getting people to the venue), at the suggestion of Philo, we had an open chat for 1 hour around how we, the [#openGLAM](https://openglam.org/) community could obtain a higher profile at the next Mozfest and beyond. The group that came together included attendees of Mozfest and not just the organisers of the popup, we weren&#8217;t just a little echo chamber. We were lucky to be joined by [Andrew Prescott](https://twitter.com/Ajprescott) and his colleague Luca, [Kat Braybrooke](https://twitter.com/codekat) and [Hannah Winn](https://twitter.com/HannahWinn3) amongst others (once they had navigated the leave an empty chair policy to enable others to join.)<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
@@ -97,11 +97,11 @@ On the Sunday (following horrendous train troubles getting people to the venue),
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
     <p lang="en" dir="ltr">
       Nice to see so many positive new community projects in the works at this year's <a href="https://twitter.com/hashtag/Mozfest?src=hash&ref_src=twsrc%5Etfw">#Mozfest</a>. Highlights: Meeting <a href="https://twitter.com/hashtag/openGLAM?src=hash&ref_src=twsrc%5Etfw">#openGLAM</a> folk and their excellent Pop-Up Museum; the Art+Data exhibit; the entire 'Inclusivity' stream; seeing many <a href="https://twitter.com/mozilla?ref_src=twsrc%5Etfw">@mozilla</a> and <a href="https://twitter.com/hashtag/opensource?src=hash&ref_src=twsrc%5Etfw">#opensource</a> faces whom I've missed. 🎉 <a href="https://t.co/IuYwUf4Bfm">pic.twitter.com/IuYwUf4Bfm</a>
-    </p>&mdash; kat▇▇braybrooke▇ (@codekat) 
-    
+    </p>&mdash; kat▇▇braybrooke▇ (@codekat)
+
     <a href="https://twitter.com/codekat/status/1056596037060755457?ref_src=twsrc%5Etfw">October 28, 2018</a>
   </blockquote>
-</div></figure> 
+</div></figure>
 
 Between us, we hope to work together to create co-ordinated GLAM proposals (including child friendly programming) for the next Mozfest and to investigate how to get a track or larger theme running. Perhaps your museum or creative industry would like to join us? Let me, or Philo know if you do.&nbsp;
 

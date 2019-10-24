@@ -3,7 +3,7 @@ id: 11
 title: Experiments
 date: 2006-12-27T11:38:27+01:00
 author: Dan
-layout: post
+layout: home
 guid: http://www.7pillarsofwisdom.co.uk/2006/experiments/
 permalink: /experiments/
 oc_commit_id:

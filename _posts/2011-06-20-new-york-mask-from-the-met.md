@@ -3,7 +3,7 @@ id: 204
 title: 'New York &#8211; mask from the Met'
 date: 2011-06-20T05:03:15+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: http://www.7pillarsofwisdom.co.uk/?p=204
 permalink: /new-york-mask-from-the-met/
 categories:

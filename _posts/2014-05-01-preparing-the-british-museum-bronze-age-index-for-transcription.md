@@ -3,7 +3,7 @@ id: 269
 title: Preparing the British Museum Bronze Age index for transcription
 date: 2014-05-01T09:00:58+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: http://www.7pillarsofwisdom.co.uk/?p=269
 permalink: /preparing-the-british-museum-bronze-age-index-for-transcription/
 categories:
@@ -15,7 +15,7 @@ Originally published at: http://research.micropasts.org/2014/04/30/preparing-the
 Since late 2013, the MicroPasts team has been preparing the [British Museum](http://britishmuseum.org)&#8216;s (BM) Bronze Age Index to be the first offering on our [crowd-sourcing platform](http://crowdsourced.micropasts.org "The MicroPasts crowd sourcing platform"). This corpus consists of around 30,000 (roughly A4 sized) cards (holding information going back to as early as 1913).  The majority of these are double sided and generally have text on the front and a line drawing on the reverse (there are many variants that have been discovered, such as large fold out shield plans.)
 
 <div id="attachment_521" style="width: 310px" class="wp-caption alignright">
-  <a href="http://research.micropasts.org/wp-content/uploads/sites/2/2014/04/MicroPasts-·-Application-British-Museum-Bronze-Age-Index-Drawer-B16-·-Contribute.png" data-rel="lightbox-gallery-GCN8g4F4" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-521" class="wp-image-521 size-medium" src="http://research.micropasts.org/wp-content/uploads/sites/2/2014/04/MicroPasts-·-Application-British-Museum-Bronze-Age-Index-Drawer-B16-·-Contribute-300x213.png" alt="MicroPasts · Application  British Museum Bronze Age Index Drawer B16 · Contribute" width="300" height="213" /></a>
+  <a href="http://research.micropasts.org/images/uploads/sites/2/2014/04/MicroPasts-·-Application-British-Museum-Bronze-Age-Index-Drawer-B16-·-Contribute.png" data-rel="lightbox-gallery-GCN8g4F4" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-521" class="wp-image-521 size-medium" src="http://research.micropasts.org/images/uploads/sites/2/2014/04/MicroPasts-·-Application-British-Museum-Bronze-Age-Index-Drawer-B16-·-Contribute-300x213.png" alt="MicroPasts · Application  British Museum Bronze Age Index Drawer B16 · Contribute" width="300" height="213" /></a>
   
   <p id="caption-attachment-521" class="wp-caption-text">
     The Crowd sourcing platform

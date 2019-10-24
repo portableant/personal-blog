@@ -3,7 +3,7 @@ id: 367
 title: 'Google Search Appliance British Museum install'
 date: 2016-11-21T14:00:08+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: http://www.7pillarsofwisdom.co.uk/?p=367
 permalink: /google-search-appliance-british-museum-install/
 wtr-disable-reading-progress:

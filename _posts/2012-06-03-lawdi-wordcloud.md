@@ -3,7 +3,7 @@ id: 234
 title: LAWDI wordcloud
 date: 2012-06-03T12:38:15+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: http://www.7pillarsofwisdom.co.uk/?p=234
 permalink: /lawdi-wordcloud/
 categories:

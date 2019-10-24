@@ -3,7 +3,7 @@ id: 232
 title: The Met, NYC
 date: 2012-06-01T12:37:01+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: http://www.7pillarsofwisdom.co.uk/?p=232
 permalink: /mini-effect-in-the-met/
 wtr-disable-reading-progress:

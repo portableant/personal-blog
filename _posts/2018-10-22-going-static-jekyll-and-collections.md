@@ -3,14 +3,14 @@ id: 466
 title: 'Going static: Jekyll and collections'
 date: 2018-10-22T22:04:17+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: https://4C800C11-27ED-46F9-9CE3-5E8385B26762
 permalink: /going-static-jekyll-and-collections/
 wtr-disable-reading-progress:
   - ""
 wtr-disable-time-commitment:
   - ""
-image: /wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-23.10.04.png
+image: /images/uploads/2018/10/Screen-Shot-2018-10-22-at-23.10.04.png
 categories:
   - Techie stuff
 tags:
@@ -18,7 +18,7 @@ tags:
   - ruby
   - tutorial
 ---
-<figure class="wp-block-image"><img src="https://museologi.st/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-23.10.04.png" alt="" class="wp-image-473" srcset="https://museologi.st/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-23.10.04.png 1858w, https://museologi.st/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-23.10.04-300x222.png 300w, https://museologi.st/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-23.10.04-768x569.png 768w, https://museologi.st/wp-content/uploads/2018/10/Screen-Shot-2018-10-22-at-23.10.04-1024x758.png 1024w" sizes="(max-width: 1858px) 100vw, 1858px" /></figure> 
+<figure class="wp-block-image"><img src="https://museologi.st/images/uploads/2018/10/Screen-Shot-2018-10-22-at-23.10.04.png" alt="" class="wp-image-473" srcset="https://museologi.st/images/uploads/2018/10/Screen-Shot-2018-10-22-at-23.10.04.png 1858w, https://museologi.st/images/uploads/2018/10/Screen-Shot-2018-10-22-at-23.10.04-300x222.png 300w, https://museologi.st/images/uploads/2018/10/Screen-Shot-2018-10-22-at-23.10.04-768x569.png 768w, https://museologi.st/images/uploads/2018/10/Screen-Shot-2018-10-22-at-23.10.04-1024x758.png 1024w" sizes="(max-width: 1858px) 100vw, 1858px" /></figure> 
 
 At the Fitzwilliam Museum, we have a large amount of old websites that were built over the last decade. Many of these are now presenting security risks as they are on old WordPress installations, or they are just plain hand coded HTML. To alleviate the burden for supporting these sites, I have been transferring as much as possible to [Jekyll](https://jekyllrb.com/) powered Github Pages instances (although I am also looking at [Gatsby](https://gatsbyjs.com)).&nbsp;
 
@@ -85,7 +85,7 @@ If you look at the plugins section, you will see I have asked for feed, sitemap,
 
 Now edit this file and add the following at the top:
 
-<pre class="wp-block-preformatted">--- <br />layout: post <br />author: your name <br />url: tutorials/introduction <br />---</pre>
+<pre class="wp-block-preformatted">--- <br />layout: home <br />author: your name <br />url: tutorials/introduction <br />---</pre>
 
 Save the file and then you can test to see if this has worked:
 

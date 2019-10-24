@@ -3,7 +3,7 @@ id: 554
 title: 3-D Modelling Workshops﻿
 date: 2018-11-08T17:25:31+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: https://94CE827A-D493-4E13-8670-66A61A5AADCA
 permalink: '/3-d-modelling-workshops%ef%bb%bf/'
 wtr-disable-reading-progress:

@@ -3,7 +3,7 @@ id: 220
 title: 'Lost Change: mapping coins from the Portable Antiquities Scheme'
 date: 2014-02-19T17:08:06+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: http://www.7pillarsofwisdom.co.uk/?p=220
 permalink: /lostchange/
 wtr-disable-reading-progress:

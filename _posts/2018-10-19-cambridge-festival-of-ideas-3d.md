@@ -4,14 +4,14 @@ title: 'Cambridge Festival of Ideas: 3D'
 date: 2018-10-19T07:18:53+01:00
 author: Daniel Pett
 excerpt: Yesterday at the Museum of Classical Archaeology, I led a session to teach members of the public how to create 3D models using Structure from Motion.
-layout: post
+layout: home
 guid: https://5188580C-B1C0-4618-A024-E09EA644A57F
 permalink: /cambridge-festival-of-ideas-3d/
 wtr-disable-reading-progress:
   - ""
 wtr-disable-time-commitment:
   - ""
-image: /wp-content/uploads/2018/10/dots.jpg
+image: /images/uploads/2018/10/dots.jpg
 categories:
   - archaeology
   - museums

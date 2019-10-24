@@ -3,7 +3,7 @@ id: 486
 title: A day in the life of a lot of archaeologists
 date: 2011-07-27T11:09:21+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: https://DCD4EB05-18BD-435C-BCD4-2A2B4E2369A1
 permalink: /a-day-in-the-life-of-a-lot-of-archaeologists/
 wtr-disable-reading-progress:

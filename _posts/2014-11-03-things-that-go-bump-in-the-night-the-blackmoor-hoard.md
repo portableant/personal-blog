@@ -3,7 +3,7 @@ id: 483
 title: 'Things that go bump in the night: the Blackmoor hoard'
 date: 2014-11-03T09:58:20+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: https://3E53337F-F369-4F0E-9C62-91CEF0FCE4FC
 permalink: /things-that-go-bump-in-the-night-the-blackmoor-hoard/
 wtr-disable-reading-progress:

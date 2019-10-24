@@ -8,7 +8,7 @@ guid: http://www.7pillarsofwisdom.co.uk/2017/08/03/14-revision-v1/
 permalink: /14-revision-v1/
 ---
 <div id="attachment_26" style="width: 275px" class="wp-caption alignleft">
-  <a href="http://35.176.43.170/wp-content/uploads/2008/08/ourpasthistorycom.jpg" data-rel="lightbox-gallery-8flfLPjM" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-26" class="size-medium wp-image-26" title="Corinne's website - Ourpasthistory.com" src="http://35.176.43.170/wp-content/uploads/2008/08/ourpasthistorycom-265x300.jpg" alt="Corinne's website - Ourpasthistory.com" width="265" height="300" /></a>
+  <a href="http://35.176.43.170/images/uploads/2008/08/ourpasthistorycom.jpg" data-rel="lightbox-gallery-8flfLPjM" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-26" class="size-medium wp-image-26" title="Corinne's website - Ourpasthistory.com" src="http://35.176.43.170/images/uploads/2008/08/ourpasthistorycom-265x300.jpg" alt="Corinne's website - Ourpasthistory.com" width="265" height="300" /></a>
   
   <p id="caption-attachment-26" class="wp-caption-text">
     Corinne's website - Ourpasthistory.com

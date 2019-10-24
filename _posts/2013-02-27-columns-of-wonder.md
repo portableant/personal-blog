@@ -3,7 +3,7 @@ id: 228
 title: Columns of wonder
 date: 2013-02-27T12:02:43+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: http://www.7pillarsofwisdom.co.uk/?p=228
 permalink: /columns-of-wonder/
 categories:

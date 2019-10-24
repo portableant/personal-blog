@@ -3,14 +3,14 @@ id: 326
 title: Putting 3D research into the Grenville Shop
 date: 2017-08-03T12:20:32+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: http://35.176.43.170/?p=326
 permalink: /putting-3d-research-into-the-grenville-shop/
 wtr-disable-reading-progress:
   - ""
 wtr-disable-time-commitment:
   - ""
-image: /wp-content/uploads/2017/08/x3D-Antinous-Roy-landcape.jpg
+image: /images/uploads/2017/08/x3D-Antinous-Roy-landcape.jpg
 categories:
   - Techie stuff
 ---

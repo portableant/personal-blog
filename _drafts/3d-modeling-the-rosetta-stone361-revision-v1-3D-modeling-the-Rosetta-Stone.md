@@ -8,7 +8,7 @@ guid: https://E0EECABD-20FD-4351-9754-037E54F0315C
 permalink: /361-revision-v1/
 ---
 <div id="attachment_363" style="width: 1010px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-363" class="wp-image-363 size-large" src="http://www.7pillarsofwisdom.co.uk/wp-content/uploads/2017/08/19894774_10155296696156071_1048584219763234466_n-1-1024x768.jpg" alt="Photographing the Rosetta Stone for a 3D model" width="1000" height="750" srcset="https://museologi.st/wp-content/uploads/2017/08/19894774_10155296696156071_1048584219763234466_n-1-1024x768.jpg 1024w, https://museologi.st/wp-content/uploads/2017/08/19894774_10155296696156071_1048584219763234466_n-1-300x225.jpg 300w, https://museologi.st/wp-content/uploads/2017/08/19894774_10155296696156071_1048584219763234466_n-1-768x576.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />
+  <img aria-describedby="caption-attachment-363" class="wp-image-363 size-large" src="http://www.7pillarsofwisdom.co.uk/images/uploads/2017/08/19894774_10155296696156071_1048584219763234466_n-1-1024x768.jpg" alt="Photographing the Rosetta Stone for a 3D model" width="1000" height="750" srcset="https://museologi.st/images/uploads/2017/08/19894774_10155296696156071_1048584219763234466_n-1-1024x768.jpg 1024w, https://museologi.st/images/uploads/2017/08/19894774_10155296696156071_1048584219763234466_n-1-300x225.jpg 300w, https://museologi.st/images/uploads/2017/08/19894774_10155296696156071_1048584219763234466_n-1-768x576.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />
   
   <p id="caption-attachment-363" class="wp-caption-text">
     Photographing the Rosetta Stone for a 3D model

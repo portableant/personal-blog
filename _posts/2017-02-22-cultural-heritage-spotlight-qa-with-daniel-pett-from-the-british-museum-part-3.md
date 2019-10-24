@@ -3,7 +3,7 @@ id: 359
 title: 'Cultural Heritage Spotlight: Q&A with Daniel Pett from the British Museum (Part 3)'
 date: 2017-02-22T07:08:36+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: http://www.7pillarsofwisdom.co.uk/?p=359
 permalink: /cultural-heritage-spotlight-qa-with-daniel-pett-from-the-british-museum-part-3/
 categories:

@@ -3,7 +3,7 @@ id: 98
 title: Palestine Exploration Fund flickrstream
 date: 2010-12-05T19:31:41+01:00
 author: Daniel Pett
-layout: post
+layout: home
 guid: http://www.7pillarsofwisdom.co.uk/?p=98
 permalink: /palestine-exploration-fund-flickrstream/
 categories:
