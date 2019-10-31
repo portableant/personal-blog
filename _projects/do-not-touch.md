@@ -22,6 +22,7 @@ partners:
 start: 2019-01-01
 end: 2019-12-31
 date: 2019-10-29T22:51:56+01:00
+status: active
 ---
 This research project is looking at the effectiveness of different touching deterrent methods used for the collections on open display at The Fitzwilliam Museum.
 

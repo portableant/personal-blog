@@ -10,6 +10,8 @@ funders:
   - The British Museum Research Fund
 role: ICT Advisor, Development of database
 slug: the-portable-Antiquities-scheme
+status: active
+background: /images/projects/pas/coins.jpg
 ---
 This project which is generously funded by the Arts and Humanities Research Council (AHRC) brings together three key actors in the heritage ecosystem:
 

@@ -3,32 +3,22 @@ layout: default
 title: "Google Search Appliance"
 institution: The British Museum
 thumbnail: ceef3d.jpg
-funders:
-  - AHRC
-grant_number: AH/S012583/1
-grant_amount: £201,557
+role: Project Lead
 categories:
-  - 3D
+  - search
   - museums
 tags:
-  - 3D
   - Museums
   - Creative Economy
-  - AHRC
 collaborators:
-  - Abi Glen
-  - Joanne Vine
-  - Jennifer Wexler
-  - Catriona Cooper
-  - Melanie Pitkin
+  - Chris Michaels
+  - Gordon Sandeman
 partners:
-  - Google Creative Lab
-github_repo: https://github.com/googlecreativelab/xyfi
-zenodo_doi: ''
-start: 2019-01-01
-end: 2019-12-31
+  - Google
+  - extended Content Solutions
 date: 2019-10-29T22:51:56+01:00
 slug: google-search-appliance
+status: inactive
 ---
 In 2017, the British Museum partnered with Google’s Creative Lab (based in Sydney) to work on an immersive digital experience focused on a single piece of the world revered Buddhist site of the Great Shrine of Amaravati. This experience used projection, sonification and human computer interaction methodologies to blend together an experience built upon bring your own device principles (BYOD), which enabled the public to unpack in depth information about the focal point of the gallery. In just under 3 months, over 100,000 people visited this single gallery installation bringing with it a wide array of lessons for technologists engaged with in gallery digital works. The source code for this project was released under an open licence by Google on Github and the 3D model generated was released on Sketchfab and was download ready for people to reproduce in their own homes. A video detailing this exhibition can be found here: https://fitz.ms/xyfi
 

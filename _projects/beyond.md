@@ -6,6 +6,7 @@ slug: beyond-the-label
 thumbnail: beyond.png
 start: 2019-09-21
 end: 2019-10-07
+status: active
 funder:
   - The Fitzwilliam Museum
 cost: £2.75

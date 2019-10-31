@@ -2,7 +2,7 @@
 layout: default
 title: Lost Change
 institution: The British Museum
-thumbnail: findsorguk.jpg
+thumbnail: lost.jpg
 funders:
   - AHRC
   - CreativeWorks London
@@ -12,18 +12,26 @@ collaborators:
 role: Principal Investigator
 slug: lost-change
 status: inactive
+background: /images/projects/lost-change/lost.jpg
 ---
-This project which is generously funded by the Arts and Humanities Research Council (AHRC) brings together three key actors in the heritage ecosystem:
+Lost Change, an innovative and experimental application that allows coins found within England and Wales and recorded through the British Museum’s Portable Antiquities Scheme (PAS), to be visualised on an interactive, dual-mapping interface. This tool enables people to interrogate a huge dataset (over 300,000 coin records can be manipulated) and discover links between coins’ place of origin (the issuing mint or a more vague attribution if this location is uncertain) and where they were discovered and then subsequently reported to the PAS Finds Liaison Officers.
 
-the University of Cambridge
-the Fitzwilliam Museum
-two industrial collaborators - Museum in a Box and ThinkSee3D
-When combined they provide three essential perspectives that will enable us to choose and drive forward four early career researcher (ECR) projects that will lead to enhanced collaborations that benefit the creative economy. The University of Cambridge is home to a nucleus of world leading collections under the banner of University of Cambridge Museums (UCM) and this project will aim to enable innovation across the group.
+While much of the the data is made available for re-use on the PAS website under a Creative Commons licence, some details are closely guarded to prevent illicit activity (for example night-hawking or detecting without landowner permission) and so this application has been developed with these restrictions in mind. An object’s coordinates are only mapped to an Ordnance Survey four-figure National Grid Reference (which equates to a point within a 1km square), and only if the landowner or finder has not requested these to be hidden from the public.
 
-The efficacy of this type of partnership can be developed during this project to refine engagement models for the future. A particular challenge for businesses selling into the cash-strapped heritage industry is access to customers; in this project the Fitzwilliam Museum will be in the unique position of being both a research partner and the provider of invaluable input as a potential customer/end user for heritage industry products.
+The distribution of coins is biased by a number of factors (a project funded by the Leverhulme Trust is looking at this in greater depth) which could include:
 
-By providing a shared base within a museum and through partnership with industrial collaborators, the researchers will benefit from exposure to two new contexts in which their research could be used. The ECRs will also be able to apply their expertise to a live challenge and foster cross-sectoral information sharing and awareness-raising both during this project and in their future careers.
+* Whether metal detecting is permitted by the landowner, or the topography makes detecting difficult
+* Soil type and land use
+* Whether there is an active community of metal detectorists within the vicinity
 
-Our partners bring very unique skillsets to the Museum. ThinkSee3D and Museum in a Box are innovators in joining heritage with digital. This site will document our 2019 journey of collaborations, events and products.
+![](http://britishmuseumblog.files.wordpress.com/2014/02/544x306.jpg){: .img-fluid }
 
-This project is grant AH/S012583/1 part of the Development Grants Scheme. It starts on January 1st 2019 and finishes on December 31st 2019.
+The tool is straightforward to use. The left hand pane holds details for the place of discovery; the right hand side holds details for the place of issue, the mint. These panes work in tandem, with data dynamically updating in each, depending on the user’s choice. A
+The PAS intends to build on this project at a later stage and will be seeking further funding to enable this to happen, with many more facets of discovery available to query the dataset.
+
+Lost Change was funded through a £5,000 grant from the CreativeWorks London ‘Entrepreneur-in-Residence’ programme.
+
+The PAS is grateful to Gavin Baily and Sarah Bagshaw from Tracemedia who developed the application, and everyone who has contributed to the PAS database.
+
+
+This originally appeared on the British Museum blog

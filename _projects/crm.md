@@ -18,6 +18,7 @@ partners:
 start: 2019-10-14
 date: 2019-10-30T08:51:56+01:00
 slug: crm-and-ticketing
+status: active
 ---
 
 This project is part of the Fitzwilliam Museum's digital transformation process and began before I joined them; however it had stalled several times at tendering stage.

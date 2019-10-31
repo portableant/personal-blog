@@ -34,6 +34,7 @@ start: 2019-02-01
 end: 2020-01-31
 date: 2019-10-29T22:51:56+01:00
 slug: linked-islands
+status: active
 ---
 Linking Islands of Data will create a research network based around centres of excellence that study the Classical World on both sides of the Atlantic and build upon the legacy of the National Endowment for Humanities funded Linked Ancient World Data Institute.
 

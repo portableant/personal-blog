@@ -4,6 +4,7 @@ title: Palestine Exploration Fund website
 thumbnail: pef.jpg
 role: Trustee
 slug: palestine-exploration
+status: active
 ---
 This project which is generously funded by the Arts and Humanities Research Council (AHRC) brings together three key actors in the heritage ecosystem:
 

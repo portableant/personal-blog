@@ -30,6 +30,7 @@ start: 2019-01-01
 end: 2019-12-31
 date: 2019-10-29T22:51:56+01:00
 slug: raspberry-pi-screenly
+status: active
 ---
 This project which is generously funded by the Arts and Humanities Research Council (AHRC) brings together three key actors in the heritage ecosystem:
 

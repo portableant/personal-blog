@@ -10,6 +10,8 @@ collaborators:
 thumbnail: staffs.png
 role: Website Creator
 slug: the-staffordshire-hoard
+status: inactive
+background: /images/projects/staffshoard/staffs.jpg
 ---
 This site was built in one day by Daniel Pett, PAS ICT Adviser, using the OpenSource Textpattern Content Management System which is freely available from www.textpattern.com. The labeling of images was conducted by Katharine Kelland over a period of a few days. The data was manipulated from original work by Kevin Leahy via Roger Bland. The fantastic images come from a variety of sources - Daniel Buxton, David Rowan Birmingham University, the councils involved and Duncan Slarke (the local FLO).
 

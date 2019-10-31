@@ -10,6 +10,7 @@ funders:
   - The British Museum Research Fund
 role: Co-Investigator
 slug: mapping-palaeolithic-britain
+status: inactive
 ---
 This project which is generously funded by the Arts and Humanities Research Council (AHRC) brings together three key actors in the heritage ecosystem:
 
