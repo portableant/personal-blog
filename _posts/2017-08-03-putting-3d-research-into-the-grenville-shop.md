@@ -19,9 +19,9 @@ categories:
 Over the last four years, the British Museum has been producing 3D models that can be viewed by anyone online. The roots of this work can be traced back to the <a href="http://www.ahrc.ac.uk/" >Arts and Humanities Research Council</a>&#8216;s funding of the [MicroPasts](http://micropasts.org) crowdsourcing project with University College London, which produced 3D objects for academic research. The Museum continued its 3D output by using native mobile phone applications to publish a selection of [objects](http://www.wired.co.uk/article/reprinting-history) on the [Sketchfab](https://sketchfab.com/britishmuseum) platform, with many available to download under a [Creative Commons Non-Commercial licence](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
-
-  <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/playlists/embed?collection=646555f94b6d45a8ad2791e4d0ddc1f6" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe title="A 3D model" class="responsive-item" src="https://sketchfab.com/playlists/embed?collection=646555f94b6d45a8ad2791e4d0ddc1f6" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 
 

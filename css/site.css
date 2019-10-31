@@ -53,11 +53,7 @@ body {
   font-family: 'Ysra', sans-serif;
 }
 
-a {
-  background-color: transparent;
-  color: #731100;
-  text-decoration: none;
-}
+
 
 article {
   overflow-wrap: break-word;

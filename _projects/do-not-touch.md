@@ -17,6 +17,8 @@ tags:
 collaborators:
   - Joanne Vine
   - Helena Rodwell
+  - Rafie Cecilia
+  - Miranda Stearn
 partners:
   - ThinkSee3D
 start: 2019-01-01
