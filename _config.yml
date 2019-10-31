@@ -32,6 +32,7 @@ plugins:
 permalink: pretty
 read_time: true
 words_per_minute: 200
+google_analytics: UA-298202-5
 collections:
    blog:
       output: true
