@@ -1,0 +1,52 @@
+{% if page.collection == 'projects' %}
+         <span class="mb-2 mt-1 badge badge-primary p-2">{% include read_time.html %}</span>
+{% endif %}
+{{ content }}
+
+{% if page.role %}
+<h3>Project role</h3>
+<ul>
+  <li>{{ page.role }}</li>
+</ul>
+{% endif %}
+
+{% if page.institution %}
+<h3>Institution</h3>
+<ul>
+  <li>{{ page.institution }}</li>
+</ul>
+{% endif %}
+
+{% if page.funders %}
+<h3>Funders</h3>
+<ul>
+  {% for funders in page.funders %}
+    <li>{{ funders }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if page.collaborators %}
+<h3>Collaborators</h3>
+<ul>
+  {% for collabs in page.collaborators %}
+    <li>{{ collabs }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if page.partners %}
+<h3>Partners</h3>
+<ul>
+  {% for partners in page.partners %}
+    <li>{{ partners }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if page.github_repo %}
+<h3>Github</h3>
+<ul>
+  <li><a href="{{ page.github_repo }}">Repository</a></li>
+</ul>
+{% endif %}

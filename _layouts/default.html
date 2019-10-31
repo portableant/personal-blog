@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+    <title>{{page.title}}</title>
+    {% include /structure/css.html %}
+
+    {% seo %}
+    {% include /structure/feeds.html %}
+</head>
+<body class="doc-body">
+
+<!-- Screen reader skip to main -->
+<a class="sr-only sr-only-focusable doc-skip" href="#doc-main-h1">
+    <div class="container">
+        <span class="doc-skip-text">Skip to main content</span>
+    </div>
+</a>
+
+{% include /structure/navigation.html %}
+
+{% if page.collection == 'projects' %}
+  <div class="progress" id="progress-indicator"></div>
+{% endif %}
+
+{% assign class = 'head' %}
+
+{% include /structure/jumbotron.html %}
+
+<div class="container">
+
+      {% if page.map %}
+      <div id="map" style="width: 100%; height: 300px;"></div>
+      {% endif %}
+
+      {% if page.url == "/" %}
+        <div class="container">
+            {{ content }}
+        </div>
+      {% elsif page.url == '/research-projects/' %}
+      <div class="container">
+          {{ content }}
+      </div>
+      {% elsif page.url == '/technologies/' %}
+      <div class=container"">
+          {{ content }}
+      </div>
+      {% elsif page.url == '/about/' %}
+      <div class="container">
+          {{ content }}
+      </div>
+      {% else %}
+      <div class="container">
+          {% include structure/project.html %}
+          <p>
+              {% if page.date %}
+              <span class="chip chip-primary"><i class="chip-primary"><i class="material-icons">create</i></i> Created: {{ page.date | date_to_string }}</span>
+              {% endif %}
+
+              {% if page.category %}
+              <span class="chip chip-primary"><i class="chip-primary"><i
+                      class="material-icons small">category</i></i>Category: {{ page.category }}</span>
+              {% endif %}
+
+              {% for tags in page.tags %}
+              <span class="chip chip-primary"><i class="chip-primary"><i class="material-icons small">label</i></i>{{ tags }}</span>
+              {% endfor %}
+          </p>
+      </div>
+      {% endif %}
+
+</div>
+
+<div class="container">
+  {% if page.images %}
+    <div class="row">
+        <div class="mb-2 mx-2 rounded">
+            <h3>Project images</h3>
+            {% include structure/carousel.html %}
+        </div>
+    </div>
+    {% endif %}
+    {% include share_buttons.html %}
+</div>
+
+
+{% include structure/footer.html %}
+{% include structure/javascript.html %}
+
+
+
+</body>
+</html>

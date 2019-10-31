@@ -3,13 +3,10 @@ id: 554
 title: 3-D Modelling Workshops﻿
 date: 2018-11-08T17:25:31+01:00
 author: Daniel Pett
-layout: home
-guid: https://94CE827A-D493-4E13-8670-66A61A5AADCA
-permalink: '/3-d-modelling-workshops%ef%bb%bf/'
-wtr-disable-reading-progress:
-  - ""
-wtr-disable-time-commitment:
-  - ""
+layout: default
+guid: 94CE827A-D493-4E13-8670-66A61A5AADCA
+permalink: /3-d-modelling-workshops/
+
 categories:
   - Techie stuff
 ---
@@ -25,7 +22,7 @@ This two-hour workshop will show you how to make a 3D scan of an object. By the 
 
 We will be covering the basics of a technique called photogrammetry. It is non-invasive and requires very little equipment.
 
-In this process, we use computer software to align multiple overlapping photographs together to reconstruct 3-dimensional measurements. This process is not new and has rapidly risen to become an industry standard.&nbsp;
+In this process, we use computer software to align multiple overlapping photographs together to reconstruct 3-dimensional measurements. This process is not new and has rapidly risen to become an industry standard.
 
 In the first part of the workshop you will be given instructions and will see a demonstration of how to create a 3D model. Afterwards, you will be taken into a gallery in the Fitzwilliam Museum and be able to try out the process for yourself.
 

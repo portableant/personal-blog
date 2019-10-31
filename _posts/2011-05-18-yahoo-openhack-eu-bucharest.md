@@ -3,7 +3,7 @@ id: 178
 title: Yahoo! Openhack EU (Bucharest)
 date: 2011-05-18T14:57:55+01:00
 author: Daniel Pett
-layout: home
+layout: default
 guid: http://www.7pillarsofwisdom.co.uk/?p=178
 permalink: /yahoo-openhack-eu-bucharest/
 categories:

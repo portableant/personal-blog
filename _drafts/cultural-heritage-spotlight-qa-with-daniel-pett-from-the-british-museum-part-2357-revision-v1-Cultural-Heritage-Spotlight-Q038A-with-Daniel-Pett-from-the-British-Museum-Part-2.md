@@ -9,7 +9,7 @@ permalink: /357-revision-v1/
 ---
 _Our_ [_Cultural institutions Page_](https://sketchfab.com/museums) _highlights our ongoing support of museums and cultural institutions with free accounts and access to tools. In_ [_Cultural Heritage Spotlight_](https://blog.sketchfab.com/tag/culturalspotlight/)_, we’ll explore museums and cultural institutions who are using 3D technology to bring new life to their collections. Today’s blog post features Daniel Pett’s effort to make the collections of the_ [_British Museum_](https://sketchfab.com/britishmuseum) _accessible for anyone in 3D and VR._
 
-&nbsp;
+
 
 <span style="font-weight: 400;">This article is <a href="https://blog.sketchfab.com/cultural-heritage-spotlight-qa-daniel-pett-british-museum-part1/">part II of our Q&A with Daniel Pett</a>, the Senior Digital Humanities Manager at the British Museum. </span><span style="font-weight: 400;">The British Museum has published 143 models on Sketchfab. </span><span style="font-weight: 400;">Daniel now gives us his feedback on his experiences, but also explains how Sketchfab helps him to showcase the British Museum’s wonderful artefacts.</span>
 
@@ -19,12 +19,12 @@ _Our_ [_Cultural institutions Page_](https://sketchfab.com/museums) _highlights 
     </p>
     
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;">
-      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/7befadcdb81f46d8aa76d4b3c9d696ee?utm_campaign=7befadcdb81f46d8aa76d4b3c9d696ee&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">A statue of Sekhmet</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=7befadcdb81f46d8aa76d4b3c9d696ee&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=7befadcdb81f46d8aa76d4b3c9d696ee&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">Sketchfab</a>
+      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/7befadcdb81f46d8aa76d4b3c9d696ee?utm_campaign=7befadcdb81f46d8aa76d4b3c9d696ee&utm_medium=embed&utm_source=oembed" >A statue of Sekhmet</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=7befadcdb81f46d8aa76d4b3c9d696ee&utm_medium=embed&utm_source=oembed" >The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=7befadcdb81f46d8aa76d4b3c9d696ee&utm_medium=embed&utm_source=oembed" >Sketchfab</a>
     </p>
   </div>
 </div>
 
-&nbsp;
+
 
 **4/ Was it easy when you began? Were they any barriers to entry?** 
 
@@ -36,22 +36,22 @@ _Our_ [_Cultural institutions Page_](https://sketchfab.com/museums) _highlights 
     </p>
     
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;">
-      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/31dcd2d0842f4153a2c45ad24e62754e?utm_campaign=31dcd2d0842f4153a2c45ad24e62754e&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">Aphrodite Crouching, British Museum</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/nebulousflynn?utm_campaign=31dcd2d0842f4153a2c45ad24e62754e&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">Thomas Flynn</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=31dcd2d0842f4153a2c45ad24e62754e&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">Sketchfab</a>
+      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/31dcd2d0842f4153a2c45ad24e62754e?utm_campaign=31dcd2d0842f4153a2c45ad24e62754e&utm_medium=embed&utm_source=oembed" >Aphrodite Crouching, British Museum</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/nebulousflynn?utm_campaign=31dcd2d0842f4153a2c45ad24e62754e&utm_medium=embed&utm_source=oembed" >Thomas Flynn</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=31dcd2d0842f4153a2c45ad24e62754e&utm_medium=embed&utm_source=oembed" >Sketchfab</a>
     </p>
   </div>
 </div>
 
-&nbsp;
+
 
 <span style="font-weight: 400;">I’m still learning and there’s always something to improve on with every model I make. Different software might improve my output, better masking etc. This is one reason why I place all my raw photos and masks on to </span>[<span style="font-weight: 400;">GitHub</span>](https://github.com/britishmuseumdh) <span style="font-weight: 400;">so that someone can improve on my amateur skills and have the chance to participate in reproducible science. </span>
 
-&nbsp;
+
 
 **5/ Is it easier now?**
 
 <span style="font-weight: 400;">I’d say it is probably easier now that I know how to do certain things or capture images in the best way for what I want to do. It is still hard! I’d like more time, more computing power and some decent cameras.</span>
 
-&nbsp;
+
 
 **6/ What are the Sketchfab features that you think are the most useful for your models?** 
 
@@ -80,11 +80,11 @@ _Our_ [_Cultural institutions Page_](https://sketchfab.com/museums) _highlights 
 
 <span style="font-weight: 400;">The Sketchfab interface is generally great, but there are things we have always wished were there, for example measuring tools (</span>[<span style="font-weight: 400;">which Sketchfab’s dev team have now released</span>](https://labs.sketchfab.com/experiments/measurements/)<span style="font-weight: 400;">, thank you!), scales, ability to create better metadata (maybe from a markdown file that you upload). However, we do realise that we (the cultural sector) are not the only users. You cannot build everything people request. In terms of long term repository for archiving 3D data, we don’t see the Sketchfab platform as the be and end all – for us it is a presentation layer. We and others need to consider best practices for storing their 3D output and source materials. At the moment, raw data and STL models that I create are being stored on our Github profile. </span>
 
-&nbsp;
+
 
 **7/ What goal do you achieve in creating all these models? How is it consistent with the British Museum digital strategy?**
 
-&nbsp;
+
 
 <span style="font-weight: 400;">The goal of creating these models has several aspects for me; firstly to demonstrate that there is a need for this work to be done and that it might create employment in the future for someone; secondly to maintain our position as a museum that might try to push boundaries; thirdly for personal satisfaction, that I can create something that others might find interesting (and allowing me to learn a new skill) and fourthly for my colleagues to make use of them. </span>
 

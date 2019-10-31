@@ -3,7 +3,7 @@ id: 132
 title: Archiving twitter via open source software
 date: 2011-05-12T15:04:00+01:00
 author: Daniel Pett
-layout: home
+layout: default
 guid: http://www.7pillarsofwisdom.co.uk/?p=132
 permalink: /archiving-twitter-via-open-source-software/
 categories:
@@ -32,7 +32,7 @@ Several factors that you must remember with Twitter:
 Source code is available on [github](https://github.com/graulund/tweetnest "Github repository for tweetnest") and the code is pretty easy to hack around if you are that way inclined. The interface also allows for basic graphs of when you tweeted, search of your tweet stream and has .htaccess protection of the update tweets functionality (or you can cron job if you know how to do this.) My instance of this can be found at [http://finds.org.uk/tweetnest](http://finds.org.uk/tweetnest "My instance of tweetnest") Below are a few screen shots of the interfaces and updating functions. The only issue I had with installing this was changing the rewriteBase directive due to other things I am up to.
 
 <div id="attachment_136" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://35.176.43.170/images/uploads/2011/05/updates.png" data-rel="lightbox-gallery-GBOL5gn0" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-136" class="size-medium wp-image-136" title="updates" src="http://35.176.43.170/images/uploads/2011/05/updates-300x270.png" alt="Tweet update interface" width="300" height="270" /></a>
+  <a href="http://35.176.43.170/images/2011/05/updates.png" data-rel="lightbox-gallery-GBOL5gn0" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-136" class="size-medium img-fluid 136" title="updates" src="http://35.176.43.170/images/2011/05/updates-300x270.png" alt="Tweet update interface" width="300" height="270" /></a>
   
   <p id="caption-attachment-136" class="wp-caption-text">
     Tweet update interface
@@ -40,7 +40,7 @@ Source code is available on [github](https://github.com/graulund/tweetnest "Gith
 </div>
 
 <div id="attachment_134" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://35.176.43.170/images/uploads/2011/05/montharchive.png" data-rel="lightbox-gallery-GBOL5gn0" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-134" class="size-medium wp-image-134" title="montharchive" src="http://35.176.43.170/images/uploads/2011/05/montharchive-300x183.png" alt="Monthly archive of tweets" width="300" height="183" srcset="https://museologi.st/images/uploads/2011/05/montharchive-300x183.png 300w, https://museologi.st/images/uploads/2011/05/montharchive-768x468.png 768w, https://museologi.st/images/uploads/2011/05/montharchive.png 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://35.176.43.170/images/2011/05/montharchive.png" data-rel="lightbox-gallery-GBOL5gn0" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-134" class="size-medium img-fluid 134" title="montharchive" src="http://35.176.43.170/images/2011/05/montharchive-300x183.png" alt="Monthly archive of tweets" width="300" height="183" srcset="/images/2011/05/montharchive-300x183.png 300w, /images/2011/05/montharchive-768x468.png 768w, /images/2011/05/montharchive.png 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-134" class="wp-caption-text">
     Monthly archive of tweets
@@ -60,7 +60,7 @@ Things that I would have preferred on this are clean urls from mod_rewrite as an
 You can see my public instance at [http://finds.org.uk/social](http://finds.org.uk/social "My Thinkupapp instance") and there&#8217;s some screen shots of interfaces below.
 
 <div id="attachment_139" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://35.176.43.170/images/uploads/2011/05/thinkupapp.png" data-rel="lightbox-gallery-GBOL5gn0" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-139" class="size-medium wp-image-139" title="thinkupapp" src="http://35.176.43.170/images/uploads/2011/05/thinkupapp-300x228.png" alt="My thinkup app at finds.org.uk" width="300" height="228" srcset="https://museologi.st/images/uploads/2011/05/thinkupapp-300x228.png 300w, https://museologi.st/images/uploads/2011/05/thinkupapp-768x585.png 768w, https://museologi.st/images/uploads/2011/05/thinkupapp.png 959w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://35.176.43.170/images/2011/05/thinkupapp.png" data-rel="lightbox-gallery-GBOL5gn0" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-139" class="size-medium img-fluid 139" title="thinkupapp" src="http://35.176.43.170/images/2011/05/thinkupapp-300x228.png" alt="My thinkup app at finds.org.uk" width="300" height="228" srcset="/images/2011/05/thinkupapp-300x228.png 300w, /images/2011/05/thinkupapp-768x585.png 768w, /images/2011/05/thinkupapp.png 959w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-139" class="wp-caption-text">
     My thinkup app at finds.org.uk
@@ -68,7 +68,7 @@ You can see my public instance at [http://finds.org.uk/social](http://finds.org.
 </div>
 
 <div id="attachment_140" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://35.176.43.170/images/uploads/2011/05/staffshoard.png" data-rel="lightbox-gallery-GBOL5gn0" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-140" class="size-medium wp-image-140" title="staffshoard" src="http://35.176.43.170/images/uploads/2011/05/staffshoard-300x200.png" alt="Staffordshire hoard retweets" width="300" height="200" srcset="https://museologi.st/images/uploads/2011/05/staffshoard-300x200.png 300w, https://museologi.st/images/uploads/2011/05/staffshoard-768x513.png 768w, https://museologi.st/images/uploads/2011/05/staffshoard.png 997w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://35.176.43.170/images/2011/05/staffshoard.png" data-rel="lightbox-gallery-GBOL5gn0" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-140" class="size-medium img-fluid 140" title="staffshoard" src="http://35.176.43.170/images/2011/05/staffshoard-300x200.png" alt="Staffordshire hoard retweets" width="300" height="200" srcset="/images/2011/05/staffshoard-300x200.png 300w, /images/2011/05/staffshoard-768x513.png 768w, /images/2011/05/staffshoard.png 997w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-140" class="wp-caption-text">
     Staffordshire hoard retweets
@@ -76,7 +76,7 @@ You can see my public instance at [http://finds.org.uk/social](http://finds.org.
 </div>
 
 ## <div id="attachment_141" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://35.176.43.170/images/uploads/2011/05/embed.png" data-rel="lightbox-gallery-GBOL5gn0" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-141" class="size-medium wp-image-141" title="embed" src="http://35.176.43.170/images/uploads/2011/05/embed-300x187.png" alt="Embed interface" width="300" height="187" /></a>
+  <a href="http://35.176.43.170/images/2011/05/embed.png" data-rel="lightbox-gallery-GBOL5gn0" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-141" class="size-medium img-fluid 141" title="embed" src="http://35.176.43.170/images/2011/05/embed-300x187.png" alt="Embed interface" width="300" height="187" /></a>
   
   <p id="caption-attachment-141" class="wp-caption-text">
     Script to embed your tweet thread into another application
@@ -84,7 +84,7 @@ You can see my public instance at [http://finds.org.uk/social](http://finds.org.
 </div>
 
 <div id="attachment_142" style="width: 310px" class="wp-caption alignnone">
-  <a href="http://35.176.43.170/images/uploads/2011/05/graphs.png" data-rel="lightbox-gallery-GBOL5gn0" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-142" class="size-medium wp-image-142 " title="graphs" src="http://35.176.43.170/images/uploads/2011/05/graphs-300x298.png" alt="Graphs of followers etc" width="300" height="298" srcset="https://museologi.st/images/uploads/2011/05/graphs-300x298.png 300w, https://museologi.st/images/uploads/2011/05/graphs-150x150.png 150w, https://museologi.st/images/uploads/2011/05/graphs-768x764.png 768w, https://museologi.st/images/uploads/2011/05/graphs-100x100.png 100w, https://museologi.st/images/uploads/2011/05/graphs.png 785w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://35.176.43.170/images/2011/05/graphs.png" data-rel="lightbox-gallery-GBOL5gn0" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-142" class="size-medium img-fluid 142 " title="graphs" src="http://35.176.43.170/images/2011/05/graphs-300x298.png" alt="Graphs of followers etc" width="300" height="298" srcset="/images/2011/05/graphs-300x298.png 300w, /images/2011/05/graphs-150x150.png 150w, /images/2011/05/graphs-768x764.png 768w, /images/2011/05/graphs-100x100.png 100w, /images/2011/05/graphs.png 785w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p id="caption-attachment-142" class="wp-caption-text">
     Graphs of followers etc

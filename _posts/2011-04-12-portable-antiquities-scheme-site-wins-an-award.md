@@ -3,7 +3,7 @@ id: 77
 title: Portable Antiquities Scheme site wins an award
 date: 2011-04-12T19:19:09+01:00
 author: Daniel Pett
-layout: home
+layout: default
 guid: http://www.7pillarsofwisdom.co.uk/?p=77
 permalink: /portable-antiquities-scheme-site-wins-an-award/
 categories:

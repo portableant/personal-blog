@@ -3,7 +3,7 @@ id: 67
 title: Scuba diving, Sharm el Sheikh
 date: 2011-04-10T23:50:18+01:00
 author: Daniel Pett
-layout: home
+layout: default
 guid: http://www.7pillarsofwisdom.co.uk/?p=67
 permalink: /scuba-diving-sharm-el-sheikh/
 aktt_notify_twitter:

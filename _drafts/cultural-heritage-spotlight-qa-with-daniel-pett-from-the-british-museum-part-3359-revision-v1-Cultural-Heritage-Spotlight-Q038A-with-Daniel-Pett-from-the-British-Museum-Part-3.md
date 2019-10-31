@@ -43,12 +43,12 @@ For me, the 3D content we produce has multiple audience levels that can be seen 
     </p>
     
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;">
-      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/a3817e84e3824a8a8054ed8178eb7b68?utm_campaign=a3817e84e3824a8a8054ed8178eb7b68&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">A canopic jar lid</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=a3817e84e3824a8a8054ed8178eb7b68&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=a3817e84e3824a8a8054ed8178eb7b68&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">Sketchfab</a>
+      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/a3817e84e3824a8a8054ed8178eb7b68?utm_campaign=a3817e84e3824a8a8054ed8178eb7b68&utm_medium=embed&utm_source=oembed" >A canopic jar lid</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=a3817e84e3824a8a8054ed8178eb7b68&utm_medium=embed&utm_source=oembed" >The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=a3817e84e3824a8a8054ed8178eb7b68&utm_medium=embed&utm_source=oembed" >Sketchfab</a>
     </p>
   </div>
 </div>
 
-&nbsp;
+
 
 <div class="oembed oembed-rich oembed-sketchfab-com oembed-rich-sketchfab-com">
   <div class="sketchfab-embed-wrapper">
@@ -56,12 +56,12 @@ For me, the 3D content we produce has multiple audience levels that can be seen 
     </p>
     
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;">
-      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/e62f9907d04041e7bcd485e51063b8d5?utm_campaign=e62f9907d04041e7bcd485e51063b8d5&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">Horus</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=e62f9907d04041e7bcd485e51063b8d5&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=e62f9907d04041e7bcd485e51063b8d5&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">Sketchfab</a>
+      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/e62f9907d04041e7bcd485e51063b8d5?utm_campaign=e62f9907d04041e7bcd485e51063b8d5&utm_medium=embed&utm_source=oembed" >Horus</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=e62f9907d04041e7bcd485e51063b8d5&utm_medium=embed&utm_source=oembed" >The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=e62f9907d04041e7bcd485e51063b8d5&utm_medium=embed&utm_source=oembed" >Sketchfab</a>
     </p>
   </div>
 </div>
 
-&nbsp;
+
 
 <div class="oembed oembed-rich oembed-sketchfab-com oembed-rich-sketchfab-com">
   <div class="sketchfab-embed-wrapper">
@@ -69,7 +69,7 @@ For me, the 3D content we produce has multiple audience levels that can be seen 
     </p>
     
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;">
-      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/122707be53b6401695b1e782f2827bb0?utm_campaign=122707be53b6401695b1e782f2827bb0&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">A statue of Sekhmet</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=122707be53b6401695b1e782f2827bb0&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=122707be53b6401695b1e782f2827bb0&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">Sketchfab</a>
+      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/122707be53b6401695b1e782f2827bb0?utm_campaign=122707be53b6401695b1e782f2827bb0&utm_medium=embed&utm_source=oembed" >A statue of Sekhmet</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=122707be53b6401695b1e782f2827bb0&utm_medium=embed&utm_source=oembed" >The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=122707be53b6401695b1e782f2827bb0&utm_medium=embed&utm_source=oembed" >Sketchfab</a>
     </p>
   </div>
 </div>
@@ -82,7 +82,7 @@ For me, the 3D content we produce has multiple audience levels that can be seen 
     </p>
     
     <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;">
-      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/dfeedf2c3098451cb76ee93e377aca12?utm_campaign=dfeedf2c3098451cb76ee93e377aca12&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">Amitābha Buddha from Hancui</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/nebulousflynn?utm_campaign=dfeedf2c3098451cb76ee93e377aca12&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">Thomas Flynn</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=dfeedf2c3098451cb76ee93e377aca12&utm_medium=embed&utm_source=oembed" target="_blank" rel="noopener">Sketchfab</a>
+      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/dfeedf2c3098451cb76ee93e377aca12?utm_campaign=dfeedf2c3098451cb76ee93e377aca12&utm_medium=embed&utm_source=oembed" >Amitābha Buddha from Hancui</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/nebulousflynn?utm_campaign=dfeedf2c3098451cb76ee93e377aca12&utm_medium=embed&utm_source=oembed" >Thomas Flynn</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=dfeedf2c3098451cb76ee93e377aca12&utm_medium=embed&utm_source=oembed" >Sketchfab</a>
     </p>
   </div>
 </div>
@@ -95,7 +95,7 @@ For me, the 3D content we produce has multiple audience levels that can be seen 
 
 <span style="font-weight: 400;">The Jericho Skull was a fantastic model to create and came about from having lunch with the curator, Sally Fletcher, who said that it was off display and if I had time to scan it, I could do it. So on the same day, I took photographs (Tom Flynn did the same with the statue of </span>[<span style="font-weight: 400;">Idrimi, King Alakah</span>](https://sketchfab.com/models/cc454db8aafc4640926db2948a93176d) <span style="font-weight: 400;">for Jamie Fraser, lunchtime chat, photographing at 5pm!) and processed the model overnight and it was ready the next day. The skull is one of the most amazing objects in the British Museum’s Middle East holdings and it was such a privilege to get access to it. However, saying that, I and my colleagues are so lucky to work in the Museum and to be given access to all of the amazing things that we have.</span>
 
-<span style="font-weight: 400;">Thank you for asking me such a wide range of questions, if people have further questions you can always find me on </span><a href="https://twitter.com/dejpett" target="_blank" rel="noopener"><span style="font-weight: 400;">Twitter</span></a><span style="font-weight: 400;">.</span>
+<span style="font-weight: 400;">Thank you for asking me such a wide range of questions, if people have further questions you can always find me on </span><a href="https://twitter.com/dejpett" ><span style="font-weight: 400;">Twitter</span></a><span style="font-weight: 400;">.</span>
 
 _<span style="font-weight: 400;">You’re welcome Daniel! Thank you very much for your time and for the precious information and highlights you gave us.</span>_
 

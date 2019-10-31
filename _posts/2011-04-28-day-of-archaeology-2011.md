@@ -3,7 +3,7 @@ id: 101
 title: Day of archaeology 2011
 date: 2011-04-28T14:26:07+01:00
 author: Daniel Pett
-layout: home
+layout: default
 guid: http://www.7pillarsofwisdom.co.uk/?p=101
 permalink: /day-of-archaeology-2011/
 categories:

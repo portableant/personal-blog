@@ -3,13 +3,9 @@ id: 220
 title: 'Lost Change: mapping coins from the Portable Antiquities Scheme'
 date: 2014-02-19T17:08:06+01:00
 author: Daniel Pett
-layout: home
+layout: default
 guid: http://www.7pillarsofwisdom.co.uk/?p=220
 permalink: /lostchange/
-wtr-disable-reading-progress:
-  - ""
-wtr-disable-time-commitment:
-  - ""
 categories:
   - Techie stuff
 tags:
@@ -40,16 +36,16 @@ The PAS intends to build on this project at a later stage and will be seeking fu
     <p>
       Lost Change was funded through a £5,000 grant from the <a href="http://www.creativeworkslondon.org.uk/entrepreneur_scheme/gavin-baily-and-british-museum/">CreativeWorks London</a> ‘Entrepreneur-in-Residence’ programme.
     </p>
-    
+
     <p>
       The PAS is grateful to Gavin Baily and Sarah Bagshaw from <a href="http://tracemedia.co.uk/portfolio/lost-change/">Tracemedia</a> who developed the application, and everyone who has contributed to the PAS database.
     </p>
-    
+
     <p>
       If you have any feedback on the project, please contact the PAS via<a href="mailto:info@finds.org.uk">info@finds.org.uk</a>.
     </p>
   </blockquote>
-  
+
   <p>
     This originally appeared on the <a href="http://blog.britishmuseum.org/2014/02/19/lost-change-mapping-coins-from-the-portable-antiquities-scheme/">British Museum blog</a>
   </p>

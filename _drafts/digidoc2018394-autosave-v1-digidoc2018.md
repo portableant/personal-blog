@@ -10,9 +10,9 @@ permalink: /394-autosave-v1/
 ---
 TL;DR? Maybe&#8230;
 
-Last week in **Stirling**, the epicentre of digital cultural imaging in Scotland&#8217;s burgeoning cultural heritage scene, the amazing [Engine Shed](https://twitter.com/HESEngineShed) team organised three days of slick presentations, **magic**, **dancing** and **whisky** that made&nbsp;[DigiDoc 2018](https://www.engineshed.scot/digifest-2018). _(Is that breathless enough for you? Are you not entertained?)_ In years to come, I will be able to say I **was** there.
+Last week in **Stirling**, the epicentre of digital cultural imaging in Scotland&#8217;s burgeoning cultural heritage scene, the amazing [Engine Shed](https://twitter.com/HESEngineShed) team organised three days of slick presentations, **magic**, **dancing** and **whisky** that made[DigiDoc 2018](https://www.engineshed.scot/digifest-2018). _(Is that breathless enough for you? Are you not entertained?)_ In years to come, I will be able to say I **was** there.
 
-The organisers [Lyn Wilson](https://twitter.com/scottish3d), [Al Rawlinson](https://twitter.com/Alrawli) and [Clara Molina-Sanchez](https://twitter.com/CMolinaSanchez) + team brought together a programme of wonder and visual delight. I was lucky to attend 2 out of 3 of the days, presenting at the Research and Innovation day (10th October) and on the first day of DigiDoc proper (11th October). They gave speakers a great welcome gift, including Irn-Bru to keep them going for the first day &#8211; I managed to take the box home for my children to use.&nbsp;<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+The organisers [Lyn Wilson](https://twitter.com/scottish3d), [Al Rawlinson](https://twitter.com/Alrawli) and [Clara Molina-Sanchez](https://twitter.com/CMolinaSanchez) + team brought together a programme of wonder and visual delight. I was lucky to attend 2 out of 3 of the days, presenting at the Research and Innovation day (10th October) and on the first day of DigiDoc proper (11th October). They gave speakers a great welcome gift, including Irn-Bru to keep them going for the first day &#8211; I managed to take the box home for my children to use.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -24,46 +24,46 @@ The organisers [Lyn Wilson](https://twitter.com/scottish3d), [Al Rawlinson](http
   </blockquote>
 </div></figure> 
 
-This pair of events, promised a very different type of presentation and impact when compared to the Iperion funded conference I co-organised with Jennifer Wexler and Dan O&#8217;Flynn at the British Museum last year.&nbsp;
+This pair of events, promised a very different type of presentation and impact when compared to the Iperion funded conference I co-organised with Jennifer Wexler and Dan O&#8217;Flynn at the British Museum last year.
 
-So here follows my thoughts and recollections of what was presented, with a few photos, tweets and videos thrown in.&nbsp; I&#8217;ll then conclude with some of the key themes, whilst avoiding Hamish Harvey&#8217;s [obsession with poles](https://twitter.com/hamishharvey/status/1050337288322977792).
+So here follows my thoughts and recollections of what was presented, with a few photos, tweets and videos thrown in. I&#8217;ll then conclude with some of the key themes, whilst avoiding Hamish Harvey&#8217;s [obsession with poles](https://twitter.com/hamishharvey/status/1050337288322977792).
 
-The whole event was captured on video, and I expect at some point, you&#8217;ll be able to view in HD some brilliant talks. These presentations were well documented in real-time on the Twitter backchannel, which I have archived off onto [Github](https://github.com/portableant/digidoc-tweets) and also as a [Tags gdoc](http://goo.gl/rCnPiY%20). I&#8217;ll probably manipulate these in R shortly and add some graphs to the Github repo.&nbsp;
+The whole event was captured on video, and I expect at some point, you&#8217;ll be able to view in HD some brilliant talks. These presentations were well documented in real-time on the Twitter backchannel, which I have archived off onto [Github](https://github.com/portableant/digidoc-tweets) and also as a [Tags gdoc](http://goo.gl/rCnPiY%20). I&#8217;ll probably manipulate these in R shortly and add some graphs to the Github repo.
 
 ## Research and Innovation Day
 
-The Research and Innovation day&#8217;s programme, was, I think, set up to create a frame for the rest of the event, providing a grounding and insight as to why we as a sector digitally document objects, people, heritage and events in a wide array of imaging formats &#8211; 3D, 2D etc. Unfortunately for the audience, they got me as first speaker with an erudite intro from Ewan Hyslop who set the scene for the day.&nbsp;
+The Research and Innovation day&#8217;s programme, was, I think, set up to create a frame for the rest of the event, providing a grounding and insight as to why we as a sector digitally document objects, people, heritage and events in a wide array of imaging formats &#8211; 3D, 2D etc. Unfortunately for the audience, they got me as first speaker with an erudite intro from Ewan Hyslop who set the scene for the day.
 
 ### Opening Pandora&#8217;s box
 
 My talk is online in various formats (slides, github-pages and notes) and focused on the impact that 3D has had on the cultural sector. Below, I have embedded my talk, and in summary, I tried to talk about ethics (eg the folly of the arch of Palmyra from the IDA), the Gartner hype cycle, bus-factor, standards and preservation, what I and Tom Flynn call &#8216;guerilla scanning&#8217; (which I was rightly berated by Hugo Whymark-Anderson about at break) and various other things.
 
-### 3D modelling for the reproduction of musical instruments<figure class="wp-block-image"><a href="http://museologi.st/images/uploads/2018/10/wheeldon-e1539730585418.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl\_title="wheeldon" data-rl\_caption="wheeldon" title="wheeldon">
+### 3D modelling for the reproduction of musical instruments<figure class="wp-block-image"><a href="/images/2018/10/wheeldon-e1539730585418.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl\_title="wheeldon" data-rl\_caption="wheeldon" title="wheeldon">
 
-<img src="http://museologi.st/images/uploads/2018/10/wheeldon-e1539730585418.jpg" alt="A screenshot of Daniel Wheeldon's animation of a mechanism from an instrument" class="wp-image-401" srcset="https://museologi.st/images/uploads/2018/10/wheeldon-e1539730585418.jpg 1797w, https://museologi.st/images/uploads/2018/10/wheeldon-e1539730585418-300x191.jpg 300w, https://museologi.st/images/uploads/2018/10/wheeldon-e1539730585418-768x490.jpg 768w, https://museologi.st/images/uploads/2018/10/wheeldon-e1539730585418-1024x653.jpg 1024w" sizes="(max-width: 1797px) 100vw, 1797px" /> </a><figcaption>An image of one of Daniel&#8217;s brass fittings taken from video animation</figcaption></figure> 
+<img src="/images/2018/10/wheeldon-e1539730585418.jpg" alt="A screenshot of Daniel Wheeldon's animation of a mechanism from an instrument" class="img-fluid 401" srcset="/images/2018/10/wheeldon-e1539730585418.jpg 1797w, /images/2018/10/wheeldon-e1539730585418-300x191.jpg 300w, /images/2018/10/wheeldon-e1539730585418-768x490.jpg 768w, /images/2018/10/wheeldon-e1539730585418-1024x653.jpg 1024w" sizes="(max-width: 1797px) 100vw, 1797px" /> </a><figcaption>An image of one of Daniel&#8217;s brass fittings taken from video animation</figcaption></figure> 
 
-Next up was [Daniel Wheeldon](https://www.eca.ed.ac.uk/profile/daniel-wheeldon), who showed some interesting applications of 3D technology (via AHRC funding at Edinburgh University) to enable him to reproduce elements of musical instruments. He effectively argued that nothing is lost via the incorporation of new and disruptive technologies into traditional processes and likened it to having a bespoke workforce at his and makers&#8217; disposal. Daniel showed some slick animations of the various musical instruments he had worked on and explained well about the research he was doing. I had a good chat with Daniel during the break, when he showed me his brass cast fittings, which were very impressively machined and finished.&nbsp;
+Next up was [Daniel Wheeldon](https://www.eca.ed.ac.uk/profile/daniel-wheeldon), who showed some interesting applications of 3D technology (via AHRC funding at Edinburgh University) to enable him to reproduce elements of musical instruments. He effectively argued that nothing is lost via the incorporation of new and disruptive technologies into traditional processes and likened it to having a bespoke workforce at his and makers&#8217; disposal. Daniel showed some slick animations of the various musical instruments he had worked on and explained well about the research he was doing. I had a good chat with Daniel during the break, when he showed me his brass cast fittings, which were very impressively machined and finished.
 
 ### Hearing Scotland&#8217;s history
 
-Following on from Daniel&#8217;s academic talk, was [Rod Selfridge](https://twitter.com/rodselfridge) and [James Cook](https://www.eca.ed.ac.uk/profile/dr-james-cook) talking about their work with buildings, sound, acoustics, VR and XR.&nbsp; I enjoyed this paper as it mixed the technical side very well with the academic investigation. Again, well presented, with interesting graphics and delivery. Rod introduced us to some of the software that he used for directional sound &#8211; for example Google&#8217;s [Resonance Audio](https://developers.google.com/resonance-audio/).&nbsp;<figure class="wp-block-image">
+Following on from Daniel&#8217;s academic talk, was [Rod Selfridge](https://twitter.com/rodselfridge) and [James Cook](https://www.eca.ed.ac.uk/profile/dr-james-cook) talking about their work with buildings, sound, acoustics, VR and XR. I enjoyed this paper as it mixed the technical side very well with the academic investigation. Again, well presented, with interesting graphics and delivery. Rod introduced us to some of the software that he used for directional sound &#8211; for example Google&#8217;s [Resonance Audio](https://developers.google.com/resonance-audio/).<figure class="wp-block-image">
 
-<img src="https://museologi.st/images/uploads/2018/10/hearing-1024x576.jpg" alt="The first slide of Rod and James' talk" class="wp-image-406" srcset="https://museologi.st/images/uploads/2018/10/hearing-1024x576.jpg 1024w, https://museologi.st/images/uploads/2018/10/hearing-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/hearing-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Opening slide for Rod and James&#8217; talk.  
+<img src="/images/2018/10/hearing-1024x576.jpg" alt="The first slide of Rod and James' talk" class="img-fluid 406" srcset="/images/2018/10/hearing-1024x576.jpg 1024w, /images/2018/10/hearing-300x169.jpg 300w, /images/2018/10/hearing-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>Opening slide for Rod and James&#8217; talk.  
 </figcaption></figure> 
 
 ### A lengthy challenge<figure class="wp-block-image">
 
-<img src="https://museologi.st/images/uploads/2018/10/scroll.jpg" alt="A screen grab of the NLS talk" class="wp-image-407" /> <figcaption>One of the challenge slides from imaging the scroll of&nbsp;[Mahābhārata](https://images.is.ed.ac.uk/luna/servlet/UoE~3~3)</figcaption></figure> 
+<img src="/images/2018/10/scroll.jpg" alt="A screen grab of the NLS talk" class="img-fluid 407" /> <figcaption>One of the challenge slides from imaging the scroll of[Mahābhārata](https://images.is.ed.ac.uk/luna/servlet/UoE~3~3)</figcaption></figure> 
 
 Following Rod and James, the next speakers were Susan Pettigrew & Scott Renton (Digital Imaging Unit, Library and University Collections, University of Edinburgh) who spoke about the immense challenges of digitising the [Mahābhārata](https://images.is.ed.ac.uk/luna/servlet/UoE~3~3) scroll in their collection. This amazing work is 72 metres long and only 13.5 cm wide (I think) and has been imaged and then displayed for viewing via the use of IIIF (this was the second mention of this collaborative project on the first day.) This was a good practical paper and gave lots of novel insight into how they dealt with the issues of specularity, movement, focus and finally image stitching (manual, not automated via Python or other language, but Susan and Scott said they would like this in future.) We then had some demos of the IIIF interface in action, brilliant stuff. Before long, if your institution is not using this protocol you&#8217;ll be the odd one out.
 
 ### The Cheviot model digital reproduction
 
-We then were given a treat of a paper by [Clara Molina-Sanchez](http://@CMolinaSanchez)&nbsp;and Shona Hunter about the challenges, joys and achievements that went into making a digital derivation of John Byrne&#8217;s Cheviot model book from the National Library of Scotland which has gone on display at the new V&A Dundee.
+We then were given a treat of a paper by [Clara Molina-Sanchez](http://@CMolinaSanchez)and Shona Hunter about the challenges, joys and achievements that went into making a digital derivation of John Byrne&#8217;s Cheviot model book from the National Library of Scotland which has gone on display at the new V&A Dundee.
 
 <blockquote class="wp-block-quote">
   <p>
-    Technology should serve heritage and not the other way around&nbsp;
+    Technology should serve heritage and not the other way around
   </p>
   
   <cite>Shona Hunter</cite>
@@ -73,23 +73,23 @@ This amazing work of art posed a variety of challenges for Clara&#8217;s [Spectr
 
 ### Is it real?
 
-We then an interesting paper from [Camilla Perondi](https://twitter.com/sbabilla) from [Memooria](http://www.memooria.org/), an Italian company, who talked about &#8220;Is it real? defining digitisation workflow for a reliable colour and shape reproduction of polychrome flat-like surfaces&#8221;. Camilla had some nice graphical slides, the unicorn, the explosion, a pipeline and multiple shots of&nbsp; great automated kit which reminded me very much of the automation of Google Art Camera.&nbsp;
+We then an interesting paper from [Camilla Perondi](https://twitter.com/sbabilla) from [Memooria](http://www.memooria.org/), an Italian company, who talked about &#8220;Is it real? defining digitisation workflow for a reliable colour and shape reproduction of polychrome flat-like surfaces&#8221;. Camilla had some nice graphical slides, the unicorn, the explosion, a pipeline and multiple shots of great automated kit which reminded me very much of the automation of Google Art Camera.
 
 <ul class="wp-block-gallery columns-3 is-cropped">
   <li class="blocks-gallery-item">
-    <figure><a href="https://museologi.st/images/uploads/2018/10/IMG_20181010_113844-1.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_113844" data-rl_caption="IMG_20181010_113844" title="IMG_20181010_113844"><img src="https://museologi.st/images/uploads/2018/10/IMG_20181010_113844-1.jpg" alt="" data-id="419" data-link="https://museologi.st/?attachment_id=419" class="wp-image-419" srcset="https://museologi.st/images/uploads/2018/10/IMG_20181010_113844-1.jpg 4640w, https://museologi.st/images/uploads/2018/10/IMG_20181010_113844-1-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/IMG_20181010_113844-1-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/IMG_20181010_113844-1-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
+    <figure><a href="/images/2018/10/IMG_20181010_113844-1.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_113844" data-rl_caption="IMG_20181010_113844" title="IMG_20181010_113844"><img src="/images/2018/10/IMG_20181010_113844-1.jpg" alt="" data-id="419" data-link="/?attachment_id=419" class="img-fluid 419" srcset="/images/2018/10/IMG_20181010_113844-1.jpg 4640w, /images/2018/10/IMG_20181010_113844-1-300x169.jpg 300w, /images/2018/10/IMG_20181010_113844-1-768x432.jpg 768w, /images/2018/10/IMG_20181010_113844-1-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><a href="https://museologi.st/images/uploads/2018/10/IMG_20181010_113452.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_113452" data-rl_caption="IMG_20181010_113452" title="IMG_20181010_113452"><img src="https://museologi.st/images/uploads/2018/10/IMG_20181010_113452.jpg" alt="" data-id="418" data-link="https://museologi.st/?attachment_id=418" class="wp-image-418" srcset="https://museologi.st/images/uploads/2018/10/IMG_20181010_113452.jpg 4640w, https://museologi.st/images/uploads/2018/10/IMG_20181010_113452-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/IMG_20181010_113452-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/IMG_20181010_113452-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
+    <figure><a href="/images/2018/10/IMG_20181010_113452.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_113452" data-rl_caption="IMG_20181010_113452" title="IMG_20181010_113452"><img src="/images/2018/10/IMG_20181010_113452.jpg" alt="" data-id="418" data-link="/?attachment_id=418" class="img-fluid 418" srcset="/images/2018/10/IMG_20181010_113452.jpg 4640w, /images/2018/10/IMG_20181010_113452-300x169.jpg 300w, /images/2018/10/IMG_20181010_113452-768x432.jpg 768w, /images/2018/10/IMG_20181010_113452-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><a href="https://museologi.st/images/uploads/2018/10/IMG_20181010_113406.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_113406" data-rl_caption="IMG_20181010_113406" title="IMG_20181010_113406"><img src="https://museologi.st/images/uploads/2018/10/IMG_20181010_113406.jpg" alt="" data-id="417" data-link="https://museologi.st/?attachment_id=417" class="wp-image-417" srcset="https://museologi.st/images/uploads/2018/10/IMG_20181010_113406.jpg 4640w, https://museologi.st/images/uploads/2018/10/IMG_20181010_113406-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/IMG_20181010_113406-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/IMG_20181010_113406-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
+    <figure><a href="/images/2018/10/IMG_20181010_113406.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_113406" data-rl_caption="IMG_20181010_113406" title="IMG_20181010_113406"><img src="/images/2018/10/IMG_20181010_113406.jpg" alt="" data-id="417" data-link="/?attachment_id=417" class="img-fluid 417" srcset="/images/2018/10/IMG_20181010_113406.jpg 4640w, /images/2018/10/IMG_20181010_113406-300x169.jpg 300w, /images/2018/10/IMG_20181010_113406-768x432.jpg 768w, /images/2018/10/IMG_20181010_113406-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
   </li>
 </ul>
 
 ### **Emerging digitisation**
 
-We then were treated to Scott McGibbon from Heriot-Watt University who spoke about &#8216;Emerging digitisation trends for historic building repair and maintenance projects in Scotland&#8217;. I had to switch off for a bit in this paper to answer some work emails (my profuse apologies).&nbsp;<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+We then were treated to Scott McGibbon from Heriot-Watt University who spoke about &#8216;Emerging digitisation trends for historic building repair and maintenance projects in Scotland&#8217;. I had to switch off for a bit in this paper to answer some work emails (my profuse apologies).<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -115,18 +115,18 @@ We then were treated to Scott McGibbon from Heriot-Watt University who spoke abo
 
 <ul class="wp-block-gallery columns-2 is-cropped">
   <li class="blocks-gallery-item">
-    <figure><a href="https://museologi.st/images/uploads/2018/10/IMG_20181010_121543.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_121543" data-rl_caption="IMG_20181010_121543" title="IMG_20181010_121543"><img src="https://museologi.st/images/uploads/2018/10/IMG_20181010_121543.jpg" alt="" data-id="421" data-link="https://museologi.st/?attachment_id=421" class="wp-image-421" srcset="https://museologi.st/images/uploads/2018/10/IMG_20181010_121543.jpg 4640w, https://museologi.st/images/uploads/2018/10/IMG_20181010_121543-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/IMG_20181010_121543-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/IMG_20181010_121543-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
+    <figure><a href="/images/2018/10/IMG_20181010_121543.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_121543" data-rl_caption="IMG_20181010_121543" title="IMG_20181010_121543"><img src="/images/2018/10/IMG_20181010_121543.jpg" alt="" data-id="421" data-link="/?attachment_id=421" class="img-fluid 421" srcset="/images/2018/10/IMG_20181010_121543.jpg 4640w, /images/2018/10/IMG_20181010_121543-300x169.jpg 300w, /images/2018/10/IMG_20181010_121543-768x432.jpg 768w, /images/2018/10/IMG_20181010_121543-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><a href="https://museologi.st/images/uploads/2018/10/IMG_20181010_121253.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_121253" data-rl_caption="IMG_20181010_121253" title="IMG_20181010_121253"><img src="https://museologi.st/images/uploads/2018/10/IMG_20181010_121253.jpg" alt="" data-id="422" data-link="https://museologi.st/?attachment_id=422" class="wp-image-422" srcset="https://museologi.st/images/uploads/2018/10/IMG_20181010_121253.jpg 4640w, https://museologi.st/images/uploads/2018/10/IMG_20181010_121253-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/IMG_20181010_121253-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/IMG_20181010_121253-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
+    <figure><a href="/images/2018/10/IMG_20181010_121253.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_121253" data-rl_caption="IMG_20181010_121253" title="IMG_20181010_121253"><img src="/images/2018/10/IMG_20181010_121253.jpg" alt="" data-id="422" data-link="/?attachment_id=422" class="img-fluid 422" srcset="/images/2018/10/IMG_20181010_121253.jpg 4640w, /images/2018/10/IMG_20181010_121253-300x169.jpg 300w, /images/2018/10/IMG_20181010_121253-768x432.jpg 768w, /images/2018/10/IMG_20181010_121253-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
   </li>
 </ul>
 
-Following Scott, was one of my favourite papers of the day. Matthew Ritchie&nbsp;(Forestry Commission Scotland)&nbsp; who spoke about the consolidation of the broch of Caisteal Grugaig. He styled this as a **love letter** to a structure and I felt this worked very well. Look up this site and there&#8217;s various great resources to read. Matthew really brought his passion to life and also the use of archives and current work concurrently.&nbsp;
+Following Scott, was one of my favourite papers of the day. Matthew Ritchie(Forestry Commission Scotland) who spoke about the consolidation of the broch of Caisteal Grugaig. He styled this as a **love letter** to a structure and I felt this worked very well. Look up this site and there&#8217;s various great resources to read. Matthew really brought his passion to life and also the use of archives and current work concurrently.
 
 ### **A digital future for the assets of our past** 
 
-The final paper before lunch was my new friend&nbsp;[Joann Russell](https://twitter.com/joannrussellarc) (Historic Environment Scotland) who gave an overview of all the digital potential for assets that HES are capturing. I felt like this paper was giving a massive overview of what the HE sector south of the border could be doing if it invested heavily in the future. Joann talked about the challenges they face with all this amazing digital documentation, the workflows this generates and best practise as defined by them.&nbsp;<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+The final paper before lunch was my new friend[Joann Russell](https://twitter.com/joannrussellarc) (Historic Environment Scotland) who gave an overview of all the digital potential for assets that HES are capturing. I felt like this paper was giving a massive overview of what the HE sector south of the border could be doing if it invested heavily in the future. Joann talked about the challenges they face with all this amazing digital documentation, the workflows this generates and best practise as defined by them.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -146,13 +146,13 @@ Following an excellent lunch, we were then treated to the king of Blender, with 
 
 <ul class="wp-block-gallery columns-3 is-cropped">
   <li class="blocks-gallery-item">
-    <figure><a href="https://museologi.st/images/uploads/2018/10/IMG_20181010_134346.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_134346" data-rl_caption="IMG_20181010_134346" title="IMG_20181010_134346"><img src="https://museologi.st/images/uploads/2018/10/IMG_20181010_134346.jpg" alt="" data-id="425" data-link="https://museologi.st/?attachment_id=425" class="wp-image-425" srcset="https://museologi.st/images/uploads/2018/10/IMG_20181010_134346.jpg 4640w, https://museologi.st/images/uploads/2018/10/IMG_20181010_134346-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/IMG_20181010_134346-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/IMG_20181010_134346-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
+    <figure><a href="/images/2018/10/IMG_20181010_134346.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_134346" data-rl_caption="IMG_20181010_134346" title="IMG_20181010_134346"><img src="/images/2018/10/IMG_20181010_134346.jpg" alt="" data-id="425" data-link="/?attachment_id=425" class="img-fluid 425" srcset="/images/2018/10/IMG_20181010_134346.jpg 4640w, /images/2018/10/IMG_20181010_134346-300x169.jpg 300w, /images/2018/10/IMG_20181010_134346-768x432.jpg 768w, /images/2018/10/IMG_20181010_134346-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><a href="https://museologi.st/images/uploads/2018/10/IMG_20181010_134152.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_134152" data-rl_caption="IMG_20181010_134152" title="IMG_20181010_134152"><img src="https://museologi.st/images/uploads/2018/10/IMG_20181010_134152.jpg" alt="" data-id="426" data-link="https://museologi.st/?attachment_id=426" class="wp-image-426" srcset="https://museologi.st/images/uploads/2018/10/IMG_20181010_134152.jpg 4640w, https://museologi.st/images/uploads/2018/10/IMG_20181010_134152-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/IMG_20181010_134152-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/IMG_20181010_134152-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
+    <figure><a href="/images/2018/10/IMG_20181010_134152.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_134152" data-rl_caption="IMG_20181010_134152" title="IMG_20181010_134152"><img src="/images/2018/10/IMG_20181010_134152.jpg" alt="" data-id="426" data-link="/?attachment_id=426" class="img-fluid 426" srcset="/images/2018/10/IMG_20181010_134152.jpg 4640w, /images/2018/10/IMG_20181010_134152-300x169.jpg 300w, /images/2018/10/IMG_20181010_134152-768x432.jpg 768w, /images/2018/10/IMG_20181010_134152-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
   </li>
   <li class="blocks-gallery-item">
-    <figure><a href="https://museologi.st/images/uploads/2018/10/IMG_20181010_133939.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_133939" data-rl_caption="IMG_20181010_133939" title="IMG_20181010_133939"><img src="https://museologi.st/images/uploads/2018/10/IMG_20181010_133939.jpg" alt="" data-id="427" data-link="https://museologi.st/?attachment_id=427" class="wp-image-427" srcset="https://museologi.st/images/uploads/2018/10/IMG_20181010_133939.jpg 4640w, https://museologi.st/images/uploads/2018/10/IMG_20181010_133939-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/IMG_20181010_133939-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/IMG_20181010_133939-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
+    <figure><a href="/images/2018/10/IMG_20181010_133939.jpg" data-rel="lightbox-gallery-V96QVVBm" data-rl_title="IMG_20181010_133939" data-rl_caption="IMG_20181010_133939" title="IMG_20181010_133939"><img src="/images/2018/10/IMG_20181010_133939.jpg" alt="" data-id="427" data-link="/?attachment_id=427" class="img-fluid 427" srcset="/images/2018/10/IMG_20181010_133939.jpg 4640w, /images/2018/10/IMG_20181010_133939-300x169.jpg 300w, /images/2018/10/IMG_20181010_133939-768x432.jpg 768w, /images/2018/10/IMG_20181010_133939-1024x576.jpg 1024w" sizes="(max-width: 4640px) 100vw, 4640px" /></a></figure>
   </li>
 </ul>
 
@@ -188,21 +188,21 @@ I lost track of this talk slightly as work email distracted me, so I am sorry I 
 
 <blockquote class="wp-block-quote">
   <p>
-    We have seen a fall in interest in heritage amongst our&nbsp; architecture students. Could the use of digital technology help reignite the passion to interact with it?&nbsp;
+    We have seen a fall in interest in heritage amongst our architecture students. Could the use of digital technology help reignite the passion to interact with it?
   </p>
   
-  <cite>Professor Chris Landorf&nbsp;</cite>
+  <cite>Professor Chris Landorf</cite>
 </blockquote>
 
 ### **Authenticity vs fiction in cultural heritage digital storytelling**
 
-We now had a case study of the Hunterian Museum’s Antonine wall EMOTIVE experiences from my good friends at the&nbsp;University of Glasgow,&nbsp;Dr Maria Economou & Dr Hilary Young (who unfortunately could not come.) 
+We now had a case study of the Hunterian Museum’s Antonine wall EMOTIVE experiences from my good friends at theUniversity of Glasgow,Dr Maria Economou & Dr Hilary Young (who unfortunately could not come.) 
 
-I was lucky enough to try this experience out for myself in Glasgow the week before, when I dropped in unannounced on their user testing in gallery. The EMOTIVE team used a definition of a continuous exhibition space &#8211; online and on site. Keeping a cohesive overview going. The idea was to use the Antonine Wall gallery to create an emotional attachment to the experience they offered. In this project, an in-gallery app was tested with the tale of Ebutius, with limited agency of choice in the steps you took, whilst offering NFC/RFID interactions with loaned smartphones (no public WIFI like most University Museums &#8211; JANET regs) stops the BYOD experience.&nbsp;
+I was lucky enough to try this experience out for myself in Glasgow the week before, when I dropped in unannounced on their user testing in gallery. The EMOTIVE team used a definition of a continuous exhibition space &#8211; online and on site. Keeping a cohesive overview going. The idea was to use the Antonine Wall gallery to create an emotional attachment to the experience they offered. In this project, an in-gallery app was tested with the tale of Ebutius, with limited agency of choice in the steps you took, whilst offering NFC/RFID interactions with loaned smartphones (no public WIFI like most University Museums &#8211; JANET regs) stops the BYOD experience.
 
-This concept of capturing the emotional experience is an interesting facet. I look forward to the write ups.&nbsp;<figure class="wp-block-image">
+This concept of capturing the emotional experience is an interesting facet. I look forward to the write ups.<figure class="wp-block-image">
 
-<img src="https://museologi.st/images/uploads/2018/10/ebutius.jpg" alt="" class="wp-image-432" srcset="https://museologi.st/images/uploads/2018/10/ebutius.jpg 1737w, https://museologi.st/images/uploads/2018/10/ebutius-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/ebutius-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/ebutius-1024x576.jpg 1024w" sizes="(max-width: 1737px) 100vw, 1737px" /> <figcaption>Transition captured on the big screen&#8230;</figcaption></figure> 
+<img src="/images/2018/10/ebutius.jpg" alt="" class="img-fluid 432" srcset="/images/2018/10/ebutius.jpg 1737w, /images/2018/10/ebutius-300x169.jpg 300w, /images/2018/10/ebutius-768x432.jpg 768w, /images/2018/10/ebutius-1024x576.jpg 1024w" sizes="(max-width: 1737px) 100vw, 1737px" /> <figcaption>Transition captured on the big screen&#8230;</figcaption></figure> 
 
 ### **New visualisation technologies for historic assets, heritage institutions & cultural audience engagement  
 ** 
@@ -228,11 +228,11 @@ Fergus also gave us background on their company, potential for the future and fe
 
 We were also treated to a picture of most bonkers VR headset ever&#8230;<figure class="wp-block-image">
 
-<img src="https://museologi.st/images/uploads/2018/10/sillyvr.jpg" alt="" class="wp-image-433" srcset="https://museologi.st/images/uploads/2018/10/sillyvr.jpg 1650w, https://museologi.st/images/uploads/2018/10/sillyvr-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/sillyvr-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/sillyvr-1024x576.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /> <figcaption>VR headset at Venice Bienniale</figcaption></figure> 
+<img src="/images/2018/10/sillyvr.jpg" alt="" class="img-fluid 433" srcset="/images/2018/10/sillyvr.jpg 1650w, /images/2018/10/sillyvr-300x169.jpg 300w, /images/2018/10/sillyvr-768x432.jpg 768w, /images/2018/10/sillyvr-1024x576.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /> <figcaption>VR headset at Venice Bienniale</figcaption></figure> 
 
 ### **Letting heritage structures talk through photogrammetry** 
 
-Hamish Harvey (Bill Harvey Associates Limited) now spoke about his love for bridges (shared with his father) and talked passionately about Pontypryidd&#8217;s, photogrammetry, their extensive use of Capturing Reality and what they had managed to achieve. I won&#8217;t say much about this, but Lyn can in her tweet below.&nbsp;<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+Hamish Harvey (Bill Harvey Associates Limited) now spoke about his love for bridges (shared with his father) and talked passionately about Pontypryidd&#8217;s, photogrammetry, their extensive use of Capturing Reality and what they had managed to achieve. I won&#8217;t say much about this, but Lyn can in her tweet below.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -258,7 +258,7 @@ Albert Sierra also captured this great video:<figure class="wp-block-embed-twitt
 
 ### **The archaeoptics archive** 
 
-As we headed towards the end of the first day, we were then presented to by Alistair Carty (Replicade LTD) who has been involved with 3D in heritage for many years. He ran through the archive of work that he and colleagues have generated over time and posed serious questions. They have a vast data set, what do they do with it, where do you store it, how do you make it accessible.&nbsp;<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+As we headed towards the end of the first day, we were then presented to by Alistair Carty (Replicade LTD) who has been involved with 3D in heritage for many years. He ran through the archive of work that he and colleagues have generated over time and posed serious questions. They have a vast data set, what do they do with it, where do you store it, how do you make it accessible.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -272,7 +272,7 @@ As we headed towards the end of the first day, we were then presented to by Alis
 
 ### **Getting the measure of brochs**
 
-Following Alistair&#8217;s passionate talk, we were given a treat by Li Sou (University of Bradford, Historic Environment Scotland)&nbsp; who was presenting her PhD work on investigating Shetland’s Iron Age archaeology with digital documentation and historic survey records. I really enjoyed this as she used 2D archive records to compare with modern 3D captures and renderings. I took some pictures of the brochs she talked about in this paper, but I haven&#8217;t downloaded them yet, so for now you can have another tweet to highlight her work.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+Following Alistair&#8217;s passionate talk, we were given a treat by Li Sou (University of Bradford, Historic Environment Scotland) who was presenting her PhD work on investigating Shetland’s Iron Age archaeology with digital documentation and historic survey records. I really enjoyed this as she used 2D archive records to compare with modern 3D captures and renderings. I took some pictures of the brochs she talked about in this paper, but I haven&#8217;t downloaded them yet, so for now you can have another tweet to highlight her work.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -296,7 +296,7 @@ The last talk for the first day was from Rafael Maya Torcelly (Headland Archaeol
 
 ### The Lyn and Al show
 
-To close the day down, we then had Lyn Wilson and Al Rawlinson gave an overview of what the fantastic team are doing, will be doing and a summation of the day.&nbsp;<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+To close the day down, we then had Lyn Wilson and Al Rawlinson gave an overview of what the fantastic team are doing, will be doing and a summation of the day.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -308,7 +308,7 @@ To close the day down, we then had Lyn Wilson and Al Rawlinson gave an overview 
   </blockquote>
 </div></figure> 
 
-That was the end of Research and Innovation day, which was then capped by a reception in the brilliant Engine Shed facility and a conference speaker&#8217;s dinner and late night network building in Hotel Colessio bar.&nbsp;
+That was the end of Research and Innovation day, which was then capped by a reception in the brilliant Engine Shed facility and a conference speaker&#8217;s dinner and late night network building in Hotel Colessio bar.
 
 ### Digifest Day 1
 
@@ -326,17 +326,17 @@ The second day of Stirling&#8217;s digital adventures started after a night in t
 
 ### **Instruments of creation** 
 
-The keynote for day 1 was Mario Klingemann artist-in-residence at Google and former BL labs prize winner. Now was this a talk to blow your mind, oh yes, mind blown. GANs etc, the territory that Shawn Graham loves.&nbsp;
+The keynote for day 1 was Mario Klingemann artist-in-residence at Google and former BL labs prize winner. Now was this a talk to blow your mind, oh yes, mind blown. GANs etc, the territory that Shawn Graham loves.
 
 <blockquote class="wp-block-quote">
   <p>
-    Machine learning was invented to turn cats into data&nbsp;
+    Machine learning was invented to turn cats into data
   </p>
   
   <cite><a href="https://twitter.com/quasimondo">@quasimondo</a></cite>
 </blockquote><figure class="wp-block-image">
 
-<img src="https://museologi.st/images/uploads/2018/10/cats.jpg" alt="" class="wp-image-437" srcset="https://museologi.st/images/uploads/2018/10/cats.jpg 1650w, https://museologi.st/images/uploads/2018/10/cats-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/cats-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/cats-1024x576.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /> <figcaption>Cats to data</figcaption></figure> 
+<img src="/images/2018/10/cats.jpg" alt="" class="img-fluid 437" srcset="/images/2018/10/cats.jpg 1650w, /images/2018/10/cats-300x169.jpg 300w, /images/2018/10/cats-768x432.jpg 768w, /images/2018/10/cats-1024x576.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /> <figcaption>Cats to data</figcaption></figure> 
 
 Can he draw cats using AI, hell has frozen over. Yes he can. Can he make new works of art from the Google Cultural Institute catalogue, yes he can. He also showed AI driven music videos, with the Beastie Boys Sabotage reinvented. Way out.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
@@ -354,7 +354,7 @@ Can he draw cats using AI, hell has frozen over. Yes he can. Can he make new wor
 
 Following on from the magic code of Mario, we were then shown more Google-ness from Greg Downing (X-Rez Studios), who has been doing work with them for a while.<figure class="wp-block-image">
 
-<img src="https://museologi.st/images/uploads/2018/10/downing.jpg" alt="" class="wp-image-439" srcset="https://museologi.st/images/uploads/2018/10/downing.jpg 1650w, https://museologi.st/images/uploads/2018/10/downing-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/downing-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/downing-1024x576.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /> <figcaption>Some of the high quality content Greg has worked on</figcaption></figure> <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+<img src="/images/2018/10/downing.jpg" alt="" class="img-fluid 439" srcset="/images/2018/10/downing.jpg 1650w, /images/2018/10/downing-300x169.jpg 300w, /images/2018/10/downing-768x432.jpg 768w, /images/2018/10/downing-1024x576.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /> <figcaption>Some of the high quality content Greg has worked on</figcaption></figure> <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -380,7 +380,7 @@ He showed some fantastic technology, that unfortunately is not available to ever
 
 * * *
 
-_The DIGIDOC crowd were then lumbered with my ham-fisted attempt to chair the next two papers, which I had great pleasure to introduce. (I am glad I didn&#8217;t have to speak today, serious imposter syndrome would have kicked in with the quality on display.)&nbsp;_
+_The DIGIDOC crowd were then lumbered with my ham-fisted attempt to chair the next two papers, which I had great pleasure to introduce. (I am glad I didn&#8217;t have to speak today, serious imposter syndrome would have kicked in with the quality on display.)_
 
 * * *
 
@@ -400,7 +400,7 @@ I firstly introduced Pedro Santos (Fraunhofer Institute), who spoke with great t
 
 ### **Smithsonian open source 3D pipeline** 
 
-I then had the honour of introducing Vince Rossi from the Smithsonian who gave us a full on tour of their integrated 3D digitisation programme. I&#8217;ve been a fan of their work for a while now, and it was really interesting to see the pipelines, LEAN project methodology, software and processes they are working on and how this will become open source and [beta testing](https://docs.google.com/forms/d/1jdJxawnAK9u03nrV8KRzUEmg5u-Hzsh8euUC7uoAmh8/viewform?edit_requested=true) in Spring 2019. Vince also showed their massive metadata model (not sure if this is published anywhere, but they do contribute to C3DSP).&nbsp;<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+I then had the honour of introducing Vince Rossi from the Smithsonian who gave us a full on tour of their integrated 3D digitisation programme. I&#8217;ve been a fan of their work for a while now, and it was really interesting to see the pipelines, LEAN project methodology, software and processes they are working on and how this will become open source and [beta testing](https://docs.google.com/forms/d/1jdJxawnAK9u03nrV8KRzUEmg5u-Hzsh8euUC7uoAmh8/viewform?edit_requested=true) in Spring 2019. Vince also showed their massive metadata model (not sure if this is published anywhere, but they do contribute to C3DSP).<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -412,7 +412,7 @@ I then had the honour of introducing Vince Rossi from the Smithsonian who gave u
   </blockquote>
 </div></figure> 
 
-I absolutely loved the mammoth remix manga cartoon that Vince showed and how they encouraged reuse (though not using fully fledged CC licenses).&nbsp;
+I absolutely loved the mammoth remix manga cartoon that Vince showed and how they encouraged reuse (though not using fully fledged CC licenses).
 
 ### **Reality made digital and how the film industry make digital look like reality** 
 
@@ -424,7 +424,7 @@ Next up was a high impact tour of the film world, with Steven Ramsey (4D Max) ru
 
 Computer generated wizardry. 5GB/s data production, your worst nightmare in data storage land in cultural heritage.<figure class="wp-block-image">
 
-<img src="https://museologi.st/images/uploads/2018/10/multiplecameras.jpg" alt="" class="wp-image-440" srcset="https://museologi.st/images/uploads/2018/10/multiplecameras.jpg 1650w, https://museologi.st/images/uploads/2018/10/multiplecameras-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/multiplecameras-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/multiplecameras-1024x576.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /> <figcaption>My photogrammetry rig is better than yours. 187 DSLR simultaneous shooting on a jumping target. Wow.</figcaption></figure> 
+<img src="/images/2018/10/multiplecameras.jpg" alt="" class="img-fluid 440" srcset="/images/2018/10/multiplecameras.jpg 1650w, /images/2018/10/multiplecameras-300x169.jpg 300w, /images/2018/10/multiplecameras-768x432.jpg 768w, /images/2018/10/multiplecameras-1024x576.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /> <figcaption>My photogrammetry rig is better than yours. 187 DSLR simultaneous shooting on a jumping target. Wow.</figcaption></figure> 
 
 ### **History in your hand: how we made BBC civilisations AR**<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
@@ -452,11 +452,11 @@ We then had Claire Spencer Cook from Nexus Studios, creator of apps for the BBC 
 
 I really enjoyed Claire&#8217;s talk as she demonstrated background, story boards, production and the cycle of giving the product life.<figure class="wp-block-image">
 
-<img src="https://museologi.st/images/uploads/2018/10/storyboard.jpg" alt="" class="wp-image-441" srcset="https://museologi.st/images/uploads/2018/10/storyboard.jpg 1650w, https://museologi.st/images/uploads/2018/10/storyboard-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/storyboard-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/storyboard-1024x576.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /> <figcaption>One of Nexus&#8217;s story boards.</figcaption></figure> 
+<img src="/images/2018/10/storyboard.jpg" alt="" class="img-fluid 441" srcset="/images/2018/10/storyboard.jpg 1650w, /images/2018/10/storyboard-300x169.jpg 300w, /images/2018/10/storyboard-768x432.jpg 768w, /images/2018/10/storyboard-1024x576.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /> <figcaption>One of Nexus&#8217;s story boards.</figcaption></figure> 
 
 ### **How can heritage organisations offer VR to visitors?** 
 
-Then Catherine Allen (Limina Immersive), award winning VR creator extraordinaire (and author of the Digital Catapault report on the state of the use gave her talk about how we could get in on the game. Catharine talked about small scale VR theatre installations, using stand alone headsets and dedicated areas, the material she had worked on and become known for.&nbsp;<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+Then Catherine Allen (Limina Immersive), award winning VR creator extraordinaire (and author of the Digital Catapault report on the state of the use gave her talk about how we could get in on the game. Catharine talked about small scale VR theatre installations, using stand alone headsets and dedicated areas, the material she had worked on and become known for.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -468,26 +468,26 @@ Then Catherine Allen (Limina Immersive), award winning VR creator extraordinaire
   </blockquote>
 </div></figure> 
 
-Catharine also gave us an overview of some much needed statistical analysis of the VR industry and told us stories of her discovery of VR. A very engaging speaker. Recommend her if you see her on a programme in future.&nbsp;<figure class="wp-block-image">
+Catharine also gave us an overview of some much needed statistical analysis of the VR industry and told us stories of her discovery of VR. A very engaging speaker. Recommend her if you see her on a programme in future.<figure class="wp-block-image">
 
-<img src="https://museologi.st/images/uploads/2018/10/idid.jpg" alt="" class="wp-image-444" srcset="https://museologi.st/images/uploads/2018/10/idid.jpg 1084w, https://museologi.st/images/uploads/2018/10/idid-300x257.jpg 300w, https://museologi.st/images/uploads/2018/10/idid-768x657.jpg 768w, https://museologi.st/images/uploads/2018/10/idid-1024x876.jpg 1024w" sizes="(max-width: 1084px) 100vw, 1084px" /> <figcaption>Catharine&#8217;s slide &#8211; I did that.  
+<img src="/images/2018/10/idid.jpg" alt="" class="img-fluid 444" srcset="/images/2018/10/idid.jpg 1084w, /images/2018/10/idid-300x257.jpg 300w, /images/2018/10/idid-768x657.jpg 768w, /images/2018/10/idid-1024x876.jpg 1024w" sizes="(max-width: 1084px) 100vw, 1084px" /> <figcaption>Catharine&#8217;s slide &#8211; I did that.  
 </figcaption></figure> 
 
 ### **Immersive environments: enough gimmicks already** 
 
-Two talks to go and we were assailed by Prof. Paul Chapman (Glasgow School of Art), who gave us another view of the Gartner Hypecycle (see my talk above), pictures of him swimming. Paul&#8217;s talk was very entertaining and covered much ground. The tweets about this paper are worth checking out in the archive.&nbsp;<figure class="wp-block-image">
+Two talks to go and we were assailed by Prof. Paul Chapman (Glasgow School of Art), who gave us another view of the Gartner Hypecycle (see my talk above), pictures of him swimming. Paul&#8217;s talk was very entertaining and covered much ground. The tweets about this paper are worth checking out in the archive.<figure class="wp-block-image">
 
-<img src="https://museologi.st/images/uploads/2018/10/conf.jpg" alt="" class="wp-image-442" srcset="https://museologi.st/images/uploads/2018/10/conf.jpg 1650w, https://museologi.st/images/uploads/2018/10/conf-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/conf-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/conf-1024x576.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /> <figcaption>Confucius he says.</figcaption></figure> 
+<img src="/images/2018/10/conf.jpg" alt="" class="img-fluid 442" srcset="/images/2018/10/conf.jpg 1650w, /images/2018/10/conf-300x169.jpg 300w, /images/2018/10/conf-768x432.jpg 768w, /images/2018/10/conf-1024x576.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /> <figcaption>Confucius he says.</figcaption></figure> 
 
 ### **The art of pointcloud**
 
 Then closing paper for the 1st day of Digidoc proper was from Patryk Kizny (Kizny Visuals). He&#8217;d been lost in transit and I was on standby to talk, thank you for getting there. He spoke about an aesthetic approach to visualising LiDAR / pointclouds / photogrammetry data with much style and some great visuals, that just showed you what could be achieved. Hats off to your skills.<figure class="wp-block-image">
 
-<img src="https://museologi.st/images/uploads/2018/10/cinema.jpg" alt="" class="wp-image-445" srcset="https://museologi.st/images/uploads/2018/10/cinema.jpg 1650w, https://museologi.st/images/uploads/2018/10/cinema-300x169.jpg 300w, https://museologi.st/images/uploads/2018/10/cinema-768x432.jpg 768w, https://museologi.st/images/uploads/2018/10/cinema-1024x576.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /> <figcaption>First slide of Paul&#8217;s talk</figcaption></figure> 
+<img src="/images/2018/10/cinema.jpg" alt="" class="img-fluid 445" srcset="/images/2018/10/cinema.jpg 1650w, /images/2018/10/cinema-300x169.jpg 300w, /images/2018/10/cinema-768x432.jpg 768w, /images/2018/10/cinema-1024x576.jpg 1024w" sizes="(max-width: 1650px) 100vw, 1650px" /> <figcaption>First slide of Paul&#8217;s talk</figcaption></figure> 
 
 ## Closing thoughts
 
-The 2/3 of Digidoc that I attended were amazing, and the ability to vaguely follow on what was happening on Twitter for day 3 was a bonus. Content, graphics, equipment used, goodie bags, displays, people and atmosphere were all top notch. Some interesting questions were raised by participants, eg Rob Cawston below.&nbsp;<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+The 2/3 of Digidoc that I attended were amazing, and the ability to vaguely follow on what was happening on Twitter for day 3 was a bonus. Content, graphics, equipment used, goodie bags, displays, people and atmosphere were all top notch. Some interesting questions were raised by participants, eg Rob Cawston below.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
 <div class="wp-block-embed__wrapper">
   <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -503,7 +503,7 @@ However I did leave with the thought that the issue of the Digital Divide was no
 
 <blockquote class="wp-block-quote">
   <p>
-    I&nbsp; have expensive kit and access to funding and resources and we can create wonders type of feeling.
+    I have expensive kit and access to funding and resources and we can create wonders type of feeling.
   </p>
   
   <cite>Dan&#8217;s paraphrasing 🙂</cite>
@@ -515,4 +515,4 @@ That, however is the only bad thing I have to say about a splendid event. Fantas
 
 Go to the next one, you won&#8217;t be disappointed. And I leave you with this from Soluis Heritage&#8217;s Fergus &#8230;<figure class="wp-block-image">
 
-<img src="https://museologi.st/images/uploads/2018/10/questions.jpg" alt="" class="wp-image-434" srcset="https://museologi.st/images/uploads/2018/10/questions.jpg 1200w, https://museologi.st/images/uploads/2018/10/questions-300x225.jpg 300w, https://museologi.st/images/uploads/2018/10/questions-768x576.jpg 768w, https://museologi.st/images/uploads/2018/10/questions-1024x768.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /> </figure>
+<img src="/images/2018/10/questions.jpg" alt="" class="img-fluid 434" srcset="/images/2018/10/questions.jpg 1200w, /images/2018/10/questions-300x225.jpg 300w, /images/2018/10/questions-768x576.jpg 768w, /images/2018/10/questions-1024x768.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /> </figure>

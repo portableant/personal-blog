@@ -3,7 +3,7 @@ id: 195
 title: Portable Antiquities Scheme report launch
 date: 2011-05-25T17:43:15+01:00
 author: Daniel Pett
-layout: home
+layout: default
 guid: http://www.7pillarsofwisdom.co.uk/?p=195
 permalink: /portable-antiquities-scheme-report-launch/
 categories:

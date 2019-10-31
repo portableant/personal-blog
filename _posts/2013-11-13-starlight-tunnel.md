@@ -3,7 +3,7 @@ id: 223
 title: Starlight tunnel
 date: 2013-11-13T09:15:28+01:00
 author: Daniel Pett
-layout: home
+layout: default
 guid: http://www.7pillarsofwisdom.co.uk/?p=223
 permalink: /starlight-tunnel/
 categories:

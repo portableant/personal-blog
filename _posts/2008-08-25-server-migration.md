@@ -3,7 +3,7 @@ id: 41
 title: Server migration
 date: 2008-08-25T14:33:18+01:00
 author: Daniel Pett
-layout: home
+layout: default
 guid: http://www.7pillarsofwisdom.co.uk/?p=41
 permalink: /server-migration/
 oc_commit_id:
