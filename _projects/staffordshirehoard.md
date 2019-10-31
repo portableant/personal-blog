@@ -2,26 +2,21 @@
 layout: default
 title: The Staffordshire Hoard Website
 institution: The British Museum
-thumbnail: findsorguk.jpg
-funders:
-  - DCMS
-  - Heritage Lottery Fund
-  - The Headley Trust
-  - The British Museum Research Fund
+role: Project Director
+collaborators:
+  - Katharine Kelland
+  - Roger Bland
+  - Kevin Leahy
+thumbnail: staffs.png
 role: Website Creator
 slug: the-staffordshire-hoard
 ---
-This project which is generously funded by the Arts and Humanities Research Council (AHRC) brings together three key actors in the heritage ecosystem:
+This site was built in one day by Daniel Pett, PAS ICT Adviser, using the OpenSource Textpattern Content Management System which is freely available from www.textpattern.com. The labeling of images was conducted by Katharine Kelland over a period of a few days. The data was manipulated from original work by Kevin Leahy via Roger Bland. The fantastic images come from a variety of sources - Daniel Buxton, David Rowan Birmingham University, the councils involved and Duncan Slarke (the local FLO).
 
-the University of Cambridge
-the Fitzwilliam Museum
-two industrial collaborators - Museum in a Box and ThinkSee3D
-When combined they provide three essential perspectives that will enable us to choose and drive forward four early career researcher (ECR) projects that will lead to enhanced collaborations that benefit the creative economy. The University of Cambridge is home to a nucleus of world leading collections under the banner of University of Cambridge Museums (UCM) and this project will aim to enable innovation across the group.
+The technology employed is enhanced by a variety of plugins which leverages different content providers. A content delivery network has been used for delivering the jQuery javascript framework, and images are hosted on Flickr's site.
 
-The efficacy of this type of partnership can be developed during this project to refine engagement models for the future. A particular challenge for businesses selling into the cash-strapped heritage industry is access to customers; in this project the Fitzwilliam Museum will be in the unique position of being both a research partner and the provider of invaluable input as a potential customer/end user for heritage industry products.
-
-By providing a shared base within a museum and through partnership with industrial collaborators, the researchers will benefit from exposure to two new contexts in which their research could be used. The ECRs will also be able to apply their expertise to a live challenge and foster cross-sectoral information sharing and awareness-raising both during this project and in their future careers.
-
-Our partners bring very unique skillsets to the Museum. ThinkSee3D and Museum in a Box are innovators in joining heritage with digital. This site will document our 2019 journey of collaborations, events and products.
-
-This project is grant AH/S012583/1 part of the Development Grants Scheme. It starts on January 1st 2019 and finishes on December 31st 2019.
+Flickr's api - using a customised and extended version of the VDH_flickr plugin, in combination with Lightbox2
+YQL and Twitter in conjunction with the simplepie extension to see what people have been saying about the hoard in realtime
+YQL to pull in online news articles for the hoard
+Youtube/vimeo to find video footage of news stories - these will appear when they become available
+Textpattern is gaining a following in the Heritage sector with LP Archaeology producing a number of their sites on the platform.

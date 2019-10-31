@@ -2,11 +2,10 @@
 layout: default
 title: Do Not Touch
 institution: The Fitzwilliam Museum
-thumbnail: ceef3d.jpg
+thumbnail: touch.jpg
+background: /images/layouts/touch.jpg
 funders:
-  - AHRC
-grant_number: AH/S012583/1
-grant_amount: £201,557
+  - AHIF
 categories:
   - 3D
   - museums
@@ -16,32 +15,22 @@ tags:
   - Creative Economy
   - AHRC
 collaborators:
-  - Abi Glen
   - Joanne Vine
-  - Jennifer Wexler
-  - Catriona Cooper
-  - Melanie Pitkin
+  - Helena Rodwell
 partners:
   - ThinkSee3D
-  - Museum in a Box
-github_repo: https://github.com/fitzwilliammuseum
-zenodo_doi: ''
 start: 2019-01-01
 end: 2019-12-31
 date: 2019-10-29T22:51:56+01:00
 ---
-This project which is generously funded by the Arts and Humanities Research Council (AHRC) brings together three key actors in the heritage ecosystem:
+This research project is looking at the effectiveness of different touching deterrent methods used for the collections on open display at The Fitzwilliam Museum.
 
-* the University of Cambridge
-* the Fitzwilliam Museum
-* two industrial collaborators - Museum in a Box and ThinkSee3D
+It is understood within the conservation sector that touching can have a detrimental effect on materials and accelerate deterioration. There is a lively and active discussion in the conservation and museum sector about what can be done to offer increased access to collections while not compromising conservation principles.
 
-When combined they provide three essential perspectives that will enable us to choose and drive forward four early career researcher (ECR) projects that will lead to enhanced collaborations that benefit the creative economy. The University of Cambridge is home to a nucleus of world leading collections under the banner of University of Cambridge Museums (UCM) and this project will aim to enable innovation across the group.
+There is much anecdotal evidence of which methods are more effective than others. Further insight can be gained by looking at the frequency of touching, the type of visitor, the gallery environment, whether some types of collection are touched more than others (e.g. furniture, sculpture, religious) and the variety of deterrent methods already in use.
 
-The efficacy of this type of partnership can be developed during this project to refine engagement models for the future. A particular challenge for businesses selling into the cash-strapped heritage industry is access to customers; in this project the Fitzwilliam Museum will be in the unique position of being both a research partner and the provider of invaluable input as a potential customer/end user for heritage industry products.
+Understanding the efficacy of deterrence methods would allow for a more informed approach to displaying objects. Through this research, we hope to improve protection for the collections from wear & tear caused by touching, whilst maintaining curatorial integrity, visitor enjoyment and education.
 
-By providing a shared base within a museum and through partnership with industrial collaborators, the researchers will benefit from exposure to two new contexts in which their research could be used. The ECRs will also be able to apply their expertise to a live challenge and foster cross-sectoral information sharing and awareness-raising both during this project and in their future careers.
+Helena Rodwell, Assistant Conservator (Collections Care) will be facilitating this project in order to gather knowledge from staff and volunteers, as well as obtain quantifiable data through observation in the galleries and engaging with visitors on the topic.
 
-Our partners bring very unique skillsets to the Museum. ThinkSee3D and Museum in a Box are innovators in joining heritage with digital. This site will document our 2019 journey of collaborations, events and products.
-
-This project is grant AH/S012583/1 part of the Development Grants Scheme. It starts on January 1st 2019 and finishes on December 31st 2019.
+There may be volunteering opportunities within the scope of this project. Any roles will be offered through the University of Cambridge Museums website.

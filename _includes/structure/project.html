@@ -50,3 +50,20 @@
   <li><a href="{{ page.github_repo }}">Repository</a></li>
 </ul>
 {% endif %}
+
+{% if page.zenodo_doi %}
+<h3>Zenodo DOI</h3>
+<ul>
+  <li>{{ page.zenodo_doi }}</li>
+</ul>
+{% endif %}
+
+{% if page.start %}
+<h3>Timings</h3>
+<ul>
+  <li>Project start: {{ page.start | date_to_string }}</li>
+  {% if page.end %}
+  <li>Project end: {{ page.end | date_to_string }}</li>
+  {% endif %}
+</ul>
+{% endif %}

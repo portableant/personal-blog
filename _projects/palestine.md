@@ -1,14 +1,8 @@
 ---
 layout: default
 title: Palestine Exploration Fund website
-institution: The British Museum
-thumbnail: findsorguk.jpg
-funders:
-  - DCMS
-  - Heritage Lottery Fund
-  - The Headley Trust
-  - The British Museum Research Fund
-role: Co-Investigator
+thumbnail: pef.jpg
+role: Trustee
 slug: palestine-exploration
 ---
 This project which is generously funded by the Arts and Humanities Research Council (AHRC) brings together three key actors in the heritage ecosystem:

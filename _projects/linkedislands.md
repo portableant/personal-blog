@@ -2,7 +2,8 @@
 layout: default
 title: Linking Islands of Data
 institution: The Fitzwilliam Museum
-thumbnail: linked.jpg
+thumbnail: leptis.jpg
+background: /images/projects/linking/portolanChart.jpg
 funders:
   - AHRC
 grant_number: AH/S012478/1

@@ -2,6 +2,7 @@
 layout: default
 permalink: /blog/
 title: Erratic blogging
+background: /images/layouts/kyoto.jpg
 ---
 <ul>
   {% for post in site.posts %}

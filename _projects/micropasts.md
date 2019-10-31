@@ -1,27 +1,25 @@
 ---
 layout: default
-title: MicroPasts
+title: "MicroPasts: crowdfuelled archaeological research"
 institution: The British Museum
-thumbnail: findsorguk.jpg
+thumbnail: micropasts.png
+background: /images/projects/micropasts/micro.jpg
 funders:
-  - DCMS
-  - Heritage Lottery Fund
-  - The Headley Trust
-  - The British Museum Research Fund
+  - AHRC
+collaborators:
+  - Andy Bevan
+  - Chiara Bonacchi
+  - Rachael Sparks
+  - Jennifer Wexler
+  - Adi Keinan-Schoonbaert
+  - Neil Wilkin
+partners:
+  - UCL Archaeology
+  - Egypt Exploration Society
+  - Palestine Exploration Fund
+  - Denver Museum of Nature and Science
 role: Co-Investigator
+
 slug: micropasts-crowd-powered
 ---
-This project which is generously funded by the Arts and Humanities Research Council (AHRC) brings together three key actors in the heritage ecosystem:
-
-the University of Cambridge
-the Fitzwilliam Museum
-two industrial collaborators - Museum in a Box and ThinkSee3D
-When combined they provide three essential perspectives that will enable us to choose and drive forward four early career researcher (ECR) projects that will lead to enhanced collaborations that benefit the creative economy. The University of Cambridge is home to a nucleus of world leading collections under the banner of University of Cambridge Museums (UCM) and this project will aim to enable innovation across the group.
-
-The efficacy of this type of partnership can be developed during this project to refine engagement models for the future. A particular challenge for businesses selling into the cash-strapped heritage industry is access to customers; in this project the Fitzwilliam Museum will be in the unique position of being both a research partner and the provider of invaluable input as a potential customer/end user for heritage industry products.
-
-By providing a shared base within a museum and through partnership with industrial collaborators, the researchers will benefit from exposure to two new contexts in which their research could be used. The ECRs will also be able to apply their expertise to a live challenge and foster cross-sectoral information sharing and awareness-raising both during this project and in their future careers.
-
-Our partners bring very unique skillsets to the Museum. ThinkSee3D and Museum in a Box are innovators in joining heritage with digital. This site will document our 2019 journey of collaborations, events and products.
-
-This project is grant AH/S012583/1 part of the Development Grants Scheme. It starts on January 1st 2019 and finishes on December 31st 2019.
+MicroPasts is a free and open-source, crowd-sourcing platform which supports massive online data collection about the human past (e.g. for researchers in archaeology, history and heritage). It is inspired by existing multi-application, crowd-sourcing projects such as Zooniverse or Crowdcrafting and, like the latter, is built using the excellent Pybossa platform. PyBossa handles storage of data, management of users, and overall workflow, while individual projects are written in Javascript and HTML5. For now, we are developing example projects for common research tasks that require either widespread user contributions (such as on-location photography) or human intelligence (such as geocoding, image classification, transcription and more). In the future, we also wish to help researchers in archaeology, history and heritage to create their own crowd-sourcing projects from scratch and host them here. All the software and data we create is placed immediately into the public domain.

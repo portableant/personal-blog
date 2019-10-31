@@ -2,8 +2,12 @@
 layout: default
 category: research
 title: Projects
-background: ''
+background: '/images/layouts/fushimi.jpg'
 ---
+
+This page documents various projects I've worked on over my career in museums.
+Some of these are more richly documented than others, but I try to include links
+to code, publications and funding details where possible.
 
 {% assign rows = site.projects.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}

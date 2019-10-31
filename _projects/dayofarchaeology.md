@@ -2,13 +2,10 @@
 layout: default
 title: Day of Archaeology
 institution: The British Museum
-thumbnail: ceef3d.jpg
-funders:
-  - AHRC
-grant_number: AH/S012583/1
-grant_amount: £201,557
+thumbnail: dayofarchaeology.jpg
+background: /images/projects/dayofarch/dayofarch-tweets-detail.jpg
 categories:
-  - 3D
+  - public archaeology
   - museums
 tags:
   - 3D
@@ -16,20 +13,20 @@ tags:
   - Creative Economy
   - AHRC
 collaborators:
-  - Abi Glen
-  - Joanne Vine
-  - Jennifer Wexler
-  - Catriona Cooper
-  - Melanie Pitkin
+  - Lorna Richardson
+  - Matt Law
+  - Jessica Ogden
+  - Andrew Rheinhard
+  - Kate Ellenberger
 partners:
-  - Google Creative Lab
-github_repo: https://github.com/googlecreativelab/xyfi
-zenodo_doi: ''
-start: 2019-01-01
-end: 2019-12-31
+  - The Archaeology Data Service
+github_repo: https://github.com/drmattlaw/dayofarchaeology
+start: 2011-07-01
+end: 2017-07-31
 date: 2019-10-29T22:51:56+01:00
 slug: day-of-archaeology
 ---
-In 2017, the British Museum partnered with Google’s Creative Lab (based in Sydney) to work on an immersive digital experience focused on a single piece of the world revered Buddhist site of the Great Shrine of Amaravati. This experience used projection, sonification and human computer interaction methodologies to blend together an experience built upon bring your own device principles (BYOD), which enabled the public to unpack in depth information about the focal point of the gallery. In just under 3 months, over 100,000 people visited this single gallery installation bringing with it a wide array of lessons for technologists engaged with in gallery digital works. The source code for this project was released under an open licence by Google on Github and the 3D model generated was released on Sketchfab and was download ready for people to reproduce in their own homes. A video detailing this exhibition can be found here: https://fitz.ms/xyfi
 
-This was the first part of the journey for the British Museum’s collection of architectural fragments of this shrine to be reinstalled in its own dedicated gallery, with an associated digital reconstruction built by Soluis Heritage (Glasgow). This reconstruction is a simple video tour of the site, built with architectural modelling and incorporating 3D models created at short notice using photogrammetry (with no regard for health and safety of the author). All of these 3D models can be recreated by any one with the appropriate software, as their source data has been released openly under creative commons licence and they are all available on Sketchfab (https://fitz.ms/g33bm), some with annotations encoding the scholarly knowledge of Dr Imma Ramos and Dr Richard Blurton. The video of this installation piece can be found here https://fitz.ms/d
+Have you ever wondered what archaeologists really get up to? Is it all just digging or is there a lot more to it? The Day of Archaeology project aims to provide a window into the daily lives of archaeologists from all over the world.  The project asks people working, studying or volunteering in the archaeological world to participate with us in a “Day of Archaeology” each year in the summer by recording their day and sharing it through text, images or video on this website.  The resulting Day of Archaeology project demonstrates the wide variety of work our profession undertakes day-to-day across the globe, and helps to raise public awareness of the relevance and importance of archaeology to the modern world. We want anyone with a personal, professional or voluntary interest in archaeology to get involved, and help highlight the reasons why archaeology is vital to protect the past and inform our futures.
+
+The project is run by a team of volunteers who are all professional archaeologists, and taking part in the project is completely free.  The whole Day of Archaeology relies on goodwill and a passion for public engagement!
