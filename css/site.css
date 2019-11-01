@@ -8,6 +8,34 @@
   margin-bottom: 0;
 }
 
+@media screen and (min-width: 412px) {
+  .head {
+    padding-top: 100px;
+    /* display: none; */
+    /* visibility: hidden; */
+  }
+  .hide {
+    padding-top:5rem;
+  }
+  .division {
+    text-align: center;
+  }
+  .shout {
+    color: white!important;
+    font-family: 'Yrsa', serif;
+    font-size: 10rem;
+    margin-top:4rem;
+  }
+  .shout-less {
+    color: white!important;
+    font-family: 'Yrsa', serif;
+    font-size: 4rem;
+  }
+  /* .jumbotron {
+  display: none;
+  } */
+}
+
 @media screen and (max-width: 400px) {
   .head {
     padding-top: 100px;
@@ -23,17 +51,14 @@
   .shout {
     color: white!important;
     font-family: 'Yrsa', serif;
-    font-size: 6rem;
+    font-size: 4rem;
     margin-top:4rem;
   }
   .shout-less {
     color: white!important;
     font-family: 'Yrsa', serif;
-    font-size: 2rem;
+    font-size: 4rem;
   }
-  /* .jumbotron {
-  display: none;
-  } */
 }
 
 footer, .chip-icon {
@@ -307,19 +332,7 @@ label.cm-app-label {
 body {
   font-size: 1.1rem;
 }
-@media screen and (min-width: 400px) {
-  .shout {
-    color: white!important;
-    font-family: 'Yrsa', serif;
-    font-size: 10rem;
-    margin-top:4rem;
-  }
-  .shout-less {
-    color: white!important;
-    font-family: 'Yrsa', serif;
-    font-size: 4rem;
-  }
-}
+
 .bg-black-opacity {
   background-color: rgba(000,0,0,0.7)!important;
 }
