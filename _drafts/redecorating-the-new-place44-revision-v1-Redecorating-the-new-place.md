@@ -15,8 +15,8 @@ permalink: /44-revision-v1/
   </p>
 </div>
 
-Since we moved into Battersea back in Feb this year, we&#8217;ve been wanting to get the house redecorated and eradicate the Morocco tinges that the previous owners had installed. So out with the orange, dark blue and the horrid yellowy/brown sort of magnolia. We&#8217;ve had a bit of help putting up the wall paper from Kate&#8217;s parents, but the rest of the painting has been done by Kate and me. We now need to follow this up with some bits and pieces to make it really look like a home.
+Since we moved into Battersea back in Feb this year, we've been wanting to get the house redecorated and eradicate the Morocco tinges that the previous owners had installed. So out with the orange, dark blue and the horrid yellowy/brown sort of magnolia. We've had a bit of help putting up the wall paper from Kate's parents, but the rest of the painting has been done by Kate and me. We now need to follow this up with some bits and pieces to make it really look like a home.
 
 Big improvement? We think so!
 
-We&#8217;ve also managed to rent my Docklands flat to Kate&#8217;s sister and her husband, so finally some cash coming in!
+We've also managed to rent my Docklands flat to Kate's sister and her husband, so finally some cash coming in!

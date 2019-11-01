@@ -15,6 +15,6 @@ permalink: /37-revision-v1/
   </p>
 </div>
 
-As Kate and I have now moved into a house in Battersea, she is now allowed a cat. It is something she has wanted since her last kitty Bertie died a few years ago. We went to Battersea Cats and Dogs home with James and chose a stray called Tommy Boy. He&#8217;s a short haired tabby cat, about two years old and he had to be renamed. Now, I wanted to call the cat either Bastard, Satan or just Cat; Kate was against this, so we used a classical name. We went through the Mythological characters and finally settled on the name Pericles, the great Athenian general and man behind the Parthenon.
+As Kate and I have now moved into a house in Battersea, she is now allowed a cat. It is something she has wanted since her last kitty Bertie died a few years ago. We went to Battersea Cats and Dogs home with James and chose a stray called Tommy Boy. He's a short haired tabby cat, about two years old and he had to be renamed. Now, I wanted to call the cat either Bastard, Satan or just Cat; Kate was against this, so we used a classical name. We went through the Mythological characters and finally settled on the name Pericles, the great Athenian general and man behind the Parthenon.
 
-He&#8217;s now settled in to the house, but has picked up a bit of a sniffle and is currently hiding under the dresser. Hopefully he&#8217;ll be out and about soon.
+He's now settled in to the house, but has picked up a bit of a sniffle and is currently hiding under the dresser. Hopefully he'll be out and about soon.

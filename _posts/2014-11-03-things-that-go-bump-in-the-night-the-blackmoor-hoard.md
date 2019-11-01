@@ -25,7 +25,7 @@ The superb Bronze Age objects in the British Museum collection do not tell the w
 
 Known as the &#8216;principal instrument of research in the British Bronze Age', the main concept behind the creation of the Index was the idea that by compiling a corpus of all Bronze Age metal objects found in the various museums and collections across the UK, it would be possible for the first time for researchers to study âthe movements of peoples and trade through the exhaustive study of the distributions of certain types of implements and weapons used in the period. 
 
-This corpus took the form of an illustrated card catalogue, with each index card detailing object findspots and types, alongside detailed line drawings and a wide range of further information about the object&#8217;s context of discovery, illustrated below. 
+This corpus took the form of an illustrated card catalogue, with each index card detailing object findspots and types, alongside detailed line drawings and a wide range of further information about the object's context of discovery, illustrated below. 
 
 For over 70 years, it represented the highest standards of Bronze Age object studies.An example of an Index card, a flanged axe found while âcutting an equestrian figure of King George IIIâ, from Osmington Hill, DorsetThe Bronze Age Index now contains over 30,000 records of Bronze Age tools and weapons largely discovered during the 19th and 20th centuries, and complements our current Portable Antiquities Scheme (PAS) Database of metal object finds. 
 

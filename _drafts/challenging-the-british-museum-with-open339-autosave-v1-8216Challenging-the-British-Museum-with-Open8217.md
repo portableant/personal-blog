@@ -1,6 +1,6 @@
 ---
 id: 415
-title: '&#8216;Challenging the British Museum with Open&#8217;'
+title: '&#8216;Challenging the British Museum with Open''
 date: 2018-10-17T12:03:35+01:00
 author: Daniel Pett
 layout: revision

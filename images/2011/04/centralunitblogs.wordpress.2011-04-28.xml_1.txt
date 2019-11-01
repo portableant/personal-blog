@@ -9586,7 +9586,7 @@ The new CCI looks very very promising...]]></wp:comment_content>
 			<wp:comment_date_gmt>2007-06-14 13:09:01</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[<strong>Celtic Coin Index</strong>
 
-I urge you to try out the new Celtic Coin Index website. Dan Pett has built the website for this fabulous resource from scratch, and it&#8217;s packed with modern features such as Google Maps, RSS, GeoRSS, tag clouds, and even an API (coming soon).
+I urge you to try out the new Celtic Coin Index website. Dan Pett has built the website for this fabulous resource from scratch, and it's packed with modern features such as Google Maps, RSS, GeoRSS, tag clouds, and even an API (coming soon).
 Th...]]></wp:comment_content>
 			<wp:comment_approved>1</wp:comment_approved>
 			<wp:comment_type>trackback</wp:comment_type>
@@ -10222,7 +10222,7 @@ It seems that the cult died out with the Saxon invasions of the 5th century and 
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>93</wp:comment_id>
-			<wp:comment_author><![CDATA[Ancient British cult of Totatis &laquo; Antiquarian&#8217;s Attic]]></wp:comment_author>
+			<wp:comment_author><![CDATA[Ancient British cult of Totatis &laquo; Antiquarian's Attic]]></wp:comment_author>
 			<wp:comment_author_email></wp:comment_author_email>
 			<wp:comment_author_url>http://saesferd.wordpress.com/2007/07/17/ancient-british-cult-of-totatis/</wp:comment_author_url>
 			<wp:comment_author_IP>72.232.131.4</wp:comment_author_IP>
@@ -11337,7 +11337,7 @@ The curse tablet is recorded as database record: <a href="http://www.findsdataba
 			<wp:comment_author_IP>81.29.72.70</wp:comment_author_IP>
 			<wp:comment_date>2007-12-17 11:07:59</wp:comment_date>
 			<wp:comment_date_gmt>2007-12-17 11:07:59</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[[...] Roman curse tablet outlined in Sam Moorhead&#8217;s article - &#8220;Cursing the Emperor&#8221; has featured in this morning&#8217;s Guardian in an article entitled &#8220;Rare find [...] ]]></wp:comment_content>
+			<wp:comment_content><![CDATA[[...] Roman curse tablet outlined in Sam Moorhead's article - &#8220;Cursing the Emperor&#8221; has featured in this morning's Guardian in an article entitled &#8220;Rare find [...] ]]></wp:comment_content>
 			<wp:comment_approved>1</wp:comment_approved>
 			<wp:comment_type>pingback</wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -13233,7 +13233,7 @@ To read the rest, <a href="http://www.archaeology.org/curiss/trenches/viking.htm
 			<wp:comment_author_IP>66.112.209.74</wp:comment_author_IP>
 			<wp:comment_date>2007-10-29 19:53:42</wp:comment_date>
 			<wp:comment_date_gmt>2007-10-29 18:53:42</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[[...] hoard featured in Archaeology magazine  Daniel Pett created an interesting post today on Harrogate hoard featured in Archaeology magazineHere&#8217;s a [...] ]]></wp:comment_content>
+			<wp:comment_content><![CDATA[[...] hoard featured in Archaeology magazine  Daniel Pett created an interesting post today on Harrogate hoard featured in Archaeology magazineHere's a [...] ]]></wp:comment_content>
 			<wp:comment_approved>1</wp:comment_approved>
 			<wp:comment_type>pingback</wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -13625,7 +13625,7 @@ To use the first two features, you need a Google account, which of course is fre
 			<wp:comment_author_IP>72.232.131.32</wp:comment_author_IP>
 			<wp:comment_date>2008-01-20 01:33:33</wp:comment_date>
 			<wp:comment_date_gmt>2008-01-20 01:33:33</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[[...] you can see the various ways they&#8217;re making themselves public. Here they are on Facebook. Here they are on Google Earth. Here they are with PDFs of a recent talk about mash-ups. The mash-ups are possibly the most [...] ]]></wp:comment_content>
+			<wp:comment_content><![CDATA[[...] you can see the various ways they're making themselves public. Here they are on Facebook. Here they are on Google Earth. Here they are with PDFs of a recent talk about mash-ups. The mash-ups are possibly the most [...] ]]></wp:comment_content>
 			<wp:comment_approved>1</wp:comment_approved>
 			<wp:comment_type>pingback</wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -13704,7 +13704,7 @@ So if you want to show who you are - join either <a href="http://www.facebook.co
 			<wp:comment_author_IP>66.135.48.191</wp:comment_author_IP>
 			<wp:comment_date>2008-01-19 13:03:49</wp:comment_date>
 			<wp:comment_date_gmt>2008-01-19 13:03:49</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[[...] you go to their weblog you can see the various ways they&#8217;re making themselves public. Here they are on Facebook. Here they are on Google Earth. Here they are with PDFs of a recent talk about mash-ups. The [...] ]]></wp:comment_content>
+			<wp:comment_content><![CDATA[[...] you go to their weblog you can see the various ways they're making themselves public. Here they are on Facebook. Here they are on Google Earth. Here they are with PDFs of a recent talk about mash-ups. The [...] ]]></wp:comment_content>
 			<wp:comment_approved>1</wp:comment_approved>
 			<wp:comment_type>pingback</wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -15135,7 +15135,7 @@ Definitely saves some time and processing power for the unmathematically minded 
 			<wp:comment_author_IP>72.232.131.32</wp:comment_author_IP>
 			<wp:comment_date>2008-03-08 12:24:43</wp:comment_date>
 			<wp:comment_date_gmt>2008-03-08 12:24:43</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[[...] 8, 2008 by Alun    I&#8217;m falling behind on my reading of RSS feeds, so the news that the Portable Antiquities Scheme has put some of its data on Swivel is new to me, even though the post is a week old. Swivel seems to be a graphing website. People [...] ]]></wp:comment_content>
+			<wp:comment_content><![CDATA[[...] 8, 2008 by Alun    I'm falling behind on my reading of RSS feeds, so the news that the Portable Antiquities Scheme has put some of its data on Swivel is new to me, even though the post is a week old. Swivel seems to be a graphing website. People [...] ]]></wp:comment_content>
 			<wp:comment_approved>1</wp:comment_approved>
 			<wp:comment_type>pingback</wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -17094,7 +17094,7 @@ I've now put my <a href="http://www.frankieroberto.com/demos/exhibition_timeline
 			<wp:comment_author_IP>72.233.44.57</wp:comment_author_IP>
 			<wp:comment_date>2008-06-30 07:28:08</wp:comment_date>
 			<wp:comment_date_gmt>2008-06-30 07:28:08</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[[...] for visualising the data. However the most comprehensive summary of the day I&#8217;ve found is available on the Findus.org.uk blog which gives an excellent overview of several of the developments, together with a more in depth [...] ]]></wp:comment_content>
+			<wp:comment_content><![CDATA[[...] for visualising the data. However the most comprehensive summary of the day I've found is available on the Findus.org.uk blog which gives an excellent overview of several of the developments, together with a more in depth [...] ]]></wp:comment_content>
 			<wp:comment_approved>1</wp:comment_approved>
 			<wp:comment_type>pingback</wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>

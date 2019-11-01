@@ -10,5 +10,5 @@ permalink: /447-revision-v1/
 p, li {  
 font-size: 16px;  
 color: black;  
-font-family: &#8216;Roboto&#8217;, sans-serif;  
+font-family: &#8216;Roboto', sans-serif;  
 }

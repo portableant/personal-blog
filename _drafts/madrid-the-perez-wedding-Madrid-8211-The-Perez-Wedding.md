@@ -37,7 +37,7 @@ tags:
   </p>
 </div>
 
-Last weekend, we went to Carolina Perez&#8217;s wedding to Adam Furgal. It was only the second time that Kate and I had been to Spain and we found Madrid to be far more enjoyable than Barcelona. Apart from the wedding, we also went to two fantastic exhibitions and a couple of art museums (not so great :))We stayed in a modernist hotel called Room Mate Laura, which had carpet on the bedroom walls and large Post medieval images behind the bedsteads!
+Last weekend, we went to Carolina Perez's wedding to Adam Furgal. It was only the second time that Kate and I had been to Spain and we found Madrid to be far more enjoyable than Barcelona. Apart from the wedding, we also went to two fantastic exhibitions and a couple of art museums (not so great :))We stayed in a modernist hotel called Room Mate Laura, which had carpet on the bedroom walls and large Post medieval images behind the bedsteads!
 
 If you get the chance to go to Madrid, I really recommend going to the [Submerged Treasures of Egypt](http://www.tesoros-sumergidos-egipto.es/l/3/Exhibition.aspx) exhibition at the Slaughter House (some amazing artefacts from Canopus, Alexandria and Heracleion) and also to the National Museum of Archaeiology ( a very simple, yet powerful display of Spanish and Central American archaeology.)
 

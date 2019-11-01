@@ -11,7 +11,7 @@ permalink: /466-revision-v1/
 
 At the Fitzwilliam Museum, we have a large amount of old websites that were built over the last decade. Many of these are now presenting security risks as they are on old WordPress installations, or they are just plain hand coded HTML. To alleviate the burden for supporting these sites, I have been transferring as much as possible to [Jekyll](https://jekyllrb.com/) powered Github Pages instances (although I am also looking at [Gatsby](https://gatsbyjs.com)).
 
-I&#8217;m attracted to Jekyll, due to the powerful conversion of very simple**markdown** files. Lightweight, easy to edit, hard to break and easy to run through version control. I&#8217;m hoping that we can use this format to stay away from heavily customising content management systems for our research sections at the Fitz. The sheer amount of sites that we have now got makes administering them all a gigantic task. Going this way, with simple text files might make it easier, or it might be a red herring.
+I'm attracted to Jekyll, due to the powerful conversion of very simple**markdown** files. Lightweight, easy to edit, hard to break and easy to run through version control. I'm hoping that we can use this format to stay away from heavily customising content management systems for our research sections at the Fitz. The sheer amount of sites that we have now got makes administering them all a gigantic task. Going this way, with simple text files might make it easier, or it might be a red herring.
 
 ### How to generate? Is it hard?
 
@@ -29,7 +29,7 @@ Once that has completed (if your permissions are all set correctly) you should h
 
 ### Generating the site skeleton
 
-You&#8217;re now ready to create the basic outline for the site. In terminal again run the following command, replacing {sitename} with the folder you want to create:
+You're now ready to create the basic outline for the site. In terminal again run the following command, replacing {sitename} with the folder you want to create:
 
 <code>jekyll new {sitename}<br /></code>
 
@@ -49,7 +49,7 @@ You will find a file with the name in this format below:
 
 <code>2018-10-22-welcome-to-jekyll.markdown<br /></code>
 
-We are going to generate a site with custom page structure and to do this we&#8217;re going to use collections and delete the posts structure. To do this, we&#8217;ll edit the _config.yml file and set up some extra folder structure; in this case we want a folder called tutorials. 
+We are going to generate a site with custom page structure and to do this we're going to use collections and delete the posts structure. To do this, we'll edit the _config.yml file and set up some extra folder structure; in this case we want a folder called tutorials. 
 
 Remove \_posts, make folder and then edit the \_config file:
 

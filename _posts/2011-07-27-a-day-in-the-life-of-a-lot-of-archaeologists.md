@@ -20,6 +20,6 @@ All these submissions will be moderated and released through the project's websi
 
 The project now has expressions of interest from people working on excavation in Belize, scientists working in laboratories, archaeologists talking about how cuts have affected their work, community archaeologists leading workshops and museum educators teaching the next generation about the magic of archaeology.
 
-The very first post to be published, at 00:01 on the 29 July, will be from Maev Kennedy, who writes about archaeology  among other things for the Guardian newspaper, about why she is in awe of archaeology. Once complete, the experiment will form part of Lorna&#8217;s PhD research and will also be written up for academic publication and be used as a model for public engagement at this yearâ's Theoretical Archaeological Group conference in Birmingham.
+The very first post to be published, at 00:01 on the 29 July, will be from Maev Kennedy, who writes about archaeology  among other things for the Guardian newspaper, about why she is in awe of archaeology. Once complete, the experiment will form part of Lorna's PhD research and will also be written up for academic publication and be used as a model for public engagement at this yearâ's Theoretical Archaeological Group conference in Birmingham.
 
 So if you are an archaeologist, or have been, or you are even becoming one, thereâ's still time to sign up. Send the project team an email at <dayofarchaeology@gmail.com> or find out more by visiting the website.

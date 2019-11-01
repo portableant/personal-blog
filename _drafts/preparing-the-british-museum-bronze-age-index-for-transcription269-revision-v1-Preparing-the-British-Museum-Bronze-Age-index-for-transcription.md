@@ -23,7 +23,7 @@ Over the last few years, several curators have mooted exercises ([Ben Roberts](h
 
 To enable this corpus to be digitised is reasonably straight forward and we have employed Dr Jennifer Wexler ([@jwexler](https://twitter.com/JWexlerBM "jennifer on Twitter") on Twitter) to manage the scanning process, and she has been doing this since February after her return from field work in Benin.
 
-The equipment needed for this is relatively straight forward, the BM has acquired two high capacity/speed scanners (Canon) which can scan 60 and 100 sheets per minute at 600 dpi and once this initial project is over, they can be reused for turning more archival materials into potential crowd sourcing materials. You can see a picture of Neil&#8217;s former office (he&#8217;s just moved to a nicer one -we&#8217;re not jealous) being used as the scanning centre below in one of his tweets:
+The equipment needed for this is relatively straight forward, the BM has acquired two high capacity/speed scanners (Canon) which can scan 60 and 100 sheets per minute at 600 dpi and once this initial project is over, they can be reused for turning more archival materials into potential crowd sourcing materials. You can see a picture of Neil's former office (he's just moved to a nicer one -we're not jealous) being used as the scanning centre below in one of his tweets:
 
 <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
   <p lang="en" dir="ltr">
@@ -51,13 +51,13 @@ The first drawer scanned is known as A9 ([this application](http://crowdsourced.
 
 
 
-The platform that we&#8217;re using for serving up the crowd sourcing tasks has been created by Daniel Lombraña González (lead developer &#8211; [@teleyinex](https://twitter.com/teleyinex "Daniel's twitter profile")  on Twitter) and the [Pybossa](http://pybossa.com "Pybossa site") team, and it is a departure from the usual technology stack that the project team has used previously. Installation of the platform is straightforward and it was deployed on to [Portable Antiquities Scheme](http://finds.org.uk) hardware in around 15 minutes. We then employed Daniel to assist with building the transcription application skeleton (in conjunction with project lead Andy Bevan (not on Twitter!) and Daniel Pett) that would be used for each drawer, whilst we also developed our own look and feel to give MicroPasts some visual identity. If you&#8217;re interested, the code is available on [GitHub](http://github.com/findsorguk) and if you have suggestions from improvements, you could either fork the code or comment on our [community forum](http://community.micropasts,org).
+The platform that we're using for serving up the crowd sourcing tasks has been created by Daniel Lombraña González (lead developer &#8211; [@teleyinex](https://twitter.com/teleyinex "Daniel's twitter profile")  on Twitter) and the [Pybossa](http://pybossa.com "Pybossa site") team, and it is a departure from the usual technology stack that the project team has used previously. Installation of the platform is straightforward and it was deployed on to [Portable Antiquities Scheme](http://finds.org.uk) hardware in around 15 minutes. We then employed Daniel to assist with building the transcription application skeleton (in conjunction with project lead Andy Bevan (not on Twitter!) and Daniel Pett) that would be used for each drawer, whilst we also developed our own look and feel to give MicroPasts some visual identity. If you're interested, the code is available on [GitHub](http://github.com/findsorguk) and if you have suggestions from improvements, you could either fork the code or comment on our [community forum](http://community.micropasts,org).
 
 Originally published at: http://research.micropasts.org/2014/04/30/preparing-the-index/
 
 For the last few months, building up to launch, lots of debugging and user testing was conducted to see how the site reacted, whether the tasks we offered were feasible and interesting enough. Chiara Bonacchi ([@Chiara_Bonacchi](https://twitter.com/Chiara_Bonacchi)) and Adi Keinan ([@Adi_Keinan](https://twitter.com/Adi_Keinan)) worked on the main project site, building our [Facebook](http://facebook.com/micropasts) and [Twitter](http://twitter.com/micropasts) engagement.
 
-[Chiara](http://www.ucl.ac.uk/archaeology/people/staff/bonacchi) has also developed our evaluation frameworks, which we were integrating into the system and feel are vital to discovering more about people&#8217;s engagement with our platforms and how their motivations progress through time, and hopefully the project&#8217;s success! This evaluative work hopes to be one of the first following the development of individual users&#8217; interaction on a crowd-sourcing website.
+[Chiara](http://www.ucl.ac.uk/archaeology/people/staff/bonacchi) has also developed our evaluation frameworks, which we were integrating into the system and feel are vital to discovering more about people's engagement with our platforms and how their motivations progress through time, and hopefully the project's success! This evaluative work hopes to be one of the first following the development of individual users' interaction on a crowd-sourcing website.
 
 And then we launched and tasks are ongoing:
 
@@ -73,7 +73,7 @@ And then we launched and tasks are ongoing:
 
 
 
-This project is very exciting for the BM and especially for our curatorial staff. It could unlock new opportunities and Neil sums up very succinctly, why we are doing this public archaeology project, so we&#8217;ll leave it to him:
+This project is very exciting for the BM and especially for our curatorial staff. It could unlock new opportunities and Neil sums up very succinctly, why we are doing this public archaeology project, so we'll leave it to him:
 
 <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
   <p lang="en" dir="ltr">

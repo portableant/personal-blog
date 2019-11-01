@@ -15,4 +15,4 @@ tags:
   - mapping
   - Roman
 ---
-A quick experiment produced from a google fusion table import of metal hoards (artefacts and numismatic) produced from Richard Hobbs&#8217; research. The raw data can be seen at: <http://www.google.com/fusiontables/DataSource?snapid=S189305lCJK>
+A quick experiment produced from a google fusion table import of metal hoards (artefacts and numismatic) produced from Richard Hobbs' research. The raw data can be seen at: <http://www.google.com/fusiontables/DataSource?snapid=S189305lCJK>

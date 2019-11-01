@@ -21,7 +21,7 @@ Once that has completed (if your permissions are all set correctly) you should h
 
 ### Generating the site skeleton
 
-You&#8217;re now ready to create the basic outline for the site. In terminal again run the following command, replacing {sitename} with the folder you want to create:
+You're now ready to create the basic outline for the site. In terminal again run the following command, replacing {sitename} with the folder you want to create:
 
 <code>jekyll new {sitename}<br /></code>
 
@@ -41,7 +41,7 @@ You will find a file with the name in this format below:
 
 <code>2018-10-22-welcome-to-jekyll.markdown<br /></code>
 
-We are going to generate a site with custom page structure and to do this we&#8217;re going to use collections and delete the posts structure. To do this, we&#8217;ll edit the _config.yml file and set up some extra folder structure; in this case we want a folder called tutorials. 
+We are going to generate a site with custom page structure and to do this we're going to use collections and delete the posts structure. To do this, we'll edit the _config.yml file and set up some extra folder structure; in this case we want a folder called tutorials. 
 
 Remove \_posts, make folder and then edit the \_config file:
 

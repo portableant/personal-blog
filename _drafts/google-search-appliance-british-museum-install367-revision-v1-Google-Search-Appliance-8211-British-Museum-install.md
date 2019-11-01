@@ -7,7 +7,7 @@ layout: revision
 guid: http://www.7pillarsofwisdom.co.uk/2017/08/07/367-revision-v1/
 permalink: /367-revision-v1/
 ---
-Working with Extended Content Solutions, I have been project/product managing the new &#8216;Knowledge Search tool&#8217; for the British Museum. Built using AngularJS on ECS&#8217;s proprietary software, it pulls together multiple data sources through the use of Google Search Appliance.
+Working with Extended Content Solutions, I have been project/product managing the new &#8216;Knowledge Search tool' for the British Museum. Built using AngularJS on ECS's proprietary software, it pulls together multiple data sources through the use of Google Search Appliance.
 
 <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
   <p lang="en" dir="ltr">
@@ -21,4 +21,4 @@ Working with Extended Content Solutions, I have been project/product managing th
 
 
 
-This is one of the first products I have worked on, which isn&#8217;t open source.
+This is one of the first products I have worked on, which isn't open source.

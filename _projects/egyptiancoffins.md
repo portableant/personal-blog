@@ -3,6 +3,7 @@ layout: default
 title: The Egyptian Coffins Project
 institution: The Fitzwilliam Museum
 thumbnail: coffins.png
+background: /images/projects/coffins/nesp.jpg
 funders:
   - GCRF
   - AHRC
@@ -11,10 +12,25 @@ collaborators:
   - Helen Strudwick
   - Julie Dawson
   - Melanie Pitkin
+  - Jennifer Marchant
+  - Nelly von Aderkas
+  - Gavin Toomey
+  - Patricia Wheatley
+  - Elsbeth Geldhof
+  - Geoff Killen
+  - Sara Hany Abed
+  - Charlotte Thompson
+  - Flavia Ravioli
+project_website: https://egyptiancoffins.org
 partners:
   - The Egyptian Museum Cairo
 slug: egyptian-coffins-project
 status: active
+awards:
+  - Vice-Chancellor's Award (Cambridge University 2019)
+videos:
+  - 347048373
+  - 347059368
 ---
 Since 2014, the Fitzwilliam Museum has been conducting cutting-edge interdisciplinary research into its collection of more than 200 ancient Egyptian coffins and coffin fragments. Bringing together a team of Egyptologists, conservators, a pigment analyst, an expert in historical painting techniques, an ancient woodworking specialist and a consultant radiologist, alongside the application of advanced imaging techniques such as Computed Tomography (CT) scanning and X-radiography, we have been able to gain unprecedented insights into the coffins’ construction, creation of the decorative programme and, so far as possible, the history of the coffins and their owners.
 

@@ -39,7 +39,7 @@ Mozfest is truly high energy, highly mind expanding and very different to any cu
 
 ### Our attendance record
 
-This was our second foray into the world of Mozfest, after Professor Andrew Prescott suggested I put a session in for the 2017 version (which I did with Jennifer Wexler and [Amelia Knowlson](http://ameliaknowlson.com/)), and this year on behalf of the team, I decided to go for a weekend long session and we were fortunate to be given a gallery space for the whole weekend &#8211; thank you to Yo and the other space wranglers. We aren&#8217;t the first pop-up museum to attend, as [George Oates pointed out](https://twitter.com/ukglo/status/1056502154440130560), they took the [Small Museum](https://thesmallmuseum.org/2015/11/14/the-small-museum-v2/) to Mozfest in 2015 &#8211; we&#8217;re standing on the shoulders of giants there!
+This was our second foray into the world of Mozfest, after Professor Andrew Prescott suggested I put a session in for the 2017 version (which I did with Jennifer Wexler and [Amelia Knowlson](http://ameliaknowlson.com/)), and this year on behalf of the team, I decided to go for a weekend long session and we were fortunate to be given a gallery space for the whole weekend &#8211; thank you to Yo and the other space wranglers. We aren't the first pop-up museum to attend, as [George Oates pointed out](https://twitter.com/ukglo/status/1056502154440130560), they took the [Small Museum](https://thesmallmuseum.org/2015/11/14/the-small-museum-v2/) to Mozfest in 2015 &#8211; we're standing on the shoulders of giants there!
 
 ### Who were these intrepid museologists and creative wizards?
 
@@ -49,17 +49,17 @@ Originally the team consisted of myself, [Jennifer Wexler](https://twitter.com/J
 
 Our table was set up on the 7th floor of the 9 active floors of Ravensbourne and had a huge array of projects to display (was it too overwhelming, maybe in the space we had?)
 
-* 3D prints from the British Museum, V&A, Oxford&#8217;s Natural History Museum etc, and all produced by ThinkSee3D &#8211; Steve Dey&#8217;s magic is getting round the world rapidly. The V&A jug was a wow object.
+* 3D prints from the British Museum, V&A, Oxford's Natural History Museum etc, and all produced by ThinkSee3D &#8211; Steve Dey's magic is getting round the world rapidly. The V&A jug was a wow object.
 * The [Iron Age and Roman Identities](http://ancientidentities.org/) Project (Sunday only and led by Chiara) and a discussion of Brexit
 * The [Slovak National Gallery](https://sng.sk/)&#8216;s Filla Fulla[chat application](https://fillafulla.sng.sk/) (source code on Github) from an exhibition and some high grade reproductions of prints
 * Promotional materials from many of the museums
 * The [African Rock Art](https://africanrockart.britishmuseum.org) project (Saturday only and led by Jennifer)
 * [Project Nomad](https://nomad-project.co.uk/) &#8211; [AR postcards](https://nomad-project.co.uk/ar), their excellent Hololens Mixed Reality experience. **This was the biggest hit of the weekend.**
-* SISJAC&#8217;s [Shinano River](http://sainsbury-institute.org/research/archaeology-and-heritage/shinano-river/) AR leaflets
+* SISJAC's [Shinano River](http://sainsbury-institute.org/research/archaeology-and-heritage/shinano-river/) AR leaflets
 * [3D digital models](https://sketchfab.com/danielpett/collections/university-of-cambridge-museums) from Cambridge University Museums
 * [Sketchfab](https://sketchfab.com)&#8216;s Google Cardboard viewers (kindly donated by Tom Flynn and Alban Denoyl) and AR/VRcontent &#8211; a great draw for the teenagers who visited us who cleaned us out in less than 2 minutes!
 * The [Universal Viewer](http://universalviewer.io) demonstrated by Sophie Dixon and Ed Silverton
-* Attempt to crowdsource people&#8217;s views for [Micropasts](https://micropasts.org), of what a museum meant to them
+* Attempt to crowdsource people's views for [Micropasts](https://micropasts.org), of what a museum meant to them
 
 ### By products of the pop up
 
@@ -85,7 +85,7 @@ More photos of what we got up to are available on Flickr.
 </blockquote>
 </div>
 
-On the Sunday (following horrendous train troubles getting people to the venue), at the suggestion of Philo, we had an open chat for 1 hour around how we, the [#openGLAM](https://openglam.org/) community could obtain a higher profile at the next Mozfest and beyond. The group that came together included attendees of Mozfest and not just the organisers of the popup, we weren&#8217;t just a little echo chamber. We were lucky to be joined by [Andrew Prescott](https://twitter.com/Ajprescott) and his colleague Luca, [Kat Braybrooke](https://twitter.com/codekat) and [Hannah Winn](https://twitter.com/HannahWinn3) amongst others (once they had navigated the leave an empty chair policy to enable others to join.)<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+On the Sunday (following horrendous train troubles getting people to the venue), at the suggestion of Philo, we had an open chat for 1 hour around how we, the [#openGLAM](https://openglam.org/) community could obtain a higher profile at the next Mozfest and beyond. The group that came together included attendees of Mozfest and not just the organisers of the popup, we weren't just a little echo chamber. We were lucky to be joined by [Andrew Prescott](https://twitter.com/Ajprescott) and his colleague Luca, [Kat Braybrooke](https://twitter.com/codekat) and [Hannah Winn](https://twitter.com/HannahWinn3) amongst others (once they had navigated the leave an empty chair policy to enable others to join.)<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
 <div class="wp-block-embed__wrapper">
 <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
@@ -98,6 +98,6 @@ Nice to see so many positive new community projects in the works at this year's 
 </div>
 Between us, we hope to work together to create co-ordinated GLAM proposals (including child friendly programming) for the next Mozfest and to investigate how to get a track or larger theme running. Perhaps your museum or creative industry would like to join us? Let me, or Philo know if you do.
 
-Next year, I hope to actually attend some other sessions and fully participate. As I didn&#8217;t get to see anyone else&#8217;s installations or experience much, I can&#8217;t therefore give a review of the whole event.
+Next year, I hope to actually attend some other sessions and fully participate. As I didn't get to see anyone else's installations or experience much, I can't therefore give a review of the whole event.
 
 Be prepared, if you commit to run an event at Mozfest it can be serious fun, but time consuming.

@@ -15,6 +15,6 @@ permalink: /14-revision-v1/
   </p>
 </div>
 
-This week, I&#8217;ve been helping out Corinne Mills with the upgrade of her website entitled &#8220;Our Past History&#8221;. Corinne has been a great supporter of the Scheme that I work for at the British Museum and she&#8217;s just started to dabble with content Management Systems and plumped for textpattern. I&#8217;ve been using this for a number of sites recently and it&#8217;s great once you get the hang of it! Anyway, her site is now configured and is available at [http://ourpasthistory.com](http://ourpasthistory.com "Our past history website") It rocks!
+This week, I've been helping out Corinne Mills with the upgrade of her website entitled &#8220;Our Past History&#8221;. Corinne has been a great supporter of the Scheme that I work for at the British Museum and she's just started to dabble with content Management Systems and plumped for textpattern. I've been using this for a number of sites recently and it's great once you get the hang of it! Anyway, her site is now configured and is available at [http://ourpasthistory.com](http://ourpasthistory.com "Our past history website") It rocks!
 
-The site also consumes RSS feeds directly from the PAS database &#8211; she therefore has a feed to all her finds down the side of her homepage which is powered by the excellent simplepie plugin. I&#8217;ve got a couple more txp sites to come soon&#8230;.
+The site also consumes RSS feeds directly from the PAS database &#8211; she therefore has a feed to all her finds down the side of her homepage which is powered by the excellent simplepie plugin. I've got a couple more txp sites to come soon&#8230;.

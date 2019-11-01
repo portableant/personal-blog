@@ -28,6 +28,34 @@
 </ul>
 {% endif %}
 
+{% if page.project_website %}
+<h3>Project website</h3>
+<ul>
+  <li><a href="{{ project_website }}">{{ page.project_website }}</a></li>
+</ul>
+{% endif %}
+
+{% if page.grant_number %}
+<h3>Grant identifier</h3>
+  <ul>
+    <li>{{ page.grant_number }}</li>
+  </ul>
+{% endif %}
+
+{% if page.grant_amount %}
+<h3>Grant identifier</h3>
+  <ul>
+    <li>{{ page.grant_amount }}</li>
+  </ul>
+{% endif %}
+
+{% if page.cost %}
+<h3>Project cost</h3>
+  <ul>
+    <li>{{ page.cost }}</li>
+  </ul>
+{% endif %}
+
 {% if page.collaborators %}
 <h3>Collaborators</h3>
 <ul>
@@ -86,4 +114,20 @@
   <li>Project end: {{ page.end | date_to_string }}</li>
   {% endif %}
 </ul>
+{% endif %}
+
+{% if page.awards %}
+<h3>Project awards</h3>
+<ul>
+  {% for awards in page.awards %}
+    <li>{{ awards }}</li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if page.videos %}
+<h3>Project video</h3>
+  {% for video in page.videos %}
+    {% include structure/vimeo.html id=video %}
+  {% endfor %}
 {% endif %}
