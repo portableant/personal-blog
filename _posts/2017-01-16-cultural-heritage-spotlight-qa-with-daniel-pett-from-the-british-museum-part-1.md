@@ -8,6 +8,7 @@ guid: http://www.7pillarsofwisdom.co.uk/?p=355
 permalink: /cultural-heritage-spotlight-qa-with-daniel-pett-from-the-british-museum-part-1/
 categories:
   - Techie stuff
+background: /images/british-museum.png
 ---
 This was originally published as part 1 of a 3 part interview on the SketchFab blog in January 2017.
 
@@ -15,9 +16,7 @@ __Our <a href="https://sketchfab.com/museums" >Cultural institutions Page</a> hi
 
 Daniel Pett is a Senior Digital Humanities Manager at the British Museum. He has a background in Archaeology, having studied at the Institute of Archaeology (UCL) and Cambridge University and he has also worked in Telecoms and Investment Banking technology and subsequently as technical lead for <a href="https://finds.org.uk" >the Portable Antiquities Scheme</a>. He has also been co-lead on <a href="https://sketchfab.com/micropasts" >the MicroPasts project</a> with Professor Andy Bevan (UCL) and now leads on the British Museum’s foray into the world of Digital Humanities, sitting in between the curatorial community of the Museum and the Digital and Publishing department. One of the most recent projects he delivered, was the new <a href="http://search.britishmuseum.org" >Knowledge Search</a><span style="font-weight: 400;"> application for the Museum, which brings together many of the Museum’s resources in one interface. </span>
 
-<img class="aligncenter img-fluid 142059975258" src="/images/photo.jpg"  alt="photo"  />
-
-
+<img class=" img-fluid rounded-circle" src="/images/photo.jpg"  alt="photo"  />
 
 As a side-project he has co-created one of the most breathtaking and largest 3D/VR collection of cultural artefacts in the world. The British Museum was early on Sketchfab, they created their account in October 2014: 121 3D models later, with more than 380K views on their models and 3000 likes, they are now the most followed Museum on Sketchfab. The Jericho Skull has been featured by CNN and the National Geographic:
 
@@ -72,7 +71,7 @@ Some 3D models have been done in collaboration with other institutions. For exam
 
 The biggest cost for all activities is time. We’re all time poor! We use very basic equipment for example mobile phones with decent sensors, low end digital SLRs and reasonable compact cameras allied with lazy susan turntables and tripods. At the moment, I’m just using my OnePlus3 mobile as my 1 year old daughter broke my DSLR when she pulled it off the table at home.
 
-<a href="https://blog.sketchfab.com/images/2017/01/img\_20160524\_154046.jpg" data-rel="lightbox-gallery-j4a5F2Lx" data-rl\_title="" data-rl\_caption="" title=""><img class="aligncenter size-large img-fluid 142059975285" src="https://blog.sketchfab.com/images/2017/01/img_20160524_154046-1030x773.jpg" sizes="(max-width: 690px) 100vw, 690px" srcset="https://blog.sketchfab.com/images/2017/01/img_20160524_154046-1030x773.jpg 1030w, https://blog.sketchfab.com/images/2017/01/img_20160524_154046-300x225.jpg 300w, https://blog.sketchfab.com/images/2017/01/img_20160524_154046-768x576.jpg 768w, https://blog.sketchfab.com/images/2017/01/img_20160524_154046-667x500.jpg 667w" alt="img_20160524_154046" width="690" height="518" data-attachment-id="142059975285" data-permalink="https://blog.sketchfab.com/cultural-heritage-spotlight-qa-daniel-pett-british-museum-part1/img_20160524_154046/" data-orig-file="https://blog.sketchfab.com/images/2017/01/img_20160524_154046.jpg" data-orig-size="3264,2448" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2,4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Nexus 5&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1464104446&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3,97&quot;,&quot;iso&quot;:&quot;952&quot;,&quot;shutter_speed&quot;:&quot;0,033328306&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="img_20160524_154046" data-image-description="" data-medium-file="https://blog.sketchfab.com/images/2017/01/img_20160524_154046-300x225.jpg" data-large-file="https://blog.sketchfab.com/images/2017/01/img_20160524_154046-1030x773.jpg" /></a>
+<img class="img-fluid 142059975285" src="/images/mold.jpg"  />
 
 We have had no budget set aside (so far) for this work and 3D imagery is usually captured when the opportunity arises or as we walk through the galleries to work and the light is okay! The equipment I use is my own and most of the processing and masking is done in my own time (either on the commute to work or batched overnight). I use a MacBook Pro with 16GB RAM or an iMac with 20GB RAM. My work PC cannot handle the load! My colleagues (Jennifer Wexler, Andy Bevan, Chiara Bonacchi, Thomas Flynn and Adi Keinan-Schoonbaert) have access to a few machines of different types, and I am unsure what our contributors to MicroPasts used (for example Hugh Fiske who now produces great content for <a href="https://sketchfab.com/digventures" >DigVentures</a>).
 
@@ -82,33 +81,22 @@ The Museum has been digitising its records for many years now, building on Antiq
 
 So for the ones we can capture we have curatorial interpretation (the work that Neil Wilkin did on monumental dirks for instance – see The Beaune Dirk 3D model), multiple images, factual data, a 3D model that can be annotated and a wide variety of data points that can be linked off to other information sources.
 
-<div class="oembed oembed-rich oembed-sketchfab-com oembed-rich-sketchfab-com">
-  <div class="sketchfab-embed-wrapper">
-    <p>
-    </p>
-
-    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;">
-      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/f9864822c2cd4738b762bd9495f9d8f3?utm_campaign=f9864822c2cd4738b762bd9495f9d8f3&utm_medium=embed&utm_source=oembed" >The Beaune Dirk</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=f9864822c2cd4738b762bd9495f9d8f3&utm_medium=embed&utm_source=oembed" >The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=f9864822c2cd4738b762bd9495f9d8f3&utm_medium=embed&utm_source=oembed" >Sketchfab</a>
-    </p>
-  </div>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe title="A 3D model" class="embed-responsive-item" src="https://sketchfab.com/models/f9864822c2cd4738b762bd9495f9d8f3/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 No museum, apart from maybe the Smithsonian is making 3D data work effectively in their resource yet. I want to see our 3D work being not only a research tool, but a revenue creator, a knowledge sharing device and a way of allowing serendipitous reuse of Museum content. For example, we could make boxes of British Museum chocolates direct from the collection on demand (I’ve experimented with silicon moulds and 90% dark chocolate, the evidence has been eaten); we could make concrete casts of the Molossian Hound (one of my favourite pieces of sculpture in our collection) from the model on Sketchfab and see them in garden centres worldwide; we could see the shop not having to keep replicas in stock, but instead printing on demand; we could see manufacturers buying a license to produce mass replicas of BM content and the museum taking royalties.
 
-<div class="oembed oembed-rich oembed-sketchfab-com oembed-rich-sketchfab-com">
-  <div class="sketchfab-embed-wrapper">
-    <p>
-    </p>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe title="A 3D model" class="embed-responsive-item" src="https://sketchfab.com/models/a3b10c4681e34440aa61ea2c9a80c233/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;">
-      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/a3b10c4681e34440aa61ea2c9a80c233?utm_campaign=a3b10c4681e34440aa61ea2c9a80c233&utm_medium=embed&utm_source=oembed" >The Jennings Dog</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=a3b10c4681e34440aa61ea2c9a80c233&utm_medium=embed&utm_source=oembed" >The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=a3b10c4681e34440aa61ea2c9a80c233&utm_medium=embed&utm_source=oembed" >Sketchfab</a>
-    </p>
-  </div>
 </div>
 
 Some of the things I’ve seen BM content being used for are really inspiring, for example Robert Kaleta’s PhD work at UCL, the fantastic Paul Mellon funded <a href="https://sketchfab.com/britishmuseum/collections/digital-pilgrim" >Digital Pilgrim</a> from Amy Jeffs and Lloyd de Beer, or the <a href="http://museuminabox.org/" >Museum in a Box</a> project that George Oates and Thomas Flynn run. I would ideally like to take the opportunity to scan any new acquisition (see for example <a href="https://sketchfab.com/models/5724bfac35974e6db2078823c66da00f" >the Virgin and Child</a>) or objects that are going on loan for long periods (see for example the <a href="https://sketchfab.com/britishmuseum/collections/ancient-lives-exhibition" >Ancient Lives collection</a>) which allows the public to still see them in detail even if they cannot view the real thing.
 
-<span class="embed-youtube" style="text-align: center; display: block;"></span>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe src="https://www.youtube.com/embed/yNk-BmQr5SQ" class="embed-responsive-item" frameborder="0"></iframe>
+</div>
 
 We’re also seeing our 3D work propagating onto the museum floor as handling objects (for example the Egyptian house for the Sunken Cities exhibition handling desk), as information points in gallery (for example the <a href="https://sketchfab.com/models/bdcf4843e0964da2931aa7ab1fc1b99d" >Jericho Skull</a>, <a href="https://sketchfab.com/models/e4dd6d342fa044b99732b484985797b6" >statue of A’a</a> and <a href="https://sketchfab.com/models/64dcc40a6e9249849f5735ae0ebf41c6" >the Kakiemon ‘Boy on a Go board’</a>) and in VR work that the museum has done on the Bronze Age and African Rock Art. For all of these bits of work, we’ve had supportive curatorial staff who generally have been enthused by chat in the canteen at lunch.
 

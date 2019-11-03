@@ -8,6 +8,7 @@ guid: http://www.7pillarsofwisdom.co.uk/?p=357
 permalink: /cultural-heritage-spotlight-qa-with-daniel-pett-from-the-british-museum-part-2/
 categories:
   - Uncategorized
+background: /images/enlightenment-gallery-british-museum.jpg
 ---
 _Our_ [_Cultural institutions Page_](https://sketchfab.com/museums) _highlights our ongoing support of museums and cultural institutions with free accounts and access to tools. In_ [_Cultural Heritage Spotlight_](https://blog.sketchfab.com/tag/culturalspotlight/)_, we’ll explore museums and cultural institutions who are using 3D technology to bring new life to their collections. Today’s blog post features Daniel Pett’s effort to make the collections of the_ [_British Museum_](https://sketchfab.com/britishmuseum) _accessible for anyone in 3D and VR._
 
@@ -15,36 +16,20 @@ _Our_ [_Cultural institutions Page_](https://sketchfab.com/museums) _highlights 
 
 <span style="font-weight: 400;">This article is <a href="https://blog.sketchfab.com/cultural-heritage-spotlight-qa-daniel-pett-british-museum-part1/">part II of our Q&A with Daniel Pett</a>, the Senior Digital Humanities Manager at the British Museum. </span><span style="font-weight: 400;">The British Museum has published 143 models on Sketchfab. </span><span style="font-weight: 400;">Daniel now gives us his feedback on his experiences, but also explains how Sketchfab helps him to showcase the British Museum’s wonderful artefacts.</span>
 
-<div class="oembed oembed-rich oembed-sketchfab-com oembed-rich-sketchfab-com">
-  <div class="sketchfab-embed-wrapper">
-    <p>
-    </p>
 
-    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;">
-      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/7befadcdb81f46d8aa76d4b3c9d696ee?utm_campaign=7befadcdb81f46d8aa76d4b3c9d696ee&utm_medium=embed&utm_source=oembed" >A statue of Sekhmet</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=7befadcdb81f46d8aa76d4b3c9d696ee&utm_medium=embed&utm_source=oembed" >The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=7befadcdb81f46d8aa76d4b3c9d696ee&utm_medium=embed&utm_source=oembed" >Sketchfab</a>
-    </p>
-  </div>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/7befadcdb81f46d8aa76d4b3c9d696ee/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
-
 
 
 **4/ Was it easy when you began? Were they any barriers to entry?**
 
 <span style="font-weight: 400;">Learning the basic technique was quite easy, as I learnt from Andy Bevan and Adi Keinan-Schoonbaert’s excellent </span>[<span style="font-weight: 400;">tutorial documentation</span>](http://research.micropasts.org/2014/06/13/3d-modelling-via-sfm/) <span style="font-weight: 400;">they wrote for MicroPasts. I then learnt more from practising the skills and from working alongside Thomas Flynn. As mentioned earlier the biggest barrier to doing this was time! There’s not enough time and with my young family and work commitments it is hard to fit it all in.</span>
 
-<div class="oembed oembed-rich oembed-sketchfab-com oembed-rich-sketchfab-com">
-  <div class="sketchfab-embed-wrapper">
-    <p>
-    </p>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" height="480" src="https://sketchfab.com/models/31dcd2d0842f4153a2c45ad24e62754e/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;">
-      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/31dcd2d0842f4153a2c45ad24e62754e?utm_campaign=31dcd2d0842f4153a2c45ad24e62754e&utm_medium=embed&utm_source=oembed" >Aphrodite Crouching, British Museum</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/nebulousflynn?utm_campaign=31dcd2d0842f4153a2c45ad24e62754e&utm_medium=embed&utm_source=oembed" >Thomas Flynn</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=31dcd2d0842f4153a2c45ad24e62754e&utm_medium=embed&utm_source=oembed" >Sketchfab</a>
-    </p>
-  </div>
 </div>
-
-
-
 <span style="font-weight: 400;">I’m still learning and there’s always something to improve on with every model I make. Different software might improve my output, better masking etc. This is one reason why I place all my raw photos and masks on to </span>[<span style="font-weight: 400;">GitHub</span>](https://github.com/britishmuseumdh) <span style="font-weight: 400;">so that someone can improve on my amateur skills and have the chance to participate in reproducible science. </span>
 
 
