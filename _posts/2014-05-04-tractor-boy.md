@@ -10,4 +10,4 @@ categories:
   - Meandering
 format: image
 ---
-<img class="alignleft size-medium img-fluid 273" src="/images/2014/05/IMG_20140504_141601-225x300.jpg" alt="IMG_20140504_141601" width="225" height="300" srcset="/images/2014/05/IMG_20140504_141601-225x300.jpg 225w, /images/2014/05/IMG_20140504_141601-768x1024.jpg 768w, /images/2014/05/IMG_20140504_141601.jpg 1536w" sizes="(max-width: 225px) 100vw, 225px" />
+<img class="alignleft size-medium img-fluid 273" src="/images/2014/05/IMG_20140504_141601.jpg" />

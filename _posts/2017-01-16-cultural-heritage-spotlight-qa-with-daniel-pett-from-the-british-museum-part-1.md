@@ -15,21 +15,14 @@ __Our <a href="https://sketchfab.com/museums" >Cultural institutions Page</a> hi
 
 Daniel Pett is a Senior Digital Humanities Manager at the British Museum. He has a background in Archaeology, having studied at the Institute of Archaeology (UCL) and Cambridge University and he has also worked in Telecoms and Investment Banking technology and subsequently as technical lead for <a href="https://finds.org.uk" >the Portable Antiquities Scheme</a>. He has also been co-lead on <a href="https://sketchfab.com/micropasts" >the MicroPasts project</a> with Professor Andy Bevan (UCL) and now leads on the British Museum’s foray into the world of Digital Humanities, sitting in between the curatorial community of the Museum and the Digital and Publishing department. One of the most recent projects he delivered, was the new <a href="http://search.britishmuseum.org" >Knowledge Search</a><span style="font-weight: 400;"> application for the Museum, which brings together many of the Museum’s resources in one interface. </span>
 
-<img class="aligncenter img-fluid 142059975258" src="https://blog.sketchfab.com/images/2017/01/photo.jpg" sizes="(max-width: 380px) 100vw, 380px" srcset="https://blog.sketchfab.com/images/2017/01/photo.jpg 512w, https://blog.sketchfab.com/images/2017/01/photo-80x80.jpg 80w, https://blog.sketchfab.com/images/2017/01/photo-300x300.jpg 300w, https://blog.sketchfab.com/images/2017/01/photo-500x500.jpg 500w, https://blog.sketchfab.com/images/2017/01/photo-45x45.jpg 45w" alt="photo" width="380" height="380" data-attachment-id="142059975258" data-permalink="https://blog.sketchfab.com/cultural-heritage-spotlight-qa-daniel-pett-british-museum-part1/photo/" data-orig-file="https://blog.sketchfab.com/images/2017/01/photo.jpg" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="photo" data-image-description="" data-medium-file="https://blog.sketchfab.com/images/2017/01/photo-300x300.jpg" data-large-file="https://blog.sketchfab.com/images/2017/01/photo.jpg" />
+<img class="aligncenter img-fluid 142059975258" src="/images/photo.jpg"  alt="photo"  />
 
 
 
 As a side-project he has co-created one of the most breathtaking and largest 3D/VR collection of cultural artefacts in the world. The British Museum was early on Sketchfab, they created their account in October 2014: 121 3D models later, with more than 380K views on their models and 3000 likes, they are now the most followed Museum on Sketchfab. The Jericho Skull has been featured by CNN and the National Geographic:
 
-<div class="oembed oembed-rich oembed-sketchfab-com oembed-rich-sketchfab-com">
-  <div class="sketchfab-embed-wrapper">
-    <p>
-    </p>
-
-    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;">
-      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/bdcf4843e0964da2931aa7ab1fc1b99d?utm_campaign=bdcf4843e0964da2931aa7ab1fc1b99d&utm_medium=embed&utm_source=oembed" >The Jericho Skull</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=bdcf4843e0964da2931aa7ab1fc1b99d&utm_medium=embed&utm_source=oembed" >The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=bdcf4843e0964da2931aa7ab1fc1b99d&utm_medium=embed&utm_source=oembed" >Sketchfab</a>
-    </p>
-  </div>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe title="A 3D model" class="embed-responsive-item" src="https://sketchfab.com/models/bdcf4843e0964da2931aa7ab1fc1b99d/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 The first foray into making British Museum 3D content available on Sketchfab was through the [MicroPasts](http://micropasts.org) project, using crowdsourced photo masking and subsequently Thomas Flynn placed his models online under the BM banner. Daniel now shares the British Museum’s collections with the entire world making them easily accessible for educational purposes, scientific reasons and, of course, for anyone who is interested in Culture. Thanks to his initiative and knowledge transfer to colleagues, the British Museum helps democratizing culture and digitally preserve their collections.
@@ -40,19 +33,12 @@ Daniel will explain us today how he has been able to achieve all of this with a 
 
 Daniel, thanks for answering our questions:
 
-**First, could you explain what is your process to create all these models? **
+1. First, could you explain what is your process to create all these models?
 
 Our 3D work is all based around photogrammetry or Structure from Motion and builds on work first done in the Museum by Southampton University on <a href="http://search.proquest.com/openview/368aa48d9dee2de8690b48ab8006194a/1" >Hoa Hakananai’a</a>, then by the MicroPasts team and collaborators and finally by Thomas Flynn. The BM has seen other 3D scanning techniques employed, mostly via <a href="http://www.tandfonline.com/eprint/5DvAXhcwI3mJbkH3Gieq/full" >medical imaging</a> (led by curator Daniel Antoine) and more costly methods but also some LIDAR usage and the work that CyArk conducted on our Assyrian reliefs. The famous archaeologist, Dominic Powlesland has also done 3D work on BM collections data (see following 3D Cremation Urn) and we’ve had collaborative work with students and academics since:
 
-<div class="oembed oembed-rich oembed-sketchfab-com oembed-rich-sketchfab-com">
-  <div class="sketchfab-embed-wrapper">
-    <p>
-    </p>
-
-    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;">
-      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/f2272d1abab64ad2a4a1706b43278181?utm_campaign=f2272d1abab64ad2a4a1706b43278181&utm_medium=embed&utm_source=oembed" >Anglo-Saxon Cremation Urn</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=f2272d1abab64ad2a4a1706b43278181&utm_medium=embed&utm_source=oembed" >The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=f2272d1abab64ad2a4a1706b43278181&utm_medium=embed&utm_source=oembed" >Sketchfab</a>
-    </p>
-  </div>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe title="A 3D model" class="embed-responsive-item" src="https://sketchfab.com/models/f2272d1abab64ad2a4a1706b43278181/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 Our output is generally done so that <a href="https://www.software.ac.uk/blog/2016-09-30-3d-archaeology-now-low-cost-high-volume-and-crowd-sourced" >anyone can replicate</a> what we can do and this is what has found its way onto Sketchfab. Our basic process for capturing a sculpture in gallery for instance is this (and bear in mind we generally can only do this in opening hours and under gallery lighting):
@@ -70,27 +56,17 @@ Our output is generally done so that <a href="https://www.software.ac.uk/blog/20
  11. Upload to Sketchfab under the license that the Museum allows (Creative Commons By Attribution Non-Commercial Share-Alike) under its interpretation of the Public Sector Information Act.
  12. Ask a curator if they will annotate the model and encode their knowledge for others to enjoy.
 
-<div class="oembed oembed-rich oembed-sketchfab-com oembed-rich-sketchfab-com">
-  <div class="sketchfab-embed-wrapper">
-    <p>
-    </p>
-
-    <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;">
-      <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/models/e4dd6d342fa044b99732b484985797b6?utm_campaign=e4dd6d342fa044b99732b484985797b6&utm_medium=embed&utm_source=oembed" >Statue of A'a [Static]</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=e4dd6d342fa044b99732b484985797b6&utm_medium=embed&utm_source=oembed" >The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=e4dd6d342fa044b99732b484985797b6&utm_medium=embed&utm_source=oembed" >Sketchfab</a>
-    </p>
-  </div>
-</div>
+ <div class="embed-responsive embed-responsive-16by9">
+     <iframe title="A 3D model" class="embed-responsive-item" src="https://sketchfab.com/models/e4dd6d342fa044b99732b484985797b6/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+ </div>
 
 Some 3D models have been done in collaboration with other institutions. For example, the very recent Netsuke models have been produced by the Arts Research Center at Ristumeikan University, Japan:
 
-<div class="oembed oembed-rich oembed-sketchfab-com oembed-rich-sketchfab-com">
-  <p>
-  </p>
+<div class="embed-responsive embed-responsive-16by9">
 
-  <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4a4a4a;">
-    <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum/collections/the-netsuke-collection-of-the-british-museum?utm_campaign=390147ddb60a4b54b83baab64d3d5c31&utm_medium=embed&utm_source=oembed" >The netsuke collection of the British Museum</a> by <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com/britishmuseum?utm_campaign=390147ddb60a4b54b83baab64d3d5c31&utm_medium=embed&utm_source=oembed" >The British Museum</a> on <a style="font-weight: bold; color: #1caad9;" href="https://sketchfab.com?utm_campaign=390147ddb60a4b54b83baab64d3d5c31&utm_medium=embed&utm_source=oembed" >Sketchfab</a>
-  </p>
+    <iframe title="A 3D model" class="embed-responsive-item" src="https://sketchfab.com/playlists/embed?collection=390147ddb60a4b54b83baab64d3d5c31" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
+
 
 **Is it costly (in time, money, equipment, etc.)?**
 
