@@ -14,20 +14,18 @@ categories:
 tags:
 - mozfest
 - museums
+background: https://farm2.staticflickr.com/1975/44701687655_0ac9356ac0_k.jpg
 ---
-<p class="has-text-color has-background has-drop-cap has-vivid-red-color has-very-light-gray-background-color">
+
 Over the weekend of the 27-28th October 2018 our team took a pop-up museum to <a href="https://www.ravensbourne.ac.uk/">Ravensbourne University</a> in Docklands to feature in the excellent <a href="https://mozillafestival.org/">Mozilla Festival</a> of the Open Web. Our team consisted of museums (<a href="https://www.museums.cam.ac.uk/">Cambridge University Museums</a> &#8211; represented by the <a href="https://www.fitzmuseum.cam.ac.uk/">Fitzwilliam Museum</a>, the <a href="http://britishmuseum.org">British Museum</a>, the <a href="https://www.vam.ac.uk/">Victoria and Albert Museum</a>, <a href="https://www.sng.sk/en">Slovak National Gallery</a>), creative industries (<a href="https://mnemoscene.io/">Mnemoscene</a>, <a href="https://www.thinksee3d.com/">ThinkSee3D</a>), <a href="https://www.stir.ac.uk/">University of Stirling</a> and <a href="https://www.hlf.org.uk/">Heritage Lottery Funded</a> projects (<a href="https://twitter.com/AbiraHussein">Abira Hussein</a>&#8216;s brilliant <a href="https://nomad-project.co.uk/">Nomad Project</a>.)
-</p>
 
 ### What is Mozfest, I hear you ask?
 
 Mozfest is a wonderful event that brings people together from all round the world. The website claims over 2500 people participate over the course of the week:
 
-<blockquote class="wp-block-quote">
-<p>
-MozFest has something for everyone. You’ll find a diverse set of sessions and spaces where you will meet, make, and learn with others. Jump into an interactive session for some hands-on building. Join a small group discussion and debate the most pressing issues facing the Internet today. Or simply wander the festival and take in all the ongoing displays to explore at your own speed.
-</p>
+<blockquote class="blockquote">
 
+MozFest has something for everyone. You’ll find a diverse set of sessions and spaces where you will meet, make, and learn with others. Jump into an interactive session for some hands-on building. Join a small group discussion and debate the most pressing issues facing the Internet today. Or simply wander the festival and take in all the ongoing displays to explore at your own speed.
 <cite><a href="https://mozillafestival.org/why-come-to-mozfest">Why come to Mozfest?</a></cite>
 </blockquote>
 
@@ -65,17 +63,17 @@ Our table was set up on the 7th floor of the 9 active floors of Ravensbourne and
 
 We were also fortunate to be joined by people who wanted to show their own museum derived creations. For example,[Roy Rodenhaeuser](https://twitter.com/RoyRodenhaeuser) and [Eleonora Bacchi](https://twitter.com/EleonoraBacchi) of [Dymon Lab](https://www.dymonlab.com/) brought their recoloured Maya panel AR application to show the assembled throng of people. Brilliant stuff and a simple way of enhancing museum visitor experience. Having people bring their things to us, made our event intervention a far more collaborative event and I hope we can repeat this in future.
 
-
-<img src="/images/2018/10/43797819330_3916327fd1_k.jpg" alt="" class="img-fluid 517" srcset="/images/2018/10/43797819330_3916327fd1_k.jpg 2048w, /images/2018/10/43797819330_3916327fd1_k-300x169.jpg 300w, /images/2018/10/43797819330_3916327fd1_k-768x432.jpg 768w, /images/2018/10/43797819330_3916327fd1_k-1024x576.jpg 1024w" sizes="(max-width: 2048px) 100vw, 2048px" />
+<figure>
+<img src="/images/2018/10/43797819330_3916327fd1_k.jpg"class="img-fluid 517"  />
 
 <figcaption>Roy shows off the recolouring of the Maya panel</figcaption>
-
+</figure>
 
 More photos of what we got up to are available on Flickr.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/dankate/albums/72157702805961974" title="Mozfest 2018"><img src="https://farm2.staticflickr.com/1975/44701687655_0ac9356ac0_k.jpg" width="2048" height="1152" alt="Mozfest 2018" /></a> <figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/dankate/albums/72157702805961974" title="Mozfest 2018"><img src="https://farm2.staticflickr.com/1975/44701687655_0ac9356ac0_k.jpg" class="img-fluid" alt="Mozfest 2018" /></a>
 
-<div class="wp-block-embed__wrapper">
+
 <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
 <p lang="en" dir="ltr">
 <a href="https://twitter.com/hashtag/mozfest?src=hash&ref_src=twsrc%5Etfw">#mozfest</a> pop up museum will have delayed opening due to jubilee line tech failure. Bringing the real museum operating flaws to ravensbourne college&#8230;
@@ -83,11 +81,9 @@ More photos of what we got up to are available on Flickr.
 
 <a href="https://twitter.com/DEJPett/status/1056494441320595456?ref_src=twsrc%5Etfw">October 28, 2018</a>
 </blockquote>
-</div>
 
 On the Sunday (following horrendous train troubles getting people to the venue), at the suggestion of Philo, we had an open chat for 1 hour around how we, the [#openGLAM](https://openglam.org/) community could obtain a higher profile at the next Mozfest and beyond. The group that came together included attendees of Mozfest and not just the organisers of the popup, we weren't just a little echo chamber. We were lucky to be joined by [Andrew Prescott](https://twitter.com/Ajprescott) and his colleague Luca, [Kat Braybrooke](https://twitter.com/codekat) and [Hannah Winn](https://twitter.com/HannahWinn3) amongst others (once they had navigated the leave an empty chair policy to enable others to join.)<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">
 
-<div class="wp-block-embed__wrapper">
 <blockquote class="twitter-tweet" data-width="500" data-dnt="true">
 <p lang="en" dir="ltr">
 Nice to see so many positive new community projects in the works at this year's <a href="https://twitter.com/hashtag/Mozfest?src=hash&ref_src=twsrc%5Etfw">#Mozfest</a>. Highlights: Meeting <a href="https://twitter.com/hashtag/openGLAM?src=hash&ref_src=twsrc%5Etfw">#openGLAM</a> folk and their excellent Pop-Up Museum; the Art+Data exhibit; the entire 'Inclusivity' stream; seeing many <a href="https://twitter.com/mozilla?ref_src=twsrc%5Etfw">@mozilla</a> and <a href="https://twitter.com/hashtag/opensource?src=hash&ref_src=twsrc%5Etfw">#opensource</a> faces whom I've missed. 🎉 <a href="https://t.co/IuYwUf4Bfm">pic.twitter.com/IuYwUf4Bfm</a>
@@ -95,7 +91,8 @@ Nice to see so many positive new community projects in the works at this year's 
 
 <a href="https://twitter.com/codekat/status/1056596037060755457?ref_src=twsrc%5Etfw">October 28, 2018</a>
 </blockquote>
-</div>
+
+
 Between us, we hope to work together to create co-ordinated GLAM proposals (including child friendly programming) for the next Mozfest and to investigate how to get a track or larger theme running. Perhaps your museum or creative industry would like to join us? Let me, or Philo know if you do.
 
 Next year, I hope to actually attend some other sessions and fully participate. As I didn't get to see anyone else's installations or experience much, I can't therefore give a review of the whole event.

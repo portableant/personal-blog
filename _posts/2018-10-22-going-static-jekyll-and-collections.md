@@ -18,8 +18,10 @@ tags:
   - ruby
   - tutorial
 ---
-<figure class="wp-block-image">
-<img src="/images/2018/10/Screen-Shot-2018-10-22-at-23.10.04.png" alt="" class="img-fluid 473" srcset="/images/2018/10/Screen-Shot-2018-10-22-at-23.10.04.png 1858w, /images/2018/10/Screen-Shot-2018-10-22-at-23.10.04-300x222.png 300w, /images/2018/10/Screen-Shot-2018-10-22-at-23.10.04-768x569.png 768w, /images/2018/10/Screen-Shot-2018-10-22-at-23.10.04-1024x758.png 1024w" sizes="(max-width: 1858px) 100vw, 1858px" />
+
+<figure >
+<img src="/images/2018/10/Screen-Shot-2018-10-22-at-23.10.04.png" alt="" class="img-fluid 473"  />
+<figurecaption>3D instructional website screenshot</figurecaption>
 </figure>
 
 At the Fitzwilliam Museum, we have a large amount of old websites that were built over the last decade. Many of these are now presenting security risks as they are on old WordPress installations, or they are just plain hand coded HTML. To alleviate the burden for supporting these sites, I have been transferring as much as possible to [Jekyll](https://jekyllrb.com/) powered Github Pages instances (although I am also looking at [Gatsby](https://gatsbyjs.com)).

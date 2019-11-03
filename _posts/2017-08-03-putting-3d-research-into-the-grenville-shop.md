@@ -4,17 +4,12 @@ title: Putting 3D research into the Grenville Shop
 date: 2017-08-03T12:20:32+01:00
 author: Daniel Pett
 layout: default
-guid: /?p=326
 permalink: /putting-3d-research-into-the-grenville-shop/
-wtr-disable-reading-progress:
-  - ""
-wtr-disable-time-commitment:
-  - ""
 image: /images/2017/08/x3D-Antinous-Roy-landcape.jpg
 categories:
   - Techie stuff
 ---
-  1. This was originally published on the British Museum blog as &#8220;[A new dimension in home shopping](http://blog.britishmuseum.org/a-new-dimension-in-home-shopping/)&#8220;
+**This was originally published on the British Museum blog as &#8220;[A new dimension in home shopping](http://blog.britishmuseum.org/a-new-dimension-in-home-shopping/)&#8220;**
 
 Over the last four years, the British Museum has been producing 3D models that can be viewed by anyone online. The roots of this work can be traced back to the <a href="http://www.ahrc.ac.uk/" >Arts and Humanities Research Council</a>&#8216;s funding of the [MicroPasts](http://micropasts.org) crowdsourcing project with University College London, which produced 3D objects for academic research. The Museum continued its 3D output by using native mobile phone applications to publish a selection of [objects](http://www.wired.co.uk/article/reprinting-history) on the [Sketchfab](https://sketchfab.com/britishmuseum) platform, with many available to download under a [Creative Commons Non-Commercial licence](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -22,9 +17,6 @@ Over the last four years, the British Museum has been producing 3D models that c
 <div class="embed-responsive embed-responsive-16by9">
   <iframe title="A 3D model" class="responsive-item" src="https://sketchfab.com/playlists/embed?collection=646555f94b6d45a8ad2791e4d0ddc1f6" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
-
-
-
 
 All of this work was based around the principles of [Open Science](https://en.wikipedia.org/wiki/Open_science) and the premise of being cheap, quick and easy to replicate for anyone. We used a technique called [photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry) (multiple photographs taken in a strategic pattern around the object) and the resulting output was rendered in 3D software. Ideally anyone, an individual or institution, should be able to replicate our methods to create 3D representations of archaeology or artworks.
 
@@ -37,10 +29,6 @@ Together we discussed the concept and process of creating facsimiles for sale in
 
 It quickly became apparent that printing models in plastics would not be very environmentally friendly and that gypsum prints would be too costly, so we decided to use a method of casting directly from a mould derived from a 3D model.
 
-
-
 ThinkSee3D have now developed a range of products for sale, starting with the <a href="http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?partId=1&objectId=177496" >Statue of Roy, Priest of Amun</a> (shown above as a 3D capture from which the mould was created). It has been cast from reusable moulds in <a href="https://en.wikipedia.org/wiki/Jesmonite" >Jesmonite</a> (a water-based resin commonly used in museums), with the potential to produce in the material of your choice – bronze, clear resins, or even chocolate! You can now buy <a href="http://www.britishmuseumshoponline.org/invt/cmcR60560" >a resin replica of the statue of Roy from the Museum's Grenville Shop or online</a> for £300.
 
-  <p>
-    <strong><a href="https://sketchfab.com/britishmuseum" >Follow the British Museum on Sketchfab</a> today, and look out for <a href="http://www.britishmuseumshoponline.org/sculpture/icat/sculpture_all#esp_sort=ESP_Rational_releasedate&esp_order=desc" >more models on sale soon</a>!</strong>
-  </p>
+<strong><a href="https://sketchfab.com/britishmuseum" >Follow the British Museum on Sketchfab</a> today, and look out for <a href="http://www.britishmuseumshoponline.org/sculpture/icat/sculpture_all#esp_sort=ESP_Rational_releasedate&esp_order=desc" >more models on sale soon</a>!</strong>
