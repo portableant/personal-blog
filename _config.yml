@@ -18,7 +18,7 @@ email: dejp3@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog site for my work in museums, and beyond
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "museologi.st" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://museologi.st" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dejpett
 github_username:  portableant
 # Build settings
