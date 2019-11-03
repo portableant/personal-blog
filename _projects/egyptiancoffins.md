@@ -24,6 +24,7 @@ collaborators:
 project_website: https://egyptiancoffins.org
 partners:
   - The Egyptian Museum Cairo
+  - ThinkSee3D
 slug: egyptian-coffins-project
 status: active
 awards:

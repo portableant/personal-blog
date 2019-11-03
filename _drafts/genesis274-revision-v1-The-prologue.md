@@ -4,7 +4,7 @@ title: The prologue
 date: 2017-08-03T12:08:14+01:00
 author: Daniel Pett
 layout: revision
-guid: http://35.176.43.170/2017/08/03/274-revision-v1/
+guid: /2017/08/03/274-revision-v1/
 permalink: /274-revision-v1/
 ---
 Well I've had this domain for rather along time now, and so far it's just been my experimentation zone. It holds test websites, my [photo collections](http://www.7pillarsofwisdom.co.uk/gallery/ "Gallery of images") and various Content management systems that I'm trying out; they are all developed on php.

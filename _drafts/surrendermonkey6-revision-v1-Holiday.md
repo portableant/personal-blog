@@ -4,7 +4,7 @@ title: Holiday
 date: 2017-08-03T12:08:14+01:00
 author: Daniel Pett
 layout: revision
-guid: http://35.176.43.170/2017/08/03/6-revision-v1/
+guid: /2017/08/03/6-revision-v1/
 permalink: /6-revision-v1/
 ---
 [<img class="g2image_normal" title="IMG_2431" height="100" alt="IMG_2431" src="http://www.7pillarsofwisdom.co.uk/gallery/d/5507-2/IMG_2431.jpg" width="150" />](http://www.7pillarsofwisdom.co.uk/gallery/v/frogs/)

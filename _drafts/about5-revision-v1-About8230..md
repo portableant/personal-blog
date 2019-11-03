@@ -4,7 +4,7 @@ title: 'About&#8230;.'
 date: 2017-08-03T11:43:52+01:00
 author: Daniel Pett
 layout: revision
-guid: http://35.176.43.170/2017/08/03/5-revision-v1/
+guid: /2017/08/03/5-revision-v1/
 permalink: /5-revision-v1/
 ---
 <img class="alignright" alt="" src="http://farm4.static.flickr.com/3409/4638746410_0ebc56ae18_m.jpg" width="240" height="168" />This site is a collection of various elements from my life. I became a technology geek by accident after studying Archaeology at UCL and Cambridge (where I grew up partially &#8211; the rest was done in London at Uni).

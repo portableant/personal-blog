@@ -18,6 +18,8 @@ collaborators:
   - Jessica Ogden
   - Andrew Rheinhard
   - Kate Ellenberger
+  - Andrew Dufton
+  - Tom Goskar
 partners:
   - The Archaeology Data Service
 github_repo: https://github.com/drmattlaw/dayofarchaeology

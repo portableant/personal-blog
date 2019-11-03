@@ -21,7 +21,7 @@ The distribution of coins is biased by a number of factors (a [project funded b
   * Soil type and land use
   * Whether there is an active community of metal detectorists within the vicinity
 
-<a href="http://britishmuseumblog.files.wordpress.com/2014/02/544x306.jpg" data-rel="lightbox-gallery-RsEyrD1T" data-rl\_title="" data-rl\_caption="" title=""><img src="http://britishmuseumblog.files.wordpress.com/2014/02/544x306.jpg?w=544&h=306" alt="544x306" width="544" height="306" /></a>
+<img src="/images/2014/544x306.jpg" class="img-fluid" />
 
 The tool is straightforward to use. The left hand pane holds details for the place of discovery; the right hand side holds details for the place of issue, the mint. These panes work in tandem, with data dynamically updating in each, depending on the user’s choice. A simple example to get going is this:
 

@@ -9,4 +9,4 @@ permalink: /new-york-mask-from-the-met/
 categories:
   - archaeology
 ---
-<img class="img-fluid" title="A gold mask" src="http://farm6.static.flickr.com/5225/5851709860_5f163abece_z.jpg" alt="" />
+<img class="img-fluid" title="A gold mask" src="https://live.staticflickr.com/5225/5851709860_5f163abece_b.jpg" alt="" />

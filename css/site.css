@@ -147,7 +147,7 @@ video {
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
-  background: rgba(232, 98, 86, 0.8) url(../images/layouts/arrow.svg) no-repeat center 50%;
+  background: rgba(128, 0, 128, 1) url(../images/layouts/arrow.svg) no-repeat center 50%;
   visibility: hidden;
   opacity: 0;
   -webkit-transition: opacity .3s 0s, visibility 0s .3s, background-color .3s 0s;
@@ -173,7 +173,7 @@ video {
 }
 
 .cd-top:hover {
-  background-color: #e86256;
+  background-color: purple;
   opacity: 1;
 }
 

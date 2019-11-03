@@ -14,10 +14,4 @@ tags:
   - washington
 format: image
 ---
-<div style="width: 610px" class="wp-caption alignnone">
-  <img src="https://pbs.twimg.com/media/BY30RmFIIAARfI8.jpg" alt="" width="600" height="800" />
-  
-  <p class="wp-caption-text">
-    Massimo and Kate in Washington
-  </p>
-</div>
+<img src="https://pbs.twimg.com/media/BY30RmFIIAARfI8.jpg" alt="Massimo and Kate in Washington" class="img-fluid" />

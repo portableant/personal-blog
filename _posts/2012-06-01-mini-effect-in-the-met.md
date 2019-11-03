@@ -14,10 +14,4 @@ categories:
   - Meandering
   - museums
 ---
-<div style="width: 1034px" class="wp-caption alignnone">
-  <img src="https://farm9.staticflickr.com/8025/7346437438_a1bfc72a30_b.jpg" alt="" width="1024" height="678" />
-
-  <p class="wp-caption-text">
-    Mini museum people
-  </p>
-</div>
+<img src="https://farm9.staticflickr.com/8025/7346437438_a1bfc72a30_b.jpg" alt="" class="img-fluid" />

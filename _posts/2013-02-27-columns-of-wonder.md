@@ -13,10 +13,4 @@ tags:
   - Egypt
 format: image
 ---
-<div style="width: 1610px" class="wp-caption alignnone">
-  <img src="https://farm9.staticflickr.com/8511/8553939973_f5d73be7ae_h.jpg" alt="" width="1600" height="1060" />
-  
-  <p class="wp-caption-text">
-    Columns in Luxor
-  </p>
-</div>
+<img src="https://farm9.staticflickr.com/8511/8553939973_f5d73be7ae_h.jpg" alt="Columns in Luxor" class="img-fluid"/>

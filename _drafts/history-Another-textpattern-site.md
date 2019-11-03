@@ -10,7 +10,7 @@ categories:
   - Meandering
 ---
 <div id="attachment_26" style="width: 275px" class="wp-caption alignleft">
-  <a href="http://35.176.43.170/images/2008/08/ourpasthistorycom.jpg" data-rel="lightbox-gallery-3oWj1bl2" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-26" class="size-medium img-fluid 26" title="Corinne's website - Ourpasthistory.com" src="http://35.176.43.170/images/2008/08/ourpasthistorycom-265x300.jpg" alt="Corinne's website - Ourpasthistory.com" width="265" height="300" /></a>
+  <a href="/images/2008/08/ourpasthistorycom.jpg" data-rel="lightbox-gallery-3oWj1bl2" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-26" class="size-medium img-fluid 26" title="Corinne's website - Ourpasthistory.com" src="/images/2008/08/ourpasthistorycom-265x300.jpg" alt="Corinne's website - Ourpasthistory.com" width="265" height="300" /></a>
   
   <p id="caption-attachment-26" class="wp-caption-text">
     Corinne's website - Ourpasthistory.com

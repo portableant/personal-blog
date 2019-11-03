@@ -15,10 +15,6 @@ geo_public:
 categories:
   - Meandering
 ---
-<img style="display:block;margin-right:auto;margin-left:auto;" alt="image" src="http://35.176.43.170/images/2011/06/wpid-IMAG0222-1.jpg" />
+<img alt="Throw me the idol" src="/images/2011/06/IMAG0222-1.jpg" class="img-fluid"/>
 
 Throw me the idol&#8230;&#8230;
-
-<div id="geo-post-207" class="geo geo-post" style="display: none">
-  <span class="latitude">40.7020813</span><span class="longitude">-74.0129857</span>
-</div>

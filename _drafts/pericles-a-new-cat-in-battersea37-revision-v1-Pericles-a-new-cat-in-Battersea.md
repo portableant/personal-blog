@@ -8,7 +8,7 @@ guid: http://www.7pillarsofwisdom.co.uk/2017/08/03/37-revision-v1/
 permalink: /37-revision-v1/
 ---
 <div id="attachment_46" style="width: 310px" class="wp-caption alignleft">
-  <a href="http://35.176.43.170/images/2008/08/img_0088.jpg" data-rel="lightbox-gallery-J6gvnlTD" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-46" class="size-medium img-fluid 46" title="Pericles on his lounger" src="http://35.176.43.170/images/2008/08/img_0088-300x192.jpg" alt="Pericles on his lounger" width="300" height="192" /></a>
+  <a href="/images/2008/08/img_0088.jpg" data-rel="lightbox-gallery-J6gvnlTD" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-46" class="size-medium img-fluid 46" title="Pericles on his lounger" src="/images/2008/08/img_0088-300x192.jpg" alt="Pericles on his lounger" width="300" height="192" /></a>
   
   <p id="caption-attachment-46" class="wp-caption-text">
     Pericles on his lounger

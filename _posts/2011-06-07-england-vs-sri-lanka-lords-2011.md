@@ -18,4 +18,4 @@ categories:
 tags:
   - cricket
 ---
-<img class="img-fluid" alt="image" src="/images/2011/06/wpid-IMAG0172.jpg" />
+<img class="img-fluid" alt="image" src="/images/2011/06/IMAG0172-1.jpg" />

@@ -4,7 +4,7 @@ title: 'Rugby season begins (for me at least&#8230;)'
 date: 2017-08-03T12:08:14+01:00
 author: Daniel Pett
 layout: revision
-guid: http://35.176.43.170/2017/08/03/8-revision-v1/
+guid: /2017/08/03/8-revision-v1/
 permalink: /8-revision-v1/
 ---
 Hampstead took on Bank of England at their palatial HQ on Saturday, and with a rather makeshift pack we managed to win 22 &#8211; 17 courtesy of a last minute converted try. I'm suffering today as we were under alot of pressure at scrums, regularly retreating several metres. We did however manage 5 against the head, mainly due to ponderous hooking by my opposite number.I hadn't planned to play much this year, but the team was desperate so I played.

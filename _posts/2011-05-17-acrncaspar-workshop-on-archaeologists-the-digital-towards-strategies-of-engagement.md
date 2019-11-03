@@ -1,6 +1,6 @@
 ---
 id: 153
-title: '#ACRNCASPAR Workshop on Archaeologists &#038; the Digital: Towards Strategies of Engagement'
+title: '#ACRNCASPAR'
 date: 2011-05-17T17:54:45+01:00
 author: Daniel Pett
 layout: default
@@ -12,9 +12,13 @@ categories:
 tags:
   - 'CASPAR #acrncaspar'
 ---
-<a href="http://35.176.43.170/images/2011/05/caspar.jpg" data-rel="lightbox-gallery-EBnWcL8S" data-rl\_title="" data-rl\_caption="" title=""><img class="alignnone size-full img-fluid 157" title="caspar" src="http://35.176.43.170/images/2011/05/caspar.jpg" alt="The caspar workshop banner" width="800" height="320" srcset="/images/2011/05/caspar.jpg 800w, /images/2011/05/caspar-300x120.jpg 300w, /images/2011/05/caspar-768x307.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a>
 
-Yesterday UCL's Institute of Archaeology (which incidentally is top ranked archaeological institution in the UK) hosted a workshop of papers centred around archaeological engagement using digital technologies and the development and implementation of strategy to achieve this. The conference/workshop was badged under the Centre for Audio Visual Study and Practice in Archaeology and the Archaeology and Communication Research Network and was organised by Chiara Bonacchi (with some help from me, but she did the majority of the work!).  We managed to assemble a varied audience (full house) via eventbrite and a wide range of speakers and the below (sorry this will be long and maybe dull and I didn't make notes so most of this is from memory!) will recap on the presentations that were given and in the next month or so, they will be available in video podcast format. There was some backchannel discussion by various Twitter users (myself included) and I'll also show some analysis of what they were saying. Another bonus from this workshop, was the networking opportunities that it produced. I met lots of people that I knew digitally, but not in real life, so it was excellent to make their acquaintance!
+## Workshop on Archaeologists &#038; The Digital: Towards Strategies of Engagement
+<img class="img-fluid" title="caspar" src="/images/2011/05/caspar.jpg" alt="The caspar workshop banner" />
+
+Yesterday UCL's Institute of Archaeology (which incidentally is top ranked archaeological institution in the UK) hosted a workshop of papers centred around archaeological engagement using digital technologies and the development and implementation of strategy to achieve this. The conference/workshop was badged under the Centre for Audio Visual Study and Practice in Archaeology and the Archaeology and Communication Research Network and was organised by Chiara Bonacchi (with some help from me, but she did the majority of the work!).  
+
+We managed to assemble a varied audience (full house) via eventbrite and a wide range of speakers and the below (sorry this will be long and maybe dull and I didn't make notes so most of this is from memory!) will recap on the presentations that were given and in the next month or so, they will be available in video podcast format. There was some backchannel discussion by various Twitter users (myself included) and I'll also show some analysis of what they were saying. Another bonus from this workshop, was the networking opportunities that it produced. I met lots of people that I knew digitally, but not in real life, so it was excellent to make their acquaintance!
 
 **If anything is wrong please do correct me!**
 
@@ -22,13 +26,17 @@ Yesterday UCL's Institute of Archaeology (which incidentally is top ranked archa
 
 ### Smart phones and site interpretation: The Street Museum application ~ Meriel Jeater (Museum of London)
 
-<a href="http://35.176.43.170/images/2011/05/nesta.jpg" data-rel="lightbox-gallery-EBnWcL8S" data-rl\_title="" data-rl\_caption="" title=""><img class="alignleft size-thumbnail img-fluid 160" title="nesta" src="http://35.176.43.170/images/2011/05/nesta-150x150.jpg" alt="Robert Nesta Marley" width="150" height="150" srcset="/images/2011/05/nesta-150x150.jpg 150w, /images/2011/05/nesta-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>Meriel spoke about the Museum of London's recent launches of a dual platform smart phone application entitled Street Museum. This used location based technology via the GPS chip of the user's phone to pinpoint their position and deliver content from the Museum's archive of pictures that related to their present location. The application was created by Brother and Sisters agency, originally on just the iPhone during a 5 month cycle (concept created in January 2010, specified in February and delivered in May 2010)  at a discounted (!) cost of £20,000 (they were told the actual cost would be £40-50k, but I think that this could be built in house or at a hackday using appropriate technology &#8211; jQuery mobile, HTML 5 etc). The Android application that was delivered subsequently to this cost a further £28,000.
+<img class="img-fluid" title="nesta" src="/images/2011/05/nesta.jpg" alt="Robert Nesta Marley" />
 
-<a href="http://35.176.43.170/images/2011/05/reenatc.jpg" data-rel="lightbox-gallery-EBnWcL8S" data-rl\_title="" data-rl\_caption="" title=""><img class="alignright size-thumbnail img-fluid 162" title="reenatc" src="http://35.176.43.170/images/2011/05/reenatc-150x150.jpg" alt="Re enactors" width="150" height="150" srcset="/images/2011/05/reenatc-150x150.jpg 150w, /images/2011/05/reenatc-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>Other applications are now being developed by the Museum, specifically a partnership with Nokia is producing an application entitled &#8220;[Soundtrack to London](http://www.museumoflondon.org.uk/Explore-online/Apps/SoundtracktoLondon.htm "Soundtrack to London")&#8221; and this was shown with an example of the great Robert Marley and a Romanised version of Street Museum (a name they have trademarked) called Streetmuseum Londinium.  The Londinium app uses green screen generated Roman re-enactors and layer them over current images. I am unclear if this uses their API (a hack was produced at history hack day using this for mobile devices). If you want to find out more about their applications, you can view more on their [dedicated page](http://www.museumoflondon.org.uk/Explore-online/Apps/ "Museum of London apps") . This does raise the issue of social exclusion for those without access to premium handsets, but that comment was raised via twitter&#8230;. Other issues that came up with these apps, included questions relating to why the application wasn't just a new layer with the current Street Museum application.
+Meriel spoke about the Museum of London's recent launches of a dual platform smart phone application entitled Street Museum. This used location based technology via the GPS chip of the user's phone to pinpoint their position and deliver content from the Museum's archive of pictures that related to their present location. The application was created by Brother and Sisters agency, originally on just the iPhone during a 5 month cycle (concept created in January 2010, specified in February and delivered in May 2010)  at a discounted (!) cost of £20,000 (they were told the actual cost would be £40-50k, but I think that this could be built in house or at a hackday using appropriate technology &#8211; jQuery mobile, HTML 5 etc). The Android application that was delivered subsequently to this cost a further £28,000.
+
+<img class="alignright size-thumbnail img-fluid 162" title="reenatc" src="/images/2011/05/reenatc.jpg" alt="Re enactors" />
+
+Other applications are now being developed by the Museum, specifically a partnership with Nokia is producing an application entitled &#8220;[Soundtrack to London](http://www.museumoflondon.org.uk/Explore-online/Apps/SoundtracktoLondon.htm "Soundtrack to London")&#8221; and this was shown with an example of the great Robert Marley and a Romanised version of Street Museum (a name they have trademarked) called Streetmuseum Londinium.  The Londinium app uses green screen generated Roman re-enactors and layer them over current images. I am unclear if this uses their API (a hack was produced at history hack day using this for mobile devices). If you want to find out more about their applications, you can view more on their [dedicated page](http://www.museumoflondon.org.uk/Explore-online/Apps/ "Museum of London apps") . This does raise the issue of social exclusion for those without access to premium handsets, but that comment was raised via twitter&#8230;. Other issues that came up with these apps, included questions relating to why the application wasn't just a new layer with the current Street Museum application.
 
 ### Social media as marketing  tools at the British Museum ~ Lena Zimmer (British Museum)
 
-Unfortunately, [Lena](http://www.twitter.com/#!/lena214) couldn't attend the workshop, so I was persuaded to give her paper and I probably didn't do it justice! This talk centred around the use of Social media platforms for the dissemination of propaganda about the British Museum and to facilitate dialogue between the institution and fans/followers etc. This talk was pretty straight forward and there's a lot of statistical information that can be used to benchmark with archaeological and museums.  The BM started to explore the concept of Social Media when refreshing the web presence back in 2006, but the full on uptake of these facilities only began in January 2009 (Twitter) and April (Facebook). A relaunched Youtube channel came online in August 2010 and a blog came online in April 2010. (These are all subsequent to the Portable Antiquities Scheme using these facilities and other departments have a presence as well.)
+Unfortunately, [Lena](http://www.twitter.com/lena214) couldn't attend the workshop, so I was persuaded to give her paper and I probably didn't do it justice! This talk centred around the use of Social media platforms for the dissemination of propaganda about the British Museum and to facilitate dialogue between the institution and fans/followers etc. This talk was pretty straight forward and there's a lot of statistical information that can be used to benchmark with archaeological and museums.  The BM started to explore the concept of Social Media when refreshing the web presence back in 2006, but the full on uptake of these facilities only began in January 2009 (Twitter) and April (Facebook). A relaunched Youtube channel came online in August 2010 and a blog came online in April 2010. (These are all subsequent to the Portable Antiquities Scheme using these facilities and other departments have a presence as well.)
 
 Two points Lena wanted iterated, that I probably didn't push heavily enough:  &#8220;A recent study by the Arts Council England, MLA and Arts & Business [Digital audiences: engagement with arts and culture online](http://www.artscouncil.org.uk/media/uploads/doc/Digital_audiences_final.pdf "ACE audience study") (November 2010) has shown that 53% of the online population have used the internet to engage with arts and culture in the past 12 months&#8230;. The report also states that in particular Facebook ‘has become a major tool for discovering as well as sharing information about arts and culture, second only to organic search through Google and other search engines.'&#8221;
 
@@ -54,13 +62,9 @@ I lost track of the outcome of this talk as I was fixing our work website via SS
 
 The nature of archaeological communities and spatial data online ~ Andy Bevan (UCL)
 
-<div style="width: 250px" class="wp-caption alignnone">
-  <a href="http://farm5.static.flickr.com/4020/4534898955_cbfb210fa4_z.jpg" data-rel="lightbox-gallery-EBnWcL8S" data-rl_title="" data-rl_caption="" title=""><img title="Mortimer Wheeler plaque" src="http://farm5.static.flickr.com/4020/4534898955_cbfb210fa4_m.jpg" alt="A blue plaque for Morty!" width="240" height="180" /></a>
-  
-  <p class="wp-caption-text">
-    Mortimer Wheeler plaque CC Image from Flickr by http://www.flickr.com/photos/harriyott/
-  </p>
-</div>
+<img title="Mortimer Wheeler plaque" src="https://live.staticflickr.com/4020/4534898955_cbfb210fa4_b.jpg" alt="A blue plaque for Morty!" class="img-fluid" />
+
+Mortimer Wheeler plaque CC Image from Flickr by http://www.flickr.com/photos/harriyott/
 
 Andy Bevan, GIS wunderkind, presented the seminar that he gave during the CASPAR series. It included references to Asterix, Mortimer Wheeler and agency and models. I enjoy these sort of theoretical talks! Andy covered the following concepts and also referred to the Long Tail idea of digital engagement:
 
@@ -77,7 +81,7 @@ Andy Bevan, GIS wunderkind, presented the seminar that he gave during the CASPAR
 
 ### Twitter and archaeology online  ~ Lorna Richardson (UCL)
 
-<a href="http://35.176.43.170/images/2011/05/twitteruse.jpg" data-rel="lightbox-gallery-EBnWcL8S" data-rl\_title="" data-rl\_caption="" title=""><img class="size-full img-fluid 165" title="twitteruse" src="http://35.176.43.170/images/2011/05/twitteruse.jpg" alt="Use of twitter in europe" width="682" height="417" srcset="/images/2011/05/twitteruse.jpg 682w, /images/2011/05/twitteruse-300x183.jpg 300w" sizes="(max-width: 682px) 100vw, 682px" /></a>
+<img class=" img-fluid" title="twitteruse" src="/images/2011/05/twitteruse.jpg" alt="Use of twitter in europe"  />
 
 Lorna Richardson, current PhD student at the Centre for Digital  Humanities UCL, presented on her research into the use of twitter and archaeological engagement online (you can read far more on her research aims on her [website](http://digipubarch.org/my-research/ "Lorna's research aims")). Lorna's been working with me since her Masters, so I'm quite familiar with her work and so I hope I have captured the essence of her presentation below. As we should quite rightly assume, not every one uses or is au fait with the concept of Twitter (very small percentage of the world's population use it &#8211; newspapers get over the fixation please) and so she gave an introduction as to what the social media platform is and how it works, specifically:
 
@@ -85,7 +89,7 @@ Lorna Richardson, current PhD student at the Centre for Digital  Humanities UCL
   2. How the @ syntax worked
   3. How hashtags came about to facilitate sharing
   4. How retweets work
-  5. User figures of use &#8211; peer index [sent a good stat out on twitter](https://twitter.com/#!/PeerIndex/status/64327979148382209 "Twitter update from peerindex") &#8211; &#8220;Twitter Confirms It Has Passed 200 Million Accounts, 70% of Traffic Now International&#8221; which I passed on a few weeks ago
+  5. User figures of use &#8211; peer index [sent a good stat out on twitter](https://twitter.com/PeerIndex/status/64327979148382209 "Twitter update from peerindex") &#8211; &#8220;Twitter Confirms It Has Passed 200 Million Accounts, 70% of Traffic Now International&#8221; which I passed on a few weeks ago
   6. Where the peak usage seems to be in Europe taken from a recent visualisation posted by a company called &#8220;[eeve](http://blog.geteeve.com/post/5038599050/twitter-usage-in-europe-this-is-why-we-are-in "Eeve image")&#8221;  (shown in this post) with some interesting spikes on capital cities, with London being the most dominant centre.
 
 Lorna then went on to talk about her twitter and archaeologists survey, how long it ran for and what sort of feedback she managed to get from the survey monkey questionnaire she created. She showed some graphics showing how people accessed twitter, top words used in some tweet analysis and 2 wordle graphics for some basic text based analysis of responses &#8211; for example news and field work updates were the things that people wanted to see shared and research and networking the main uses of Twitter. She then also talked about the academic problems that she will now face due to Twitter's change in terms of use for their api and that to get access to full data hose of tweets, she'll now need to find £2000 (or $ can't remember!) to get access from a company called [gnip](http://gnip.com/ "The Gnip website"). Questions were raised from the floor regarding use of RSS for monitoring twitter, but this feature is being [phased out](http://www.zeldman.com/2011/05/09/twitter-and-facebook-kill-rss/) from their interface, twapperkeeper has had to pull the export functions etc and Lorna needs some quite detailed information.
@@ -96,13 +100,9 @@ Lorna finished by making a call to arms, asking everyone there to consider using
 
 The man of Kernow, Tom Goskar then presented on his fantastic work for Wessex Archaeology, managing their open source-tastic web presence. Tom operates in a very similar manner to me, using the best open souce tools and software to complete the task in hand. His talk resonated deeply with what I normally lecture on for Tim Schadla-Hall's course.  Tom's organisation is at the forefront of commercial archaeological work, employing nearly 200 people from 4 locations around Britain. It has a relatively high turnover of £7million pounds and generates reams of web content and &#8216;grey' literature (a pigeon hole term that Tom wants to eliminate) and his skills turn this work into a cohesive web presence that is visited by on average 12,000 people per month. Their website was orginally produced to cope with the interest around the Amesbury Archer, which was discovered in 2002 and this served to highlight the benefit of pushing their really interesting work out digitally.
 
-<div id="attachment_169" style="width: 594px" class="wp-caption alignnone">
-  <a href="http://35.176.43.170/images/2011/05/wessex.jpg" data-rel="lightbox-gallery-EBnWcL8S" data-rl_title="" data-rl_caption="" title=""><img aria-describedby="caption-attachment-169" class="size-large img-fluid 169" title="wessex" src="http://35.176.43.170/images/2011/05/wessex-1024x616.jpg" alt="Wessex archaeology from 2002, wayback machine" width="584" height="351" srcset="/images/2011/05/wessex-1024x616.jpg 1024w, /images/2011/05/wessex-300x181.jpg 300w, /images/2011/05/wessex-768x462.jpg 768w, /images/2011/05/wessex.jpg 1163w" sizes="(max-width: 584px) 100vw, 584px" /></a>
-  
-  <p id="caption-attachment-169" class="wp-caption-text">
-    Wessex archaeology from 2002, wayback machine
-  </p>
-</div>
+<img aria-describedby="caption-attachment-169" class="size-large img-fluid 169" title="wessex" src="/images/2011/05/wessex.jpg" alt="Wessex archaeology from 2002, wayback machine" />
+
+Wessex archaeology from 2002, wayback machine
 
 Tom has moved on substantially since 2002, away from static HTML to sophisticated content management and blogging tools (currently have 14) and he uses the best software for the job:
 
@@ -118,7 +118,9 @@ Tom's last slide summed up today's workshop completely for me &#8211; **It’s a
 
 ### Blogs and wikipedia: New frontiers for archaeological research? ~ Amara Thornton (UCL)
 
-<a href="http://35.176.43.170/images/2011/05/flinders.jpg" data-rel="lightbox-gallery-EBnWcL8S" data-rl\_title="" data-rl\_caption="" title=""><img class="alignleft size-thumbnail img-fluid 168" title="flinders" src="http://35.176.43.170/images/2011/05/flinders-150x150.jpg" alt="Flinders Petrie on facebook" width="150" height="150" srcset="/images/2011/05/flinders-150x150.jpg 150w, /images/2011/05/flinders-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a>Amara Thornton has recently completed her PhD at UCL (award pending) on social networks around famous Palestine linked archaeologists (Garstang, Kitchener etc) and at the conference, she presented on blogging and wikipedia use in the archaeological research sphere. Amara ran through the concept and history of Wikipedia and gave some statistical analysis of the most popular pages for their articles &#8211; from her research, the most popular archaeological linked article was for the Acropolis and she also showed how many views archaeological topic pages received and how you could access the editing logs!
+<img class="alignleft size-thumbnail img-fluid 168" title="flinders" src="/images/2011/05/flinders.jpg" alt="Flinders Petrie on facebook"  />
+
+Amara Thornton has recently completed her PhD at UCL (award pending) on social networks around famous Palestine linked archaeologists (Garstang, Kitchener etc) and at the conference, she presented on blogging and wikipedia use in the archaeological research sphere. Amara ran through the concept and history of Wikipedia and gave some statistical analysis of the most popular pages for their articles &#8211; from her research, the most popular archaeological linked article was for the Acropolis and she also showed how many views archaeological topic pages received and how you could access the editing logs!
 
 There were a couple more wordle graphics, one showing non archaeological thoughts on  archaeology (am I right here?), which has Indiana Jones and pith helmets to the fore. She then went on to talk about the convergence of wikipedia and facebook &#8211; or wikipedia meets facebook and she showed how people had befriended John Garstang (6 likes)  and Flinders Petrie (over 200 likes). Sean Graham's Electric archaeologist blog and his research on blogging was then mentioned, with the [network graphic](http://electricarchaeologist.wordpress.com/2011/04/01/the-archaeological-blogosphere/ "gephi produced graphic") being shown to the audience which demonstrated that Coleen Morgan's blog appears in the middle with links from all over the place. (If you're interested in how he produced this, check out Gephi.) Amara also suggested that a concentrated effort to increase reliability and scope of archaeological wiki articles could be co-ordinated &#8211; something that has also been mooted on Twitter by various people.
 
@@ -180,55 +182,55 @@ Twitter wise, there was a reasonable backchannel, 60+ people attended and some b
 
   1. [Twittersentiment](http://twittersentiment.appspot.com/search?query=%23acrncaspar) showed 78% of people were positive in their tweets about the day
   2. My id was the only one geo locating the tweets
-  3. [ACRN CASPAR tweets](http://35.176.43.170/images/2011/05/acrncaspar.xls) in spreadsheet format can be downloaded
+  3. [ACRN CASPAR tweets](/images/2011/05/acrncaspar.xls) in spreadsheet format can be downloaded
   4. 215 tweets are available
   5. The dreaded wordle looks like the below:  
-    <a href="http://35.176.43.170/images/2011/05/wordlejpg.jpg" data-rel="lightbox-gallery-EBnWcL8S" data-rl\_title="" data-rl\_caption="" title=""><img class="alignnone size-medium img-fluid 173" title="wordlejpg" src="http://35.176.43.170/images/2011/05/wordlejpg-300x200.jpg" alt="Wordle of tweets" width="300" height="200" srcset="/images/2011/05/wordlejpg-300x200.jpg 300w, /images/2011/05/wordlejpg-768x513.jpg 768w, /images/2011/05/wordlejpg.jpg 845w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+    <img class=" size-medium img-fluid 173" title="wordlejpg" src="/images/2011/05/wordlejpg.jpg" alt="Wordle of tweets" />
   6. 38 people tweeted about the #acrncaspar hashtag
   7. Top tweeter was Jess Ogden
 
 Twitterati were:
 
-  * [@jessogden](http://twitter.com/#!/jessogden): # of tweets:58
-  * [@LornaRichardson](http://twitter.com/#!/LornaRichardson): # of tweets:36
-  * [@portableant](http://twitter.com/#!/portableant): # of tweets:19
-  * [@jadufton](http://twitter.com/#!/jadufton): # of tweets:17
-  * [@simon_mahony](http://twitter.com/#!/simon_mahoney): # of tweets:11
-  * [@KathrynPiquette](http://twitter.com/#!/KathrynPiquette): # of tweets:9
-  * [@stueve](http://twitter.com/#!/stueve): # of tweets:8
-  * [@tag](http://twitter.com/#!/tag): # of tweets:7
-  * [@m_law](http://twitter.com/#!/m_law): # of tweets:7
-  * [@archaeologyman](http://twitter.com/#!/archaeologyman): # of tweets:5
-  * [@luluartist](http://twitter.com/#!/luluartist): # of tweets:4
-  * [@Pogezana](http://twitter.com/#!/Pogezana): # of tweets:4
-  * [@sempaiscuba](http://twitter.com/#!/sempaiscuba): # of tweets:4
-  * [@mrjdoeser](http://twitter.com/#!/mrjdoeser): # of tweets:3
-  * [@GraemeEarl](http://twitter.com/#!/GraemeEarl): # of tweets:3
-  * [@PatHadley](http://twitter.com/#!/PatHadley): # of tweets:3
-  * [@Ravages](http://twitter.com/#!/Ravages): # of tweets:2
-  * [@dazdeery](http://twitter.com/#!/dazdeery): # of tweets:2
-  * [@captain_primate](http://twitter.com/#!/captain_primate): # of tweets:2
-  * [@Sarah_May1](http://twitter.com/#!/Sarah_May1): # of tweets:2
-  * [@lparchaeology](http://twitter.com/#!/lparchaeology): # of tweets:2
-  * [@Rikke_Olafson](http://twitter.com/#!/Rikke_Olafson): # of tweets:2
-  * [@NickSherrard](http://twitter.com/#!/NickSherrard): # of tweets:1
-  * [@brennawalks](http://twitter.com/#!/brennawalks): # of tweets:1
-  * [@London_Places](http://twitter.com/#!/London_Places): # of tweets:1
-  * [@stekosteko](http://twitter.com/#!/stekosteko): # of tweets:1
-  * [@ArchaeologistSP](http://twitter.com/#!/ArchaeologistSP): # of tweets:1
-  * [@PrimitiveMethod](http://twitter.com/#!/PrimitiveMethod): # of tweets:1
-  * [@clairey_ross](http://twitter.com/#!/clairey_ross): # of tweets:1
-  * [@eltonteb](http://twitter.com/#!/eltoneb): # of tweets:1
-  * [@Mincefriend](http://twitter.com/#!/Mincefriend): # of tweets:1
-  * [@CBonacchi](http://twitter.com/#!/CBonacchi): # of tweets:1
-  * [@diggingthedirt](http://twitter.com/#!/diggingthedirt): # of tweets:1
-  * [@vinbrown](http://twitter.com/#!/vinbrown): # of tweets:1
-  * [@History_Hunters](http://twitter.com/#!/History_Hunters): # of tweets:1
-  * [@christina_vona](http://twitter.com/#!/christina_vona): # of tweets:1
-  * [@dav_stott](http://twitter.com/#!/dav_stott): # of tweets:1
-  * [@telefonillo](http://twitter.com/#!/telefonillo): # of tweets:1
+  * [@jessogden](http://twitter.com/jessogden): # of tweets:58
+  * [@LornaRichardson](http://twitter.com/LornaRichardson): # of tweets:36
+  * [@portableant](http://twitter.com/portableant): # of tweets:19
+  * [@jadufton](http://twitter.com/jadufton): # of tweets:17
+  * [@simon_mahony](http://twitter.com/simon_mahoney): # of tweets:11
+  * [@KathrynPiquette](http://twitter.com/KathrynPiquette): # of tweets:9
+  * [@stueve](http://twitter.com/stueve): # of tweets:8
+  * [@tag](http://twitter.com/tag): # of tweets:7
+  * [@m_law](http://twitter.com/m_law): # of tweets:7
+  * [@archaeologyman](http://twitter.com/archaeologyman): # of tweets:5
+  * [@luluartist](http://twitter.com/luluartist): # of tweets:4
+  * [@Pogezana](http://twitter.com/Pogezana): # of tweets:4
+  * [@sempaiscuba](http://twitter.com/sempaiscuba): # of tweets:4
+  * [@mrjdoeser](http://twitter.com/mrjdoeser): # of tweets:3
+  * [@GraemeEarl](http://twitter.com/GraemeEarl): # of tweets:3
+  * [@PatHadley](http://twitter.com/PatHadley): # of tweets:3
+  * [@Ravages](http://twitter.com/Ravages): # of tweets:2
+  * [@dazdeery](http://twitter.com/dazdeery): # of tweets:2
+  * [@captain_primate](http://twitter.com/captain_primate): # of tweets:2
+  * [@Sarah_May1](http://twitter.com/Sarah_May1): # of tweets:2
+  * [@lparchaeology](http://twitter.com/lparchaeology): # of tweets:2
+  * [@Rikke_Olafson](http://twitter.com/Rikke_Olafson): # of tweets:2
+  * [@NickSherrard](http://twitter.com/NickSherrard): # of tweets:1
+  * [@brennawalks](http://twitter.com/brennawalks): # of tweets:1
+  * [@London_Places](http://twitter.com/London_Places): # of tweets:1
+  * [@stekosteko](http://twitter.com/stekosteko): # of tweets:1
+  * [@ArchaeologistSP](http://twitter.com/ArchaeologistSP): # of tweets:1
+  * [@PrimitiveMethod](http://twitter.com/PrimitiveMethod): # of tweets:1
+  * [@clairey_ross](http://twitter.com/clairey_ross): # of tweets:1
+  * [@eltonteb](http://twitter.com/eltoneb): # of tweets:1
+  * [@Mincefriend](http://twitter.com/Mincefriend): # of tweets:1
+  * [@CBonacchi](http://twitter.com/CBonacchi): # of tweets:1
+  * [@diggingthedirt](http://twitter.com/diggingthedirt): # of tweets:1
+  * [@vinbrown](http://twitter.com/vinbrown): # of tweets:1
+  * [@History_Hunters](http://twitter.com/History_Hunters): # of tweets:1
+  * [@christina_vona](http://twitter.com/christina_vona): # of tweets:1
+  * [@dav_stott](http://twitter.com/dav_stott): # of tweets:1
+  * [@telefonillo](http://twitter.com/telefonillo): # of tweets:1
 
-Jess Ogden also produced a Storify for the workshop, this is embedded below. Many thanks to her!
+Jess Ogden also produced a Storify for the workshop, this is embedded below. Many thanks to her! - Note that Storify closed down.
 
 <noscript>
   [<a href="http://storify.com/jessogden/acrncaspar" target="blank">View the story &#8220;Archaeologists & the Digital: Towards Strategies of Engagement &#8221; on Storify]</a>
