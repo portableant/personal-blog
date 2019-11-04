@@ -6,7 +6,6 @@ author: Daniel Pett
 layout: default
 guid: 94CE827A-D493-4E13-8670-66A61A5AADCA
 permalink: /3-d-modelling-workshops/
-
 categories:
   - Techie stuff
 ---
