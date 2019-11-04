@@ -10,10 +10,14 @@ Dan’s first major project at the British Museum was to design and build the aw
 
 ## Places I've worked
 
-![](/images/Dresdner-kleinwort.png){: .img-fluid}  
+<div class="row d-flex flex-wrap align-items-center">
 
-![](/images/BT.jpg){: .img-fluid}  
+<div class="col align-middle"><img src="/images/Dresdner-kleinwort.png" class="img-fluid" /></div>
 
-![](/images/british-museum.png){: .img-fluid}  
+<div class="col align-middle"><img src="/images/BT.jpg" class="img-fluid" /></div>
 
-![](/images/cam.jpg){: .img-fluid}  
+<div class="col align-middle"><img src="/images/british-museum.png" class="img-fluid" /></div>
+
+<div class="col align-middle"><img src="/images/cam.jpg" class="img-fluid" /></div>
+
+</div>
