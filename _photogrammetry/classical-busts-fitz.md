@@ -1,5 +1,5 @@
 ---
-title: The Fitzwilliam Museum
+title: The Fitzwilliam Museum Classical Busts
 layout: default
 ---
 
