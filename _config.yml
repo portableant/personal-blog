@@ -16,11 +16,13 @@
 title: Daniel Pett
 email: dejp3@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  A personal blog site for my work in museums, and beyond
+  A personal site for my work in museums, heritage, technology and beyond.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://museologi.st" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://museologi.st"
 twitter_username: dejpett
 github_username:  portableant
+paginate: 5
+paginate_path: "/blog/page:num/"
 # Build settings
 markdown: kramdown
 plugins:
