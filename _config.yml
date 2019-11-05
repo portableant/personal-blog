@@ -45,3 +45,6 @@ collections:
    technologies:
       output: true
       permalink: /:collection/:name
+   photogrammetry:
+      output: true
+      permalink: /:collection/:name
