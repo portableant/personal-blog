@@ -28,6 +28,8 @@ end: 2017-07-31
 date: 2019-10-29T22:51:56+01:00
 slug: day-of-archaeology
 status: inactive
+project_website: https://dayofarchaeology.com
+
 ---
 
 Have you ever wondered what archaeologists really get up to? Is it all just digging or is there a lot more to it? The Day of Archaeology project aims to provide a window into the daily lives of archaeologists from all over the world.  The project asks people working, studying or volunteering in the archaeological world to participate with us in a “Day of Archaeology” each year in the summer by recording their day and sharing it through text, images or video on this website.  The resulting Day of Archaeology project demonstrates the wide variety of work our profession undertakes day-to-day across the globe, and helps to raise public awareness of the relevance and importance of archaeology to the modern world. We want anyone with a personal, professional or voluntary interest in archaeology to get involved, and help highlight the reasons why archaeology is vital to protect the past and inform our futures.

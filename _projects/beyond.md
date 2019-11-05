@@ -39,6 +39,7 @@ news:
     url: https://www.cambridge-news.co.uk/news/cambridge-news/fitzwilliam-museum-cambridge-opening-party-17047289
     medium: Cambridgeshire live
     title: "The Fitzwilliam Museum's main gallery is re-opening after two years - and it's stunning"
+project_website: https://beyond-the-label.fitzmuseum.cam.ac.uk
 ---
 
 This project was a rapid sprint development of a digital intervention for the refurbished Gallery 3, the Fitzwilliam Museum's flagship gallery. We had been given the task by the gallery's curator, Jane Munro, to find a method to give visitors the chance to find out further information on the objects using digital means. This project was given the name "Beyond the Label" and was created with my colleagues from my department (George Doji and Rosie Forrest) and the curatorial team and a guest writer.

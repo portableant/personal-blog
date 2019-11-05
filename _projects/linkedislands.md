@@ -29,7 +29,6 @@ partners:
   - Open Context
 github_repo: https://github.com/fitzwilliammuseum/ahrc-linking-islands
 website: https://data-islands.fitzmuseum.cam.ac.uk
-zenodo_doi: ''
 start: 2019-02-01
 end: 2020-01-31
 date: 2019-10-29T22:51:56+01:00
