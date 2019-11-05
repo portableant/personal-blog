@@ -11,6 +11,7 @@ collaborators:
   - Abi Glen
 status: active
 thumbnail: cambridge_shield.jpg
+grant_amount: £5,000
 ---
 Our project, and other recently funded work, all respond to the challenges laid down in the Mendoza and DCMS Culture is Digital reports and dovetail with the Arts Council England’s emphasis on technology within the museum sector. We plan to deliver new ways of digital engagement, train our staff and create new opportunities.
 

@@ -8,6 +8,7 @@ funders:
   - GCRF
   - AHRC
 role: Co-Investigator GCRF
+grant_amount: £41,000
 collaborators:
   - Helen Strudwick
   - Julie Dawson

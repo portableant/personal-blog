@@ -5,6 +5,7 @@ institution: The Fitzwilliam Museum
 funders:
   - Cambridge Humanities Research Grants, Cambridge University
   - The British Academy/ The Leverhulme Trust
+grant_amount: £29,635
 role: Principal Investigator
 collaborators:
   - Lisa Gee

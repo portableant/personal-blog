@@ -5,7 +5,8 @@ institution: The Fitzwilliam Museum
 thumbnail: touch.jpg
 background: /images/layouts/touch.jpg
 funders:
-  - AHIF
+  - Cambridge University Industry Pump Priming Fund
+grant_amount: £18,000
 categories:
   - 3D
   - museums
