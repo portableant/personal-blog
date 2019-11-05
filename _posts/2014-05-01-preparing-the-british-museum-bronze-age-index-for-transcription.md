@@ -11,7 +11,7 @@ categories:
   - Techie stuff
 background: https://live.staticflickr.com/3854/coverphoto/115096994@N02_h.jpg?1410366389#115096994@N02
 ---
-Originally published at: http://research.micropasts.org/2014/04/30/preparing-the-index/
+Originally published at: [http://blog.micropasts.org/2014/04/30/preparing-the-index/](http://blog.micropasts.org/2014/04/30/preparing-the-index/)
 
 Since late 2013, the MicroPasts team has been preparing the [British Museum](http://britishmuseum.org)&#8216;s (BM) Bronze Age Index to be the first offering on our [crowd-sourcing platform](http://crowdsourced.micropasts.org "The MicroPasts crowd sourcing platform"). This corpus consists of around 30,000 (roughly A4 sized) cards (holding information going back to as early as 1913).  The majority of these are double sided and generally have text on the front and a line drawing on the reverse (there are many variants that have been discovered, such as large fold out shield plans.)
 
