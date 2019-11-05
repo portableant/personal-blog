@@ -31,7 +31,7 @@ partners:
   - The Petrie Museum
   - Museo MudA Las Plassas
   - The Portable Antiquities Scheme
-
+grant_amount: £394,395
 role: Co-Investigator
 status: active
 slug: micropasts-crowd-powered
