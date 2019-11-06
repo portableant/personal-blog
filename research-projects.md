@@ -16,9 +16,9 @@ to code, publications and funding details where possible.
   {% assign sorted = site.projects | sort:"title" %}
   {% for author in sorted limit:2 offset:offset %}
   <div class="col-md-6 mb-3">
-    <div class="card card-body h-100
-    intro-card ">
 
+    <div class="card card-body h-100 intro-card ">
+  <div class="container head" style="max-height:100;"></div>
     <div class="container h-100">
 
       <!-- start image block -->
