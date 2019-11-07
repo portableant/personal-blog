@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Jericho Skull
+background: /images/layouts/jericho.jpg
 ---
 
 A plastered human skull; the skull was taken as the base and the features of the face were modelled on it in plaster. One eye is made from a bivalve shell divided in two. The other has one, smaller, complete shell in place and is missing its twin.
