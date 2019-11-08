@@ -1,6 +1,7 @@
 ---
 title: The Parthenon Marbles
 layout: default
+background: /images/layouts/parthenon.jpg
 ---
 This collection of 3D scans depicts the Parthenon Marbles in the British Museum.
 

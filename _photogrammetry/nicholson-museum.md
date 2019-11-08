@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Nicholson Museum
+background: /images/layouts/nicholson.jpg
 ---
 
 These models were created during my fellowship at ANU during a tour of the museum from Dr Jamie Fraser.
