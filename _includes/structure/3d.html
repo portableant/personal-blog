@@ -1,7 +1,7 @@
 {% if page.github_repos %}
   <h3>Model data</h3>
   {% for repos in page.github_repos %}
-  <h4>{{ repo.title }}</h4>
+  <h4>{{ repos.title }}</h4>
   <ul>
     <li><a href="{{ repos.repo }}">Github repository</a></li>
     <li>License: {{ repos.license }}</li>
