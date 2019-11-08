@@ -1,6 +1,7 @@
 ---
 title: The Louvre, Abu Dhabi
 layout: default
+background: /images/layouts/louvre.jpg
 ---
 
 A lancer from the archer’s frieze, from Darius’s palace at Susa. This frieze panel is made from glazed siliceous bricks and dates to the Achaemenid Empire circa 510 BC.

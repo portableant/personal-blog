@@ -3,6 +3,7 @@
   min-height: 600px;
   background-attachment: fixed;
   background-size: cover;
+  background-position: center;
 }
 .jumbotron{
   margin-bottom: 0;

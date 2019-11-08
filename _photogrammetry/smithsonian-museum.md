@@ -1,6 +1,7 @@
 ---
-title: The Smithsonian Museum
+title: The Smithsonian Museums
 layout: default
+background: /images/layouts/si.jpg
 ---
 
 This collection of 3D scans was created during the AHRC UK/USA collaborative event in Washington DC in September 2019.

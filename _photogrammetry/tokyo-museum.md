@@ -1,6 +1,7 @@
 ---
 title: The Tokyo National Museum
 layout: default
+background: /images/layouts/tokyo.jpg
 ---
 
 This collection of 3D scans was created on a quick 3 day trip to Tokyo.

@@ -3,9 +3,9 @@
   {% for repos in page.github_repos %}
   <h4>{{ repo.title }}</h4>
   <ul>
-    <li>Repo: <a href="{{ repos.repo }}">{{ repos.repo }}</a></li>
+    <li><a href="{{ repos.repo }}">Github repository</a></li>
     <li>License: {{ repos.license }}</li>
-    <li>Sketchfab link: <a href="{{ repos.sketchfab }}">{{ repos.sketchfab }}</a></li>
+    <li><a href="{{ repos.sketchfab }}">Sketchfab</a></li>
   </ul>
   {% endfor %}
 {% endif %}
