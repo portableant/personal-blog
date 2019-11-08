@@ -16,16 +16,17 @@ to code, publications and funding details where possible.
   {% assign sorted = site.projects | sort:"title" %}
   {% for author in sorted limit:2 offset:offset %}
   <div class="col-md-6 mb-3">
+    <div class="card card-body h-100 intro-card">
+    <div class="col header mt-3"></div>
 
-    <div class="card card-body h-100 intro-card ">
-    <div class="container h-100">
+    <div class="container">
 
       <!-- start image block -->
-
+<!--
       <div class="cover-image ">
         <img class="align-self-center ml-1 mr-3 rounded-circle float-right thumb-post" src="{{ site.baseurl }}/images/projects/{{ author.thumbnail }}"
                      alt="{{page.title}}'s project image" height="150" width="150">
-      </div>
+      </div> -->
 
       <!-- end image block -->
 
