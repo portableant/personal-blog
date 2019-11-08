@@ -3,6 +3,7 @@ title: The Egyptian Galleries BM
 layout: default
 collection_id: fe1114a036824f86adbe596215675d56
 type: collection
+background: /images/layouts/night.jpg
 github_repos:
   -
     repo: https://github.com/portableant/rosettaStone

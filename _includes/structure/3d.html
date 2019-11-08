@@ -1,0 +1,11 @@
+{% if page.github_repos %}
+  <h3>Model data</h3>
+  {% for repos in page.github_repos %}
+  <h4>{{ repo.title }}</h4>
+  <ul>
+    <li>Repo: <a href="{{ repos.repo }}">{{ repos.repo }}</a></li>
+    <li>License: {{ repos.license }}</li>
+    <li>Sketchfab link: <a href="{{ repos.sketchfab }}">{{ repos.sketchfab }}</a></li>
+  </ul>
+  {% endfor %}
+{% endif %}

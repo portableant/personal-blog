@@ -59,6 +59,10 @@
       {% else %}
       <div class="container">
           {% include structure/project.html %}
+
+          {% if page.collection == 'photogrammetry' %}
+              {% include structure/3d.html %}
+          {% endif %}
           <p>
               {% if page.date %}
               <span class="chip chip-primary mb-1"><i class="chip-primary"><i class="material-icons">create</i></i> Created: {{ page.date | date_to_string }}</span>
