@@ -22,11 +22,11 @@ to code, publications and funding details where possible.
     <div class="container">
 
       <!-- start image block -->
-<!--
+
       <div class="cover-image ">
         <img class="align-self-center ml-1 mr-3 rounded-circle float-right thumb-post" src="{{ site.baseurl }}/images/projects/{{ author.thumbnail }}"
                      alt="{{page.title}}'s project image" height="150" width="150">
-      </div> -->
+      </div>
 
       <!-- end image block -->
 
