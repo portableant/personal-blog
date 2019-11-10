@@ -3,6 +3,7 @@ layout: default
 title: ANU Pecha Kucha - reflections on place.
 audience: academic
 country: Australia
+date: 2019-04-17
 city: Canberra
 attendance: 25
 background: /images/layouts/anu.jpg
