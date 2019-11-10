@@ -2,6 +2,13 @@
 title: The Louvre, Abu Dhabi
 layout: default
 background: /images/layouts/louvre.jpg
+github_repos:
+  -
+    repo: https://github.com/portableant/lancerAbuDhabiLouvre
+    license: CC-BY-NC
+    Title: An Achéménide Archer
+    sketchfab: https://sketchfab.com/models/e5bd5b90e3154345b924e4310f49c266
+    doi: 10.5281/zenodo.1232996
 ---
 
 A lancer from the archer’s frieze, from Darius’s palace at Susa. This frieze panel is made from glazed siliceous bricks and dates to the Achaemenid Empire circa 510 BC.

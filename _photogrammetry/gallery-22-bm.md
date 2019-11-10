@@ -1,6 +1,14 @@
 ---
 title: Gallery 22, British Museum
 layout: default
+github_repos:
+  -
+    repo: https://github.com/BritishMuseumDH/apothesisHomer
+    title: The Apothesis of Homer
+    license: CC-BY-NC-SA
+    sketchfab: https://sketchfab.com/models/fd691528b5fd4593ad2ac224fc2f19c5
+  -
+
 ---
 
 This collection of 3D scans was created for the British Museum's gallery 22.
