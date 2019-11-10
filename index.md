@@ -14,4 +14,11 @@ This is built on the Jekyll engine and hosted on Github pages and uses a modifie
 If you want to get in touch, I'm easy to find on social media...
 
 ## Get my publications and code
-[Orcid](https://orcid.org/0000-0002-0246-2335) [Google Scholar](https://scholar.google.com/citations?user=39kTD8YAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Daniel_Pett) [Academia](https://cambridge.academia.edu/DanielPett) [Github](https://github.com/portableant)
+
+<div class="btn-group" role="group" aria-label="Basic example">
+  <button type="button" class="btn btn-secondary"><a href="https://orcid.org/0000-0002-0246-2335">OrcID</a></button>
+  <button type="button" class="btn btn-secondary"><a href="https://scholar.google.com/citations?user=39kTD8YAAAAJ&hl=en">Google Scholar</a></button>
+  <button type="button" class="btn btn-secondary"><a href="https://www.researchgate.net/profile/Daniel_Pett">ResearchGate</a></button>
+  <button type="button" class="btn btn-secondary"><a href="https://cambridge.academia.edu/DanielPett">Academia</a></button>
+  <button type="button" class="btn btn-secondary"><a href="https://github.com/portableant">Github</a></button>
+</div>

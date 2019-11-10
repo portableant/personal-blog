@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Mold gold cape
+background: /images/layouts/cape-mold.jpg
 github_repos:
   -
     repo: https://github.com/BritishMuseumDH/moldGoldCape
@@ -13,7 +14,7 @@ A low resolution, first iteration of modeling the famous Mold Gold Cape. This is
 
 More information on [Google Cultural Institute](http://bit.ly/27UrKcp)
 
-<div class="embed-responsive embed-responsive-4by3">
+<div class="embed-responsive embed-responsive-4by3 mb-3">
     <iframe title="A 3D model" class="embed-responsive-item" src="https://sketchfab.com/models/c17b850e209041c5aa9c409763106b09/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </div>

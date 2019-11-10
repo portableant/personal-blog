@@ -1,12 +1,39 @@
 {% if page.github_repos %}
-  <h3>Model data</h3>
-  {% for repos in page.github_repos %}
-  <h4>{{ repos.title }}</h4>
-  <ul>
-    <li><a href="{{ repos.repo }}">Github repository</a></li>
-    <li>License: {{ repos.license }}</li>
-    <li><a href="{{ repos.sketchfab }}">Sketchfab</a></li>
-    <li>DOI: {{ repos.doi }}</li>
-  </ul>
+<h3 class="lead">Raw data for models</h3>
+{% assign rows = page.github_repos.size | divided_by: 2.0 | ceil %}
+{% for i in (1..rows) %}
+  {% assign offset = forloop.index0 | times: 2 %}
+  <div class="row">
+  {% assign sorted = page.github_repos %}
+  {% for post in sorted limit:2 offset:offset %}
+  <div class="col-md-6 mb-3">
+    <div class="card card-body h-100
+    intro-card ">
+
+    <div class="container h-100">
+
+      <div class="contents-label mb-3">
+        <h4>{{ post.title }}</h4>
+        <ul>
+          {% if post.repo != blank %}
+            <li><a href="{{ post.repo }}">Github repository</a></li>
+          {% endif %}
+          {% if post.license != blank %}
+            <li>License: {{ post.license }}</li>
+          {% endif %}
+          {% if post.sketchfab != blank %}
+            <li><a href="{{ post.sketchfab }}">Sketchfab</a></li>
+          {% endif %}
+          {% if post.doi != blank %}
+            <li>DOI: {{ post.doi }}</li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  </div>
+  {% endfor %}
+  </div>
   {% endfor %}
 {% endif %}

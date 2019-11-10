@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /photogrammetry/
-title: 3D scanning 
+title: 3D scanning
 background: /images/layouts/kyoto.jpg
 ---
 
@@ -31,7 +31,6 @@ background: /images/layouts/kyoto.jpg
       <h3>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </h3>
-        <p>{{ post.date | date_to_string }}</p>
         {% if post.content != 'blank' %}
         <p class="card-text">
         {{ post.content | strip_html | truncatewords: 20}}

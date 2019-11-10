@@ -2,7 +2,16 @@
 title: Gallery 33, British Museum
 layout: default
 background: /images/layouts/g33.jpg
-
+github_repos:
+  -
+    repo: https://github.com/BritishMuseumDH/amaravatiGuardianLion
+    title: A guardian lion from the stupa of Amaravati
+  -
+    repo: https://github.com/BritishMuseumDH/amaravatiMayaRelief
+    title: The Maya relief from the stupa of Amaravati
+  -
+    repo: https://github.com/BritishMuseumDH/amaravatiPanel
+    title: Panel from the stupa of Amaravati
 ---
 
 This collection of 3D scans was created for the British Museum's gallery 33.
