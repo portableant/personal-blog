@@ -6,8 +6,11 @@ country: USA
 city: Cleveland
 audience: Museums
 attendance: 40
+background: /images/layouts/cleveland.jpg
 ---
-<div class="embed-responsive embed-responsive-4by3 mb-3">
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQInWRYpEYPhOMc_5hUyxpHJcfqaNTFOsfWxhbpYZG1zzAhRnMpbdikareSZgK80axrH0hlbjXouVk/embed?start=false&loop=false&delayms=3000" frameborder="0" class="embed-responsive-item" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+A paper that I gave with Tom Flynn on the practical side of 3D, AR and VR with funding from Sketchfab at the Museums and the Web conference in Cleveland.
+
+<div class="embed-responsive embed-responsive-4by3 mb-3">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQInWRYpEYPhOMc_5hUyxpHJcfqaNTFOsfWxhbpYZG1zzAhRnMpbdikareSZgK80axrH0hlbjXouVk/embed?start=false&loop=false&delayms=3000" frameborder="0" class="embed-responsive-item" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>

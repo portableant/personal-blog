@@ -1,10 +1,5 @@
 
-.parallax {
-  min-height: 600px;
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center;
-}
+
 .jumbotron{
   margin-bottom: 0;
 }
@@ -32,9 +27,12 @@
     font-family: 'Yrsa', serif;
     font-size: 4rem;
   }
-  /* .jumbotron {
-  display: none;
-  } */
+  .parallax {
+    min-height: 600px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+  }
 }
 
 @media screen and (max-width: 400px) {
@@ -59,6 +57,12 @@
     color: white!important;
     font-family: 'Yrsa', serif;
     font-size: 4rem;
+  }
+  .parallax {
+    min-height: 400px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
   }
 }
 
@@ -94,7 +98,7 @@ video {
 .share  a {
   color: #fff;
 }
-.btn-group a {
+.getMeHere a {
     color: #fff;
 }
 .w3w a {

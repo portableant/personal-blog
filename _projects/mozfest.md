@@ -12,5 +12,6 @@ collaborators:
   - Roy Raudenhauser
   - Andrew Prescott
   - Melanie Pitkin
+background: /images/layouts/mozfest.jpg
 ---
-Since 2017, I've been attending Mozfest with museum professionals to see how we can interact and build a healthy and creative Internet. Our community is now growing at this fabulous event, driven by the brilliant Philo van Kemenade. 
+Since 2017, I've been attending Mozfest with museum professionals to see how we can interact and build a healthy and creative Internet. Our community is now growing at this fabulous event, driven by the brilliant Philo van Kemenade.
