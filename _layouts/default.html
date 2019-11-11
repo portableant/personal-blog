@@ -125,7 +125,8 @@
 // Creating map options
       var mapOptions = {
          center: [{{ page.lat }}, {{ page.lon }}],
-         zoom: 15
+         zoom: 15,
+         zoomControl: false
       }
       // Creating a map object
       var map = new L.map('map', mapOptions);
@@ -142,6 +143,10 @@
       // Adding layer to the map
 
       map.addLayer(layer);
+      map.dragging.disable();
+      map.touchZoom.disable();
+      map.doubleClickZoom.disable();
+      map.scrollWheelZoom.disable();
 </script>
 {% endif %}
 
