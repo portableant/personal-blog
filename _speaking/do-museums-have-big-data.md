@@ -13,4 +13,6 @@ lon: -0.54949932
 
 A paper that I prepared for Hannah Platts' AHRC UK/USA research network in August 2019.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRwbk8cpgxVWIKZmH6vHIZKsIu2r1Wrvz8msTmBzvaLThC4rI5remn_JC960cEKWA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1365" height="1053" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="embed-responsive embed-responsive-1by1 mb-3">
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRwbk8cpgxVWIKZmH6vHIZKsIu2r1Wrvz8msTmBzvaLThC4rI5remn_JC960cEKWA/embed?start=false&loop=false&delayms=3000" frameborder="0" class="emded-responsive-item" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
