@@ -7,6 +7,8 @@ city: Abu Dhabi
 audience: academic
 attendance: 30
 background: /images/layouts/louvre.jpg
+lat: 24.466667
+lon: 54.366669
 ---
 A paper I gave on the technical side of 3D for the ReACH workshop at the DCT in Abu Dhabi on behalf of the V&A.
 
