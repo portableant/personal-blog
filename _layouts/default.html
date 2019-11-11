@@ -14,6 +14,9 @@
     {% seo %}
     {% include /structure/feeds.html %}
     {% include analytics.html %}
+    {% if page.lat and page.lon %}
+    {% include /structure/mapscss.html %}
+    {% endif %}
 </head>
 <body class="doc-body">
 
@@ -90,14 +93,39 @@
             {% include structure/carousel.html %}
         </div>
     </div>
+
     {% endif %}
+    <div class="container-fluid">
+      {% if page.lat and page.lon %}
+        <h3>Talk location</h3>
+          <div id="map" class="mb-3 map-container" ></div>
+      {% endif %}
+    </div>
     {% include share_buttons.html %}
 </div>
 
 
+
+
 {% include structure/footer.html %}
 {% include structure/javascript.html %}
+{% if page.lat and page.lon %}
+{% include structure/maps.html %}
+<script type="text/javascript">
 
+// Creating map options
+      var mapOptions = {
+         center: [{{ page.lat }}, {{ page.lon }}],
+         zoom: 18
+      }
+      // Creating a map object
+      var map = new L.map('map', mapOptions);
+      // Creating a Layer object
+      var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+      // Adding layer to the map
+      map.addLayer(layer);
+</script>
+{% endif %}
 
 
 </body>

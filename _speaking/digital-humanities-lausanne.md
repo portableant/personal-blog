@@ -7,6 +7,8 @@ audience: academic
 attendance: 60
 country: Switzerland
 city: Lausanne
+lat: 46.87527778
+lon: 6.95222222
 ---
 This paper was presented at DH 2014 at EPFL Lausanne, Switzerland.
 

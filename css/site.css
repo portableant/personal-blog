@@ -347,3 +347,7 @@ body {
 .min-height-250 {
   min-height: 250px;
 }
+.map-container {
+  height: 400px;
+  width: 100%;
+}
