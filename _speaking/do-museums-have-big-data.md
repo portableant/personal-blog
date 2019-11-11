@@ -7,6 +7,8 @@ audience: academic/public
 attendance: 10
 city: Egham
 country: United Kingdom
+lat: 51.43140030
+lon: -0.54949932
 ---
 
 A paper that I prepared for Hannah Platts' AHRC UK/USA research network in August 2019.

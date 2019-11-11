@@ -7,6 +7,8 @@ city: Washington DC
 country: USA
 lat: 38.891064
 lon: -77.032614
+audience: academic
+attendance: 150
 ---
 A lightning talk for the AHRC event in DC given at the new Smithsonian National Museum of African American History & Culture in the Oprah Winfrey theatre.
 

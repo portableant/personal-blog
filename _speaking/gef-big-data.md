@@ -7,6 +7,8 @@ city: Stirling
 background: /images/layouts/stirling.jpg
 audience: academic/public
 attendance: 50
+lat: 56.11903
+lon: -3.93682
 ---
 This was the introduction piece for the Stirling/UCL big data event.
 

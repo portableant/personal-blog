@@ -7,6 +7,8 @@ attendance: 40
 audience: academic
 country: America
 city: East Lansing
+lat:  42.73698
+lon: -84.48387
 ---
 This presentation was made at the Michigan State University Digital Archaeology Institute for Method and Practise in 2016.
 

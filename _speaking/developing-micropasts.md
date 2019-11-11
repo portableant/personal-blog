@@ -6,6 +6,9 @@ country: France
 date: 2014-04-24
 lat: 48.84249663
 lon: 2.339331976
+background: /images/layouts/micropasts.jpg
+audience: academic
+attendance: 45
 ---
 
 A talk given by Chiara Bonnachi at CAA Paris on the MicroPasts team's behalf.

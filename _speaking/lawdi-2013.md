@@ -7,6 +7,8 @@ country: USA
 city: Madison
 audience: academic
 attendance: 30
+lat: 40.75982
+lon: -74.4171
 ---
 A paper that I gave at the second NEH funded Linked Ancient World Data Institute at Drew University.
 

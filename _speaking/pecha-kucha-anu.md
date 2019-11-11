@@ -7,6 +7,8 @@ date: 2019-04-17
 city: Canberra
 attendance: 25
 background: /images/layouts/anu.jpg
+lat: -35.2764
+lon: 149.1205
 ---
 This was the first pecha-kucha paper I have ever presented and was for a symposium on place at ANU.
 

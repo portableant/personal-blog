@@ -5,6 +5,10 @@ layout: default
 background: /images/layouts/ceef3d.jpg
 lat: 52.205276
 lon: 0.119167
+city: Cambridge
+country: United Kingdom
+attendance: 93
+audience: academic
 ---
 
 Introduction talk for the AHRC funded CEEF 3D conference. This set the scene for the day.

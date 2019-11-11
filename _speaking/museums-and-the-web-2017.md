@@ -7,6 +7,8 @@ city: Cleveland
 audience: Museums
 attendance: 40
 background: /images/layouts/cleveland.jpg
+lat: 41.4995
+lon: -81.69541
 ---
 
 A paper that I gave with Tom Flynn on the practical side of 3D, AR and VR with funding from Sketchfab at the Museums and the Web conference in Cleveland.

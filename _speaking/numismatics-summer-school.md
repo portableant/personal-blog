@@ -3,6 +3,8 @@ layout: default
 title: Numismatics Summer School British Museum
 background: /images/layouts/coins.jpg
 date: 2017-06-01
+lat: 51.518757
+lon: -0.126168
 ---
 
 A paper for graduate students on the Numismatics summer school of the British Museum's Coins and Medals department.
