@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Numsimatics Summer School British Museum
+title: Numismatics Summer School British Museum
 background: /images/layouts/coins.jpg
 date: 2017-06-01
 ---
