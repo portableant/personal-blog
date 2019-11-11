@@ -66,18 +66,32 @@
           {% if page.collection == 'photogrammetry' %}
               {% include structure/3d.html %}
           {% endif %}
+      </div>
+      {% if page.lat and page.lon %}
+      <div class="container-fluid">
+
+          <h3>Talk location</h3>
+            <div id="map" class="mb-3 map-container" ></div>
+
+      </div>
+      {% endif %}
+      <div class="container">
           <p>
               {% if page.date %}
-              <span class="chip chip-primary mb-1"><i class="chip-primary"><i class="material-icons">create</i></i> Created: {{ page.date | date_to_string }}</span>
+              <span class="chip chip-primary mb-1"><i
+                class="chip-primary"><i class="material-icons">create</i></i>
+                Created: {{ page.date | date_to_string }}</span>
               {% endif %}
 
               {% if page.category %}
               <span class="chip chip-primary mb-1"><i class="chip-primary"><i
-                      class="material-icons small">category</i></i>Category: {{ page.category }}</span>
+                      class="material-icons small">category</i></i>Category:
+                      {{ page.category }}</span>
               {% endif %}
 
               {% for tags in page.tags %}
-              <span class="chip chip-primary mb-1"><i class="chip-primary"><i class="material-icons small">label</i></i>{{ tags }}</span>
+              <span class="chip chip-primary mb-1"><i class="chip-primary"><i
+                class="material-icons small">label</i></i>{{ tags }}</span>
               {% endfor %}
           </p>
       </div>
@@ -95,12 +109,7 @@
     </div>
 
     {% endif %}
-    <div class="container-fluid">
-      {% if page.lat and page.lon %}
-        <h3>Talk location</h3>
-          <div id="map" class="mb-3 map-container" ></div>
-      {% endif %}
-    </div>
+
     {% include share_buttons.html %}
 </div>
 
