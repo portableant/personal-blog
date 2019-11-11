@@ -7,6 +7,8 @@ audience: academic
 country: France
 city: Paris
 attendance: 30
+lat: 48.84249663
+lon: 2.339331976
 ---
 
 This paper was given at CAA Paris in 2014 in a session on Linked Open Data and details the approach taken with the Portable Antiquities Scheme's database.
