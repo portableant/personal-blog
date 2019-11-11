@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
     <title>{{page.title}}</title>
@@ -10,12 +9,10 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     {% include /structure/css.html %}
-
     {% seo %}
-    {% include /structure/feeds.html %}
     {% include analytics.html %}
     {% if page.lat and page.lon %}
-    {% include /structure/mapscss.html %}
+      {% include /structure/mapscss.html %}
     {% endif %}
 </head>
 <body class="doc-body">
