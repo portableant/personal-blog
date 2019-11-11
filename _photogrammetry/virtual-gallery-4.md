@@ -4,6 +4,9 @@ layout: default
 collection_id: fe1114a036824f86adbe596215675d56
 type: collection
 background: /images/layouts/night.jpg
+lat: 51.519400
+lon: -0.126924
+updated: 2019-11-11
 github_repos:
   -
     repo: https://github.com/portableant/rosettaStone

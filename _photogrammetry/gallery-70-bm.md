@@ -2,6 +2,8 @@
 title: Gallery 70, British Museum
 layout: default
 background: /images/layouts/hound.jpg
+lat: 51.519400
+lon: -0.126924
 github_repos:
   -
     repo: https://github.com/BritishMuseumDH/vespasian

@@ -2,6 +2,8 @@
 title: The Louvre, Abu Dhabi
 layout: default
 background: /images/layouts/louvre.jpg
+lat: 24.534291
+lon: 54.398329
 github_repos:
   -
     repo: https://github.com/portableant/lancerAbuDhabiLouvre

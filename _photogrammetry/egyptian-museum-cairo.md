@@ -2,7 +2,8 @@
 title: The Egyptian Museum, Cairo
 layout: default
 background: /images/layouts/cairo.jpg
-
+lat: 30.047472
+lon: 31.233682
 ---
 This collection of 3D scans was made during the second set of Fitzwilliam Museum collaborative work with the EMC.
 

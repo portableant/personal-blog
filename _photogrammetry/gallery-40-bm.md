@@ -2,6 +2,8 @@
 title: Lewis Chessmen, British Museum
 layout: default
 background: /images/layouts/lewis.jpg
+lat: 51.519400
+lon: -0.126924
 ---
 
 This collection of 3D scans was created for the British Museum's gallery 40.

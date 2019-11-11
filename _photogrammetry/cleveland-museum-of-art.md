@@ -2,6 +2,10 @@
 layout: default
 title: The Cleveland Museum of Art
 background: /images/layouts/cleveland.jpg
+country: USA
+city: Cleveland
+lat: 41.509218
+lon: -81.612038
 github_repos:
   -
     repo: https://github.com/portableant/clevelandBuddha

@@ -2,6 +2,8 @@
 title: The Parthenon Marbles
 layout: default
 background: /images/layouts/parthenon.jpg
+lat: 51.519400
+lon: -0.126924
 ---
 This collection of 3D scans depicts the Parthenon Marbles in the British Museum.
 

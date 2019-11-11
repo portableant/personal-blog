@@ -2,6 +2,8 @@
 title: Project Nineveh
 layout: default
 background: /images/layouts/the_siege_of_lachish.jpg
+lat: 51.519400
+lon: -0.126924
 ---
 This collection of 3D scans comprises of the reliefs held within the British Museum's Assyrian galleries on the ground floor.
 

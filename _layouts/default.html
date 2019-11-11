@@ -70,7 +70,7 @@
       {% if page.lat and page.lon %}
       <div class="container-fluid">
 
-          <h3>Talk location</h3>
+          <h3>Location</h3>
             <div id="map" class="mb-3 map-container" ></div>
 
       </div>
@@ -125,13 +125,22 @@
 // Creating map options
       var mapOptions = {
          center: [{{ page.lat }}, {{ page.lon }}],
-         zoom: 18
+         zoom: 15
       }
       // Creating a map object
       var map = new L.map('map', mapOptions);
       // Creating a Layer object
       var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+      // create custom icon
+      var firefoxIcon = L.icon({
+        iconUrl: '/images/museum.svg',
+        iconSize: [26,26], // size of the icon
+        });
+
+        // create marker object, pass custom icon as option, add to map
+      var marker = L.marker([{{ page.lat }}, {{ page.lon }}], {icon: firefoxIcon}).addTo(map);
       // Adding layer to the map
+
       map.addLayer(layer);
 </script>
 {% endif %}

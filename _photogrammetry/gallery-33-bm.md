@@ -2,6 +2,8 @@
 title: Gallery 33, British Museum
 layout: default
 background: /images/layouts/g33.jpg
+lat: 51.519400
+lon: -0.126924
 github_repos:
   -
     repo: https://github.com/BritishMuseumDH/amaravatiGuardianLion

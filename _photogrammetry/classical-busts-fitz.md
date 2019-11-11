@@ -2,6 +2,10 @@
 title: The Fitzwilliam Museum Classical Busts
 layout: default
 background: /images/layouts/antinous.jpg
+city: Cambridge
+country: England
+lat: 52.200205
+lon: 0.119892
 ---
 
 This collection of 3D scans was created for the Fitzwilliam Museum's Classical Archaeology collection.

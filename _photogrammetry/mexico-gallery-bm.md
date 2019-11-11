@@ -2,6 +2,8 @@
 title: The Maya lintels
 layout: default
 background: /images/layouts/mexico.jpg
+lat: 51.519400
+lon: -0.126924
 ---
 
 Yaxchilan Lintels from the British Museum Mexico gallery.

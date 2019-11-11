@@ -1,7 +1,11 @@
 ---
-title: The Australia National University
+title: The Australian National University
 layout: default
 background: /images/layouts/anu.jpg
+country: Australia
+city: Canberra
+lat: -35.277779
+lon: 149.118388
 ---
 
 This collection of 3D scans was created during my fellowship at ANU.
