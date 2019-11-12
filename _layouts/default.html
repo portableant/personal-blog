@@ -128,6 +128,13 @@
       // Creating a map object
       var map = new L.map('map', mapOptions);
       // Creating a Layer object
+      var Stamen_TonerLite = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}{r}.{ext}', {
+      	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      	subdomains: 'abcd',
+      	minZoom: 0,
+      	maxZoom: 20,
+      	ext: 'png'
+      });
       var layer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
       // create custom icon
       var firefoxIcon = L.icon({
@@ -139,7 +146,7 @@
       var marker = L.marker([{{ page.lat }}, {{ page.lon }}], {icon: firefoxIcon}).addTo(map);
       // Adding layer to the map
 
-      map.addLayer(layer);
+      map.addLayer(Stamen_TonerLite);
       map.dragging.disable();
       map.touchZoom.disable();
       map.doubleClickZoom.disable();
