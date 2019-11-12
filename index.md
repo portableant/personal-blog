@@ -15,9 +15,9 @@ If you want to get in touch, I'm easy to find on social media...
 
 ## Get my publications and code
 <div class="getMeHere">
-  <button type="button" class="btn btn-secondary m-1"><a href="https://orcid.org/0000-0002-0246-2335">OrcID</a></button>
-  <button type="button" class="btn btn-secondary m-1"><a href="https://scholar.google.com/citations?user=39kTD8YAAAAJ&hl=en">Google Scholar</a></button>
-  <button type="button" class="btn btn-secondary m-1"><a href="https://www.researchgate.net/profile/Daniel_Pett">ResearchGate</a></button>
-  <button type="button" class="btn btn-secondary m-1"><a href="https://cambridge.academia.edu/DanielPett">Academia</a></button>
-  <button type="button" class="btn btn-secondary m-1"><a href="https://github.com/portableant">Github</a></button>
+  <button type="button" class="btn btn-dark m-1"><a href="https://orcid.org/0000-0002-0246-2335">OrcID</a></button>
+  <button type="button" class="btn btn-dark m-1"><a href="https://scholar.google.com/citations?user=39kTD8YAAAAJ&hl=en">Google Scholar</a></button>
+  <button type="button" class="btn btn-dark m-1"><a href="https://www.researchgate.net/profile/Daniel_Pett">ResearchGate</a></button>
+  <button type="button" class="btn btn-dark m-1"><a href="https://cambridge.academia.edu/DanielPett">Academia</a></button>
+  <button type="button" class="btn btn-dark m-1"><a href="https://github.com/portableant">Github</a></button>
 </div>
